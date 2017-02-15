@@ -55,16 +55,16 @@ G71174	1277	1176	δεκαοκτώ	pos: A<br />full-citation-form: δεκαοκτ
 G71187	1290	127	δέος	pos: N<br />full-citation-form: δέος, ους, τό<br />bdag-headword: δέος<br />danker-entry: δέος, ους, τ ό<br />mounce-headword: δέος<br />gk: 1290<br />mounce-morphcat: n-3d(2b)
 G71241	1350	1245	διακαθαίρω	pos: V<br />bdag-headword: διακαθαίρω<br />danker-entry: διακαθαίρω<br />mounce-headword: διακαθαίρω<br />gk: 1350<br />mounce-morphcat: cv-2d(2)
 G71272	1384	3859	διαπαρατριβή	pos: N<br />full-citation-form: διαπαρατριβή, ῆς, ἡ<br />bdag-headword: διαπαρατριβή<br />danker-entry: διαπαρατριβή, ῆς, ἡ<br />mounce-headword: διαπαρατριβή<br />gk: 1384<br />mounce-morphcat: n-1b
-G71281	1396	διαρρήγνυμι	pos: V<br />bdag-headword: διαρρήγνυμι<br />danker-entry: δια(ρ)ρήγνυμι/διαρήσσω<br />mounce-headword: διαρρήγνυμι<br />gk: 1396<br />mounce-morphcat: cv-3c(2)
-G71312	1430	διαχλευάζω	pos: V<br />bdag-headword: διαχλευάζω<br />danker-entry: διαχλευάζω<br />mounce-headword: διαχλευάζω<br />gk: 1430<br />mounce-morphcat: cv-2a(1)
-G71324	1445	διενθυμέομαι	pos: V<br />bdag-headword: διενθυμέομαι<br />danker-entry: διενθυμέομαι<br />mounce-headword: διενθυμέομαι<br />gk: 1445<br />mounce-morphcat: cv-1b(2a)
-G71355	1480	διόρθωμα	pos: N<br />full-citation-form: διόρθωμα, ατος, τό<br />bdag-headword: διόρθωμα<br />danker-entry: διόρθωμα, ατος, τό<br />mounce-headword: διόρθωμα<br />gk: 1480<br />mounce-morphcat: n-3c(4)
-G71364	1490	δισμυριάς	pos: N<br />full-citation-form: δισμυριάς, άδος, ἡ<br />bdag-headword: δισμυριάς<br />danker-entry: δισμυριάς, άδος, ἡ<br />mounce-headword: δισμυριάς<br />gk: 1490<br />mounce-morphcat: n-3c(2)
-G71382	1508	δοκιμασία	pos: N<br />full-citation-form: δοκιμασία, ας, ἡ<br />bdag-headword: δοκιμασία<br />danker-entry: δοκιμασία, ας, ἡ<br />mounce-headword: δοκιμασία<br />gk: 1508<br />mounce-morphcat: n-1a
-G71421	1550	δύσις	pos: N<br />full-citation-form: δύσις, εως, ἡ<br />bdag-headword: δύσις<br />danker-entry: δύσις, εως, ἡ<br />mounce-headword: δύσις<br />gk: 1550
-G71426	1555	δυσφημέω	pos: V<br />bdag-headword: δυσφημέω<br />danker-entry: δυσφημέω<br />mounce-headword: δυσφημέω<br />gk: 1555<br />mounce-morphcat: cv-
-G71439	1570	ἐάνπερ	pos: C/COND<br />bdag-headword: ἐάνπερ<br />danker-entry: ἐάνπερ<br />mounce-headword: ἐάνπερ<br />gk: 1570<br />mounce-morphcat: particle
-G71463	1595	ἐγκαυχάομαι	pos: V<br />bdag-headword: ἐγκαυχάομαι<br />danker-entry: ἐγκαυχάομαι<br />mounce-headword: ἐγκαυχάομαι<br />gk: 1595<br />mounce-morphcat: cv-1d(1a)
+G71281	1396	1284	διαρρήγνυμι	pos: V<br />bdag-headword: διαρρήγνυμι<br />danker-entry: δια(ρ)ρήγνυμι/διαρήσσω<br />mounce-headword: διαρρήγνυμι<br />gk: 1396<br />mounce-morphcat: cv-3c(2)
+G71312	1430	5512	διαχλευάζω	pos: V<br />bdag-headword: διαχλευάζω<br />danker-entry: διαχλευάζω<br />mounce-headword: διαχλευάζω<br />gk: 1430<br />mounce-morphcat: cv-2a(1)
+G71324	1445	1760	διενθυμέομαι	pos: V<br />bdag-headword: διενθυμέομαι<br />danker-entry: διενθυμέομαι<br />mounce-headword: διενθυμέομαι<br />gk: 1445<br />mounce-morphcat: cv-1b(2a)
+G71355	1480	2735	διόρθωμα	pos: N<br />full-citation-form: διόρθωμα, ατος, τό<br />bdag-headword: διόρθωμα<br />danker-entry: διόρθωμα, ατος, τό<br />mounce-headword: διόρθωμα<br />gk: 1480<br />mounce-morphcat: n-3c(4)
+G71364	1490	1417	δισμυριάς	pos: N<br />full-citation-form: δισμυριάς, άδος, ἡ<br />bdag-headword: δισμυριάς<br />danker-entry: δισμυριάς, άδος, ἡ<br />mounce-headword: δισμυριάς<br />gk: 1490<br />mounce-morphcat: n-3c(2)
+G71382	1508	1381	δοκιμασία	pos: N<br />full-citation-form: δοκιμασία, ας, ἡ<br />bdag-headword: δοκιμασία<br />danker-entry: δοκιμασία, ας, ἡ<br />mounce-headword: δοκιμασία<br />gk: 1508<br />mounce-morphcat: n-1a
+G71421	1550	＊	δύσις	pos: N<br />full-citation-form: δύσις, εως, ἡ<br />bdag-headword: δύσις<br />danker-entry: δύσις, εως, ἡ<br />mounce-headword: δύσις<br />gk: 1550
+G71426	1555	987	δυσφημέω	pos: V<br />bdag-headword: δυσφημέω<br />danker-entry: δυσφημέω<br />mounce-headword: δυσφημέω<br />gk: 1555<br />mounce-morphcat: cv-
+G71439	1570	1437	ἐάνπερ	pos: C/COND<br />bdag-headword: ἐάνπερ<br />danker-entry: ἐάνπερ<br />mounce-headword: ἐάνπερ<br />gk: 1570<br />mounce-morphcat: particle
+G71463	1595	2620	ἐγκαυχάομαι	pos: V<br />bdag-headword: ἐγκαυχάομαι<br />danker-entry: ἐγκαυχάομαι<br />mounce-headword: ἐγκαυχάομαι<br />gk: 1595<br />mounce-morphcat: cv-1d(1a)
 G71490	1624	εἰδέα	pos: N<br />full-citation-form: εἰδέα, ας, ἡ<br />bdag-headword: εἰδέα<br />danker-entry: εἰδέα, ας, ἡ<br />mounce-headword: εἰδέα<br />gk: 1624<br />mounce-morphcat: n-1a
 G71504	1641	εἵνεκεν	pos: P<br />bdag-headword: εἵνεκεν<br />danker-entry: εἵνεκεν<br />mounce-headword: εἵνεκεν<br />gk: 1641<br />mounce-morphcat: prep
 G71534	1673	ἑκατόνταρχος	pos: N<br />full-citation-form: ἑκατόνταρχος, ου, ὁ<br />bdag-headword: ἑκατόνταρχος<br />danker-entry: ἑκατοντάρχης, ου / ἑκατόνταρχος, ου, ὁ<br />mounce-headword: ἑκατόνταρχος<br />gk: 1673<br />mounce-morphcat: n-2a
