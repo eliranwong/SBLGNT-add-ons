@@ -1,0 +1,602 @@
+A.APF	adjective, accusative, plural, feminine
+A.APFC	adjective, accusative, plural, feminine, comparative
+A.APM	adjective, accusative, plural, masculine
+A.APMC	adjective, accusative, plural, masculine, comparative
+A.APN	adjective, accusative, plural, neuter
+A.APNC	adjective, accusative, plural, neuter, comparative
+A.APNS	adjective, accusative, plural, neuter, superlative
+A.ASF	adjective, accusative, singular, feminine
+A.ASFC	adjective, accusative, singular, feminine, comparative
+A.ASFS	adjective, accusative, singular, feminine, superlative
+A.ASM	adjective, accusative, singular, masculine
+A.ASMC	adjective, accusative, singular, masculine, comparative
+A.ASN	adjective, accusative, singular, neuter
+A.ASNC	adjective, accusative, singular, neuter, comparative
+A.ASNS	adjective, accusative, singular, neuter, superlative
+A.DPF	adjective, dative, plural, feminine
+A.DPFC	adjective, dative, plural, feminine, comparative
+A.DPM	adjective, dative, plural, masculine
+A.DPMC	adjective, dative, plural, masculine, comparative
+A.DPN	adjective, dative, plural, neuter
+A.DPNS	adjective, dative, plural, neuter, superlative
+A.DSF	adjective, dative, singular, feminine
+A.DSFC	adjective, dative, singular, feminine, comparative
+A.DSFS	adjective, dative, singular, feminine, superlative
+A.DSM	adjective, dative, singular, masculine
+A.DSMC	adjective, dative, singular, masculine, comparative
+A.DSMS	adjective, dative, singular, masculine, superlative
+A.DSN	adjective, dative, singular, neuter
+A.DSNC	adjective, dative, singular, neuter, comparative
+A.DSNS	adjective, dative, singular, neuter, superlative
+A.GPF	adjective, genitive, plural, feminine
+A.GPFS	adjective, genitive, plural, feminine, superlative
+A.GPM	adjective, genitive, plural, masculine
+A.GPMC	adjective, genitive, plural, masculine, comparative
+A.GPMS	adjective, genitive, plural, masculine, superlative
+A.GPN	adjective, genitive, plural, neuter
+A.GPNC	adjective, genitive, plural, neuter, comparative
+A.GPNS	adjective, genitive, plural, neuter, superlative
+A.GSF	adjective, genitive, singular, feminine
+A.GSFC	adjective, genitive, singular, feminine, comparative
+A.GSM	adjective, genitive, singular, masculine
+A.GSMC	adjective, genitive, singular, masculine, comparative
+A.GSMS	adjective, genitive, singular, masculine, superlative
+A.GSN	adjective, genitive, singular, neuter
+A.GSNS	adjective, genitive, singular, neuter, superlative
+A.NPF	adjective, nominative, plural, feminine
+A.NPFC	adjective, nominative, plural, feminine, comparative
+A.NPFS	adjective, nominative, plural, feminine, superlative
+A.NPM	adjective, nominative, plural, masculine
+A.NPMC	adjective, nominative, plural, masculine, comparative
+A.NPN	adjective, nominative, plural, neuter
+A.NPNC	adjective, nominative, plural, neuter, comparative
+A.NSF	adjective, nominative, singular, feminine
+A.NSFC	adjective, nominative, singular, feminine, comparative
+A.NSFS	adjective, nominative, singular, feminine, superlative
+A.NSM	adjective, nominative, singular, masculine
+A.NSMC	adjective, nominative, singular, masculine, comparative
+A.NSMS	adjective, nominative, singular, masculine, superlative
+A.NSN	adjective, nominative, singular, neuter
+A.NSNC	adjective, nominative, singular, neuter, comparative
+A.VPF	adjective, vocative, plural, feminine
+A.VPM	adjective, vocative, plural, masculine
+A.VPMC	adjective, vocative, plural, masculine, comparative
+A.VSF	adjective, vocative, singular, feminine
+A.VSM	adjective, vocative, singular, masculine
+A.VSMS	adjective, vocative, singular, masculine, superlative
+C	conjunction
+D	adverb
+D.C	adverb, comparative
+I	interjection
+N.APF	noun, accusative, plural, feminine
+N.APM	noun, accusative, plural, masculine
+N.APN	noun, accusative, plural, neuter
+N.ASF	noun, accusative, singular, feminine
+N.ASM	noun, accusative, singular, masculine
+N.ASN	noun, accusative, singular, neuter
+N.DPF	noun, dative, plural, feminine
+N.DPM	noun, dative, plural, masculine
+N.DPN	noun, dative, plural, neuter
+N.DSF	noun, dative, singular, feminine
+N.DSM	noun, dative, singular, masculine
+N.DSN	noun, dative, singular, neuter
+N.GPF	noun, genitive, plural, feminine
+N.GPM	noun, genitive, plural, masculine
+N.GPN	noun, genitive, plural, neuter
+N.GSF	noun, genitive, singular, feminine
+N.GSM	noun, genitive, singular, masculine
+N.GSN	noun, genitive, singular, neuter
+N.NPF	noun, nominative, plural, feminine
+N.NPM	noun, nominative, plural, masculine
+N.NPN	noun, nominative, plural, neuter
+N.NSF	noun, nominative, singular, feminine
+N.NSM	noun, nominative, singular, masculine
+N.NSN	noun, nominative, singular, neuter
+N.VPF	noun, vocative, plural, feminine
+N.VPM	noun, vocative, plural, masculine
+N.VPN	noun, vocative, plural, neuter
+N.VSF	noun, vocative, singular, feminine
+N.VSM	noun, vocative, singular, masculine
+N.VSN	noun, vocative, singular, neuter
+P	preposition
+RA.APF	definite article, accusative, plural, feminine
+RA.APM	definite article, accusative, plural, masculine
+RA.APN	definite article, accusative, plural, neuter
+RA.ASF	definite article, accusative, singular, feminine
+RA.ASM	definite article, accusative, singular, masculine
+RA.ASN	definite article, accusative, singular, neuter
+RA.DPF	definite article, dative, plural, feminine
+RA.DPM	definite article, dative, plural, masculine
+RA.DPN	definite article, dative, plural, neuter
+RA.DSF	definite article, dative, singular, feminine
+RA.DSM	definite article, dative, singular, masculine
+RA.DSN	definite article, dative, singular, neuter
+RA.GPF	definite article, genitive, plural, feminine
+RA.GPM	definite article, genitive, plural, masculine
+RA.GPN	definite article, genitive, plural, neuter
+RA.GSF	definite article, genitive, singular, feminine
+RA.GSM	definite article, genitive, singular, masculine
+RA.GSN	definite article, genitive, singular, neuter
+RA.NPF	definite article, nominative, plural, feminine
+RA.NPM	definite article, nominative, plural, masculine
+RA.NPN	definite article, nominative, plural, neuter
+RA.NSF	definite article, nominative, singular, feminine
+RA.NSM	definite article, nominative, singular, masculine
+RA.NSN	definite article, nominative, singular, neuter
+RD.APF	demonstrative pronoun, accusative, plural, feminine
+RD.APM	demonstrative pronoun, accusative, plural, masculine
+RD.APN	demonstrative pronoun, accusative, plural, neuter
+RD.ASF	demonstrative pronoun, accusative, singular, feminine
+RD.ASM	demonstrative pronoun, accusative, singular, masculine
+RD.ASN	demonstrative pronoun, accusative, singular, neuter
+RD.DPF	demonstrative pronoun, dative, plural, feminine
+RD.DPM	demonstrative pronoun, dative, plural, masculine
+RD.DPN	demonstrative pronoun, dative, plural, neuter
+RD.DSF	demonstrative pronoun, dative, singular, feminine
+RD.DSM	demonstrative pronoun, dative, singular, masculine
+RD.DSN	demonstrative pronoun, dative, singular, neuter
+RD.GPF	demonstrative pronoun, genitive, plural, feminine
+RD.GPM	demonstrative pronoun, genitive, plural, masculine
+RD.GPN	demonstrative pronoun, genitive, plural, neuter
+RD.GSF	demonstrative pronoun, genitive, singular, feminine
+RD.GSM	demonstrative pronoun, genitive, singular, masculine
+RD.GSN	demonstrative pronoun, genitive, singular, neuter
+RD.NPF	demonstrative pronoun, nominative, plural, feminine
+RD.NPM	demonstrative pronoun, nominative, plural, masculine
+RD.NPN	demonstrative pronoun, nominative, plural, neuter
+RD.NSF	demonstrative pronoun, nominative, singular, feminine
+RD.NSM	demonstrative pronoun, nominative, singular, masculine
+RD.NSN	demonstrative pronoun, nominative, singular, neuter
+RI.APF	interrogative/indefinite pronoun, accusative, plural, feminine
+RI.APM	interrogative/indefinite pronoun, accusative, plural, masculine
+RI.APN	interrogative/indefinite pronoun, accusative, plural, neuter
+RI.ASF	interrogative/indefinite pronoun, accusative, singular, feminine
+RI.ASM	interrogative/indefinite pronoun, accusative, singular, masculine
+RI.ASN	interrogative/indefinite pronoun, accusative, singular, neuter
+RI.DPM	interrogative/indefinite pronoun, dative, plural, masculine
+RI.DPN	interrogative/indefinite pronoun, dative, plural, neuter
+RI.DSF	interrogative/indefinite pronoun, dative, singular, feminine
+RI.DSM	interrogative/indefinite pronoun, dative, singular, masculine
+RI.DSN	interrogative/indefinite pronoun, dative, singular, neuter
+RI.GPF	interrogative/indefinite pronoun, genitive, plural, feminine
+RI.GPM	interrogative/indefinite pronoun, genitive, plural, masculine
+RI.GPN	interrogative/indefinite pronoun, genitive, plural, neuter
+RI.GSF	interrogative/indefinite pronoun, genitive, singular, feminine
+RI.GSM	interrogative/indefinite pronoun, genitive, singular, masculine
+RI.GSN	interrogative/indefinite pronoun, genitive, singular, neuter
+RI.NPF	interrogative/indefinite pronoun, nominative, plural, feminine
+RI.NPM	interrogative/indefinite pronoun, nominative, plural, masculine
+RI.NPN	interrogative/indefinite pronoun, nominative, plural, neuter
+RI.NSF	interrogative/indefinite pronoun, nominative, singular, feminine
+RI.NSM	interrogative/indefinite pronoun, nominative, singular, masculine
+RI.NSN	interrogative/indefinite pronoun, nominative, singular, neuter
+RP.AP	personal pronoun, accusative, plural
+RP.APF	personal pronoun, accusative, plural, feminine
+RP.APM	personal pronoun, accusative, plural, masculine
+RP.APN	personal pronoun, accusative, plural, neuter
+RP.AS	personal pronoun, accusative, singular
+RP.ASF	personal pronoun, accusative, singular, feminine
+RP.ASM	personal pronoun, accusative, singular, masculine
+RP.ASN	personal pronoun, accusative, singular, neuter
+RP.DP	personal pronoun, dative, plural
+RP.DPF	personal pronoun, dative, plural, feminine
+RP.DPM	personal pronoun, dative, plural, masculine
+RP.DPN	personal pronoun, dative, plural, neuter
+RP.DS	personal pronoun, dative, singular
+RP.DSF	personal pronoun, dative, singular, feminine
+RP.DSM	personal pronoun, dative, singular, masculine
+RP.DSN	personal pronoun, dative, singular, neuter
+RP.GP	personal pronoun, genitive, plural
+RP.GPF	personal pronoun, genitive, plural, feminine
+RP.GPM	personal pronoun, genitive, plural, masculine
+RP.GPN	personal pronoun, genitive, plural, neuter
+RP.GS	personal pronoun, genitive, singular
+RP.GSF	personal pronoun, genitive, singular, feminine
+RP.GSM	personal pronoun, genitive, singular, masculine
+RP.GSN	personal pronoun, genitive, singular, neuter
+RP.NP	personal pronoun, nominative, plural
+RP.NPM	personal pronoun, nominative, plural, masculine
+RP.NPN	personal pronoun, nominative, plural, neuter
+RP.NS	personal pronoun, nominative, singular
+RP.NSF	personal pronoun, nominative, singular, feminine
+RP.NSM	personal pronoun, nominative, singular, masculine
+RP.NSN	personal pronoun, nominative, singular, neuter
+RR.APF	relative pronoun, accusative, plural, feminine
+RR.APM	relative pronoun, accusative, plural, masculine
+RR.APN	relative pronoun, accusative, plural, neuter
+RR.ASF	relative pronoun, accusative, singular, feminine
+RR.ASM	relative pronoun, accusative, singular, masculine
+RR.ASN	relative pronoun, accusative, singular, neuter
+RR.DPF	relative pronoun, dative, plural, feminine
+RR.DPM	relative pronoun, dative, plural, masculine
+RR.DPN	relative pronoun, dative, plural, neuter
+RR.DSF	relative pronoun, dative, singular, feminine
+RR.DSM	relative pronoun, dative, singular, masculine
+RR.DSN	relative pronoun, dative, singular, neuter
+RR.GPF	relative pronoun, genitive, plural, feminine
+RR.GPM	relative pronoun, genitive, plural, masculine
+RR.GPN	relative pronoun, genitive, plural, neuter
+RR.GSF	relative pronoun, genitive, singular, feminine
+RR.GSM	relative pronoun, genitive, singular, masculine
+RR.GSN	relative pronoun, genitive, singular, neuter
+RR.NPF	relative pronoun, nominative, plural, feminine
+RR.NPM	relative pronoun, nominative, plural, masculine
+RR.NPN	relative pronoun, nominative, plural, neuter
+RR.NSF	relative pronoun, nominative, singular, feminine
+RR.NSM	relative pronoun, nominative, singular, masculine
+RR.NSN	relative pronoun, nominative, singular, neuter
+V.1AAIP	verb, 1st, aorist, active, indicative, plural
+V.1AAIS	verb, 1st, aorist, active, indicative, singular
+V.1AASP	verb, 1st, aorist, active, subjunctive, plural
+V.1AASS	verb, 1st, aorist, active, subjunctive, singular
+V.1AMIP	verb, 1st, aorist, middle, indicative, plural
+V.1AMIS	verb, 1st, aorist, middle, indicative, singular
+V.1AMOS	verb, 1st, aorist, middle, optative, singular
+V.1AMSP	verb, 1st, aorist, middle, subjunctive, plural
+V.1AMSS	verb, 1st, aorist, middle, subjunctive, singular
+V.1APIP	verb, 1st, aorist, passive, indicative, plural
+V.1APIS	verb, 1st, aorist, passive, indicative, singular
+V.1APSP	verb, 1st, aorist, passive, subjunctive, plural
+V.1APSS	verb, 1st, aorist, passive, subjunctive, singular
+V.1FAIP	verb, 1st, future, active, indicative, plural
+V.1FAIS	verb, 1st, future, active, indicative, singular
+V.1FMIP	verb, 1st, future, middle, indicative, plural
+V.1FMIS	verb, 1st, future, middle, indicative, singular
+V.1FPIP	verb, 1st, future, passive, indicative, plural
+V.1FPIS	verb, 1st, future, passive, indicative, singular
+V.1IAIP	verb, 1st, imperfect, active, indicative, plural
+V.1IAIS	verb, 1st, imperfect, active, indicative, singular
+V.1IMIP	verb, 1st, imperfect, middle, indicative, plural
+V.1IMIS	verb, 1st, imperfect, middle, indicative, singular
+V.1IPIP	verb, 1st, imperfect, passive, indicative, plural
+V.1IPIS	verb, 1st, imperfect, passive, indicative, singular
+V.1PAIP	verb, 1st, present, active, indicative, plural
+V.1PAIS	verb, 1st, present, active, indicative, singular
+V.1PASP	verb, 1st, present, active, subjunctive, plural
+V.1PASS	verb, 1st, present, active, subjunctive, singular
+V.1PMIP	verb, 1st, present, middle, indicative, plural
+V.1PMIS	verb, 1st, present, middle, indicative, singular
+V.1PMOS	verb, 1st, present, middle, optative, singular
+V.1PMSP	verb, 1st, present, middle, subjunctive, plural
+V.1PMSS	verb, 1st, present, middle, subjunctive, singular
+V.1PPIP	verb, 1st, present, passive, indicative, plural
+V.1PPIS	verb, 1st, present, passive, indicative, singular
+V.1PPSP	verb, 1st, present, passive, subjunctive, plural
+V.1PPSS	verb, 1st, present, passive, subjunctive, singular
+V.1XAIP	verb, 1st, perfect, active, indicative, plural
+V.1XAIS	verb, 1st, perfect, active, indicative, singular
+V.1XASP	verb, 1st, perfect, active, subjunctive, plural
+V.1XASS	verb, 1st, perfect, active, subjunctive, singular
+V.1XMIP	verb, 1st, perfect, middle, indicative, plural
+V.1XMIS	verb, 1st, perfect, middle, indicative, singular
+V.1XPIP	verb, 1st, perfect, passive, indicative, plural
+V.1XPIS	verb, 1st, perfect, passive, indicative, singular
+V.1YAIS	verb, 1st, pluperfect, active, indicative, singular
+V.2AADP	verb, 2nd, aorist, active, imperative, plural
+V.2AADS	verb, 2nd, aorist, active, imperative, singular
+V.2AAIP	verb, 2nd, aorist, active, indicative, plural
+V.2AAIS	verb, 2nd, aorist, active, indicative, singular
+V.2AASP	verb, 2nd, aorist, active, subjunctive, plural
+V.2AASS	verb, 2nd, aorist, active, subjunctive, singular
+V.2AMDP	verb, 2nd, aorist, middle, imperative, plural
+V.2AMDS	verb, 2nd, aorist, middle, imperative, singular
+V.2AMIP	verb, 2nd, aorist, middle, indicative, plural
+V.2AMIS	verb, 2nd, aorist, middle, indicative, singular
+V.2AMSP	verb, 2nd, aorist, middle, subjunctive, plural
+V.2AMSS	verb, 2nd, aorist, middle, subjunctive, singular
+V.2APDP	verb, 2nd, aorist, passive, imperative, plural
+V.2APDS	verb, 2nd, aorist, passive, imperative, singular
+V.2APIP	verb, 2nd, aorist, passive, indicative, plural
+V.2APIS	verb, 2nd, aorist, passive, indicative, singular
+V.2APSP	verb, 2nd, aorist, passive, subjunctive, plural
+V.2APSS	verb, 2nd, aorist, passive, subjunctive, singular
+V.2FAIP	verb, 2nd, future, active, indicative, plural
+V.2FAIS	verb, 2nd, future, active, indicative, singular
+V.2FMIP	verb, 2nd, future, middle, indicative, plural
+V.2FMIS	verb, 2nd, future, middle, indicative, singular
+V.2FPIP	verb, 2nd, future, passive, indicative, plural
+V.2FPIS	verb, 2nd, future, passive, indicative, singular
+V.2IAIP	verb, 2nd, imperfect, active, indicative, plural
+V.2IAIS	verb, 2nd, imperfect, active, indicative, singular
+V.2IMIP	verb, 2nd, imperfect, middle, indicative, plural
+V.2IMIS	verb, 2nd, imperfect, middle, indicative, singular
+V.2IPIP	verb, 2nd, imperfect, passive, indicative, plural
+V.2PADP	verb, 2nd, present, active, imperative, plural
+V.2PADS	verb, 2nd, present, active, imperative, singular
+V.2PAIP	verb, 2nd, present, active, indicative, plural
+V.2PAIS	verb, 2nd, present, active, indicative, singular
+V.2PAOP	verb, 2nd, present, active, optative, plural
+V.2PASP	verb, 2nd, present, active, subjunctive, plural
+V.2PASS	verb, 2nd, present, active, subjunctive, singular
+V.2PMDP	verb, 2nd, present, middle, imperative, plural
+V.2PMDS	verb, 2nd, present, middle, imperative, singular
+V.2PMIP	verb, 2nd, present, middle, indicative, plural
+V.2PMIS	verb, 2nd, present, middle, indicative, singular
+V.2PMSP	verb, 2nd, present, middle, subjunctive, plural
+V.2PMSS	verb, 2nd, present, middle, subjunctive, singular
+V.2PPDP	verb, 2nd, present, passive, imperative, plural
+V.2PPDS	verb, 2nd, present, passive, imperative, singular
+V.2PPIP	verb, 2nd, present, passive, indicative, plural
+V.2PPIS	verb, 2nd, present, passive, indicative, singular
+V.2PPSP	verb, 2nd, present, passive, subjunctive, plural
+V.2XADP	verb, 2nd, perfect, active, imperative, plural
+V.2XAIP	verb, 2nd, perfect, active, indicative, plural
+V.2XAIS	verb, 2nd, perfect, active, indicative, singular
+V.2XASP	verb, 2nd, perfect, active, subjunctive, plural
+V.2XASS	verb, 2nd, perfect, active, subjunctive, singular
+V.2XMDP	verb, 2nd, perfect, middle, imperative, plural
+V.2XMIP	verb, 2nd, perfect, middle, indicative, plural
+V.2XMIS	verb, 2nd, perfect, middle, indicative, singular
+V.2XPDS	verb, 2nd, perfect, passive, imperative, singular
+V.2XPIP	verb, 2nd, perfect, passive, indicative, plural
+V.2XPIS	verb, 2nd, perfect, passive, indicative, singular
+V.2YAIP	verb, 2nd, pluperfect, active, indicative, plural
+V.2YAIS	verb, 2nd, pluperfect, active, indicative, singular
+V.3AADP	verb, 3rd, aorist, active, imperative, plural
+V.3AADS	verb, 3rd, aorist, active, imperative, singular
+V.3AAIP	verb, 3rd, aorist, active, indicative, plural
+V.3AAIS	verb, 3rd, aorist, active, indicative, singular
+V.3AAOP	verb, 3rd, aorist, active, optative, plural
+V.3AAOS	verb, 3rd, aorist, active, optative, singular
+V.3AASP	verb, 3rd, aorist, active, subjunctive, plural
+V.3AASS	verb, 3rd, aorist, active, subjunctive, singular
+V.3AMDP	verb, 3rd, aorist, middle, imperative, plural
+V.3AMDS	verb, 3rd, aorist, middle, imperative, singular
+V.3AMIP	verb, 3rd, aorist, middle, indicative, plural
+V.3AMIS	verb, 3rd, aorist, middle, indicative, singular
+V.3AMOS	verb, 3rd, aorist, middle, optative, singular
+V.3AMSP	verb, 3rd, aorist, middle, subjunctive, plural
+V.3AMSS	verb, 3rd, aorist, middle, subjunctive, singular
+V.3APDP	verb, 3rd, aorist, passive, imperative, plural
+V.3APDS	verb, 3rd, aorist, passive, imperative, singular
+V.3APIP	verb, 3rd, aorist, passive, indicative, plural
+V.3APIS	verb, 3rd, aorist, passive, indicative, singular
+V.3APOS	verb, 3rd, aorist, passive, optative, singular
+V.3APSP	verb, 3rd, aorist, passive, subjunctive, plural
+V.3APSS	verb, 3rd, aorist, passive, subjunctive, singular
+V.3FAIP	verb, 3rd, future, active, indicative, plural
+V.3FAIS	verb, 3rd, future, active, indicative, singular
+V.3FMIP	verb, 3rd, future, middle, indicative, plural
+V.3FMIS	verb, 3rd, future, middle, indicative, singular
+V.3FPIP	verb, 3rd, future, passive, indicative, plural
+V.3FPIS	verb, 3rd, future, passive, indicative, singular
+V.3IAIP	verb, 3rd, imperfect, active, indicative, plural
+V.3IAIS	verb, 3rd, imperfect, active, indicative, singular
+V.3IMIP	verb, 3rd, imperfect, middle, indicative, plural
+V.3IMIS	verb, 3rd, imperfect, middle, indicative, singular
+V.3IPIP	verb, 3rd, imperfect, passive, indicative, plural
+V.3IPIS	verb, 3rd, imperfect, passive, indicative, singular
+V.3PADP	verb, 3rd, present, active, imperative, plural
+V.3PADS	verb, 3rd, present, active, imperative, singular
+V.3PAIP	verb, 3rd, present, active, indicative, plural
+V.3PAIS	verb, 3rd, present, active, indicative, singular
+V.3PAOP	verb, 3rd, present, active, optative, plural
+V.3PAOS	verb, 3rd, present, active, optative, singular
+V.3PASP	verb, 3rd, present, active, subjunctive, plural
+V.3PASS	verb, 3rd, present, active, subjunctive, singular
+V.3PMDP	verb, 3rd, present, middle, imperative, plural
+V.3PMDS	verb, 3rd, present, middle, imperative, singular
+V.3PMIP	verb, 3rd, present, middle, indicative, plural
+V.3PMIS	verb, 3rd, present, middle, indicative, singular
+V.3PMOP	verb, 3rd, present, middle, optative, plural
+V.3PMOS	verb, 3rd, present, middle, optative, singular
+V.3PMSP	verb, 3rd, present, middle, subjunctive, plural
+V.3PMSS	verb, 3rd, present, middle, subjunctive, singular
+V.3PPDP	verb, 3rd, present, passive, imperative, plural
+V.3PPDS	verb, 3rd, present, passive, imperative, singular
+V.3PPIP	verb, 3rd, present, passive, indicative, plural
+V.3PPIS	verb, 3rd, present, passive, indicative, singular
+V.3PPSP	verb, 3rd, present, passive, subjunctive, plural
+V.3PPSS	verb, 3rd, present, passive, subjunctive, singular
+V.3XAIP	verb, 3rd, perfect, active, indicative, plural
+V.3XAIS	verb, 3rd, perfect, active, indicative, singular
+V.3XMIP	verb, 3rd, perfect, middle, indicative, plural
+V.3XMIS	verb, 3rd, perfect, middle, indicative, singular
+V.3XPIP	verb, 3rd, perfect, passive, indicative, plural
+V.3XPIS	verb, 3rd, perfect, passive, indicative, singular
+V.3YAIP	verb, 3rd, pluperfect, active, indicative, plural
+V.3YAIS	verb, 3rd, pluperfect, active, indicative, singular
+V.3YMIP	verb, 3rd, pluperfect, middle, indicative, plural
+V.3YMIS	verb, 3rd, pluperfect, middle, indicative, singular
+V.3YPIS	verb, 3rd, pluperfect, passive, indicative, singular
+V.AAN	verb, aorist, active, infinitive
+V.AAPAPF	verb, aorist, active, participle, accusative, plural, feminine
+V.AAPAPM	verb, aorist, active, participle, accusative, plural, masculine
+V.AAPAPN	verb, aorist, active, participle, accusative, plural, neuter
+V.AAPASF	verb, aorist, active, participle, accusative, singular, feminine
+V.AAPASM	verb, aorist, active, participle, accusative, singular, masculine
+V.AAPASN	verb, aorist, active, participle, accusative, singular, neuter
+V.AAPDPF	verb, aorist, active, participle, dative, plural, feminine
+V.AAPDPM	verb, aorist, active, participle, dative, plural, masculine
+V.AAPDSF	verb, aorist, active, participle, dative, singular, feminine
+V.AAPDSM	verb, aorist, active, participle, dative, singular, masculine
+V.AAPGPM	verb, aorist, active, participle, genitive, plural, masculine
+V.AAPGSF	verb, aorist, active, participle, genitive, singular, feminine
+V.AAPGSM	verb, aorist, active, participle, genitive, singular, masculine
+V.AAPGSN	verb, aorist, active, participle, genitive, singular, neuter
+V.AAPNPF	verb, aorist, active, participle, nominative, plural, feminine
+V.AAPNPM	verb, aorist, active, participle, nominative, plural, masculine
+V.AAPNPN	verb, aorist, active, participle, nominative, plural, neuter
+V.AAPNSF	verb, aorist, active, participle, nominative, singular, feminine
+V.AAPNSM	verb, aorist, active, participle, nominative, singular, masculine
+V.AAPNSN	verb, aorist, active, participle, nominative, singular, neuter
+V.AMN	verb, aorist, middle, infinitive
+V.AMPAPM	verb, aorist, middle, participle, accusative, plural, masculine
+V.AMPAPN	verb, aorist, middle, participle, accusative, plural, neuter
+V.AMPASF	verb, aorist, middle, participle, accusative, singular, feminine
+V.AMPASM	verb, aorist, middle, participle, accusative, singular, masculine
+V.AMPASN	verb, aorist, middle, participle, accusative, singular, neuter
+V.AMPDPM	verb, aorist, middle, participle, dative, plural, masculine
+V.AMPDPN	verb, aorist, middle, participle, dative, plural, neuter
+V.AMPGPF	verb, aorist, middle, participle, genitive, plural, feminine
+V.AMPGPM	verb, aorist, middle, participle, genitive, plural, masculine
+V.AMPGPN	verb, aorist, middle, participle, genitive, plural, neuter
+V.AMPGSF	verb, aorist, middle, participle, genitive, singular, feminine
+V.AMPGSM	verb, aorist, middle, participle, genitive, singular, masculine
+V.AMPGSN	verb, aorist, middle, participle, genitive, singular, neuter
+V.AMPNPF	verb, aorist, middle, participle, nominative, plural, feminine
+V.AMPNPM	verb, aorist, middle, participle, nominative, plural, masculine
+V.AMPNSF	verb, aorist, middle, participle, nominative, singular, feminine
+V.AMPNSM	verb, aorist, middle, participle, nominative, singular, masculine
+V.AMPNSN	verb, aorist, middle, participle, nominative, singular, neuter
+V.APN	verb, aorist, passive, infinitive
+V.APPAPM	verb, aorist, passive, participle, accusative, plural, masculine
+V.APPAPN	verb, aorist, passive, participle, accusative, plural, neuter
+V.APPASF	verb, aorist, passive, participle, accusative, singular, feminine
+V.APPASM	verb, aorist, passive, participle, accusative, singular, masculine
+V.APPASN	verb, aorist, passive, participle, accusative, singular, neuter
+V.APPDPN	verb, aorist, passive, participle, dative, plural, neuter
+V.APPDSF	verb, aorist, passive, participle, dative, singular, feminine
+V.APPDSM	verb, aorist, passive, participle, dative, singular, masculine
+V.APPDSN	verb, aorist, passive, participle, dative, singular, neuter
+V.APPGPF	verb, aorist, passive, participle, genitive, plural, feminine
+V.APPGPM	verb, aorist, passive, participle, genitive, plural, masculine
+V.APPGPN	verb, aorist, passive, participle, genitive, plural, neuter
+V.APPGSF	verb, aorist, passive, participle, genitive, singular, feminine
+V.APPGSM	verb, aorist, passive, participle, genitive, singular, masculine
+V.APPGSN	verb, aorist, passive, participle, genitive, singular, neuter
+V.APPNPF	verb, aorist, passive, participle, nominative, plural, feminine
+V.APPNPM	verb, aorist, passive, participle, nominative, plural, masculine
+V.APPNPN	verb, aorist, passive, participle, nominative, plural, neuter
+V.APPNSF	verb, aorist, passive, participle, nominative, singular, feminine
+V.APPNSM	verb, aorist, passive, participle, nominative, singular, masculine
+V.APPNSN	verb, aorist, passive, participle, nominative, singular, neuter
+V.FAN	verb, future, active, infinitive
+V.FAPAPN	verb, future, active, participle, accusative, plural, neuter
+V.FAPNPM	verb, future, active, participle, nominative, plural, masculine
+V.FAPNSM	verb, future, active, participle, nominative, singular, masculine
+V.FMN	verb, future, middle, infinitive
+V.FMPASN	verb, future, middle, participle, accusative, singular, neuter
+V.FPPGPN	verb, future, passive, participle, genitive, plural, neuter
+V.PAN	verb, present, active, infinitive
+V.PAPAPF	verb, present, active, participle, accusative, plural, feminine
+V.PAPAPM	verb, present, active, participle, accusative, plural, masculine
+V.PAPAPN	verb, present, active, participle, accusative, plural, neuter
+V.PAPASF	verb, present, active, participle, accusative, singular, feminine
+V.PAPASM	verb, present, active, participle, accusative, singular, masculine
+V.PAPASN	verb, present, active, participle, accusative, singular, neuter
+V.PAPDPF	verb, present, active, participle, dative, plural, feminine
+V.PAPDPM	verb, present, active, participle, dative, plural, masculine
+V.PAPDPN	verb, present, active, participle, dative, plural, neuter
+V.PAPDSF	verb, present, active, participle, dative, singular, feminine
+V.PAPDSM	verb, present, active, participle, dative, singular, masculine
+V.PAPDSN	verb, present, active, participle, dative, singular, neuter
+V.PAPGPF	verb, present, active, participle, genitive, plural, feminine
+V.PAPGPM	verb, present, active, participle, genitive, plural, masculine
+V.PAPGPN	verb, present, active, participle, genitive, plural, neuter
+V.PAPGSF	verb, present, active, participle, genitive, singular, feminine
+V.PAPGSM	verb, present, active, participle, genitive, singular, masculine
+V.PAPGSN	verb, present, active, participle, genitive, singular, neuter
+V.PAPNPF	verb, present, active, participle, nominative, plural, feminine
+V.PAPNPM	verb, present, active, participle, nominative, plural, masculine
+V.PAPNPN	verb, present, active, participle, nominative, plural, neuter
+V.PAPNSF	verb, present, active, participle, nominative, singular, feminine
+V.PAPNSM	verb, present, active, participle, nominative, singular, masculine
+V.PAPNSN	verb, present, active, participle, nominative, singular, neuter
+V.PAPVPM	verb, present, active, participle, vocative, plural, masculine
+V.PMN	verb, present, middle, infinitive
+V.PMPAPF	verb, present, middle, participle, accusative, plural, feminine
+V.PMPAPM	verb, present, middle, participle, accusative, plural, masculine
+V.PMPAPN	verb, present, middle, participle, accusative, plural, neuter
+V.PMPASF	verb, present, middle, participle, accusative, singular, feminine
+V.PMPASM	verb, present, middle, participle, accusative, singular, masculine
+V.PMPASN	verb, present, middle, participle, accusative, singular, neuter
+V.PMPDPF	verb, present, middle, participle, dative, plural, feminine
+V.PMPDPM	verb, present, middle, participle, dative, plural, masculine
+V.PMPDPN	verb, present, middle, participle, dative, plural, neuter
+V.PMPDSF	verb, present, middle, participle, dative, singular, feminine
+V.PMPDSM	verb, present, middle, participle, dative, singular, masculine
+V.PMPDSN	verb, present, middle, participle, dative, singular, neuter
+V.PMPGPF	verb, present, middle, participle, genitive, plural, feminine
+V.PMPGPM	verb, present, middle, participle, genitive, plural, masculine
+V.PMPGPN	verb, present, middle, participle, genitive, plural, neuter
+V.PMPGSF	verb, present, middle, participle, genitive, singular, feminine
+V.PMPGSM	verb, present, middle, participle, genitive, singular, masculine
+V.PMPGSN	verb, present, middle, participle, genitive, singular, neuter
+V.PMPNPF	verb, present, middle, participle, nominative, plural, feminine
+V.PMPNPM	verb, present, middle, participle, nominative, plural, masculine
+V.PMPNPN	verb, present, middle, participle, nominative, plural, neuter
+V.PMPNSF	verb, present, middle, participle, nominative, singular, feminine
+V.PMPNSM	verb, present, middle, participle, nominative, singular, masculine
+V.PMPNSN	verb, present, middle, participle, nominative, singular, neuter
+V.PPN	verb, present, passive, infinitive
+V.PPPAPF	verb, present, passive, participle, accusative, plural, feminine
+V.PPPAPM	verb, present, passive, participle, accusative, plural, masculine
+V.PPPAPN	verb, present, passive, participle, accusative, plural, neuter
+V.PPPASF	verb, present, passive, participle, accusative, singular, feminine
+V.PPPASM	verb, present, passive, participle, accusative, singular, masculine
+V.PPPASN	verb, present, passive, participle, accusative, singular, neuter
+V.PPPDPM	verb, present, passive, participle, dative, plural, masculine
+V.PPPDPN	verb, present, passive, participle, dative, plural, neuter
+V.PPPDSF	verb, present, passive, participle, dative, singular, feminine
+V.PPPDSM	verb, present, passive, participle, dative, singular, masculine
+V.PPPDSN	verb, present, passive, participle, dative, singular, neuter
+V.PPPGPM	verb, present, passive, participle, genitive, plural, masculine
+V.PPPGPN	verb, present, passive, participle, genitive, plural, neuter
+V.PPPGSF	verb, present, passive, participle, genitive, singular, feminine
+V.PPPGSM	verb, present, passive, participle, genitive, singular, masculine
+V.PPPGSN	verb, present, passive, participle, genitive, singular, neuter
+V.PPPNPF	verb, present, passive, participle, nominative, plural, feminine
+V.PPPNPM	verb, present, passive, participle, nominative, plural, masculine
+V.PPPNPN	verb, present, passive, participle, nominative, plural, neuter
+V.PPPNSF	verb, present, passive, participle, nominative, singular, feminine
+V.PPPNSM	verb, present, passive, participle, nominative, singular, masculine
+V.PPPNSN	verb, present, passive, participle, nominative, singular, neuter
+V.XAN	verb, perfect, active, infinitive
+V.XAPAPM	verb, perfect, active, participle, accusative, plural, masculine
+V.XAPAPN	verb, perfect, active, participle, accusative, plural, neuter
+V.XAPASF	verb, perfect, active, participle, accusative, singular, feminine
+V.XAPASM	verb, perfect, active, participle, accusative, singular, masculine
+V.XAPASN	verb, perfect, active, participle, accusative, singular, neuter
+V.XAPDPM	verb, perfect, active, participle, dative, plural, masculine
+V.XAPDSM	verb, perfect, active, participle, dative, singular, masculine
+V.XAPDSN	verb, perfect, active, participle, dative, singular, neuter
+V.XAPGPM	verb, perfect, active, participle, genitive, plural, masculine
+V.XAPGPN	verb, perfect, active, participle, genitive, plural, neuter
+V.XAPGSF	verb, perfect, active, participle, genitive, singular, feminine
+V.XAPGSM	verb, perfect, active, participle, genitive, singular, masculine
+V.XAPNPF	verb, perfect, active, participle, nominative, plural, feminine
+V.XAPNPM	verb, perfect, active, participle, nominative, plural, masculine
+V.XAPNPN	verb, perfect, active, participle, nominative, plural, neuter
+V.XAPNSF	verb, perfect, active, participle, nominative, singular, feminine
+V.XAPNSM	verb, perfect, active, participle, nominative, singular, masculine
+V.XAPNSN	verb, perfect, active, participle, nominative, singular, neuter
+V.XMN	verb, perfect, middle, infinitive
+V.XMPAPM	verb, perfect, middle, participle, accusative, plural, masculine
+V.XMPASF	verb, perfect, middle, participle, accusative, singular, feminine
+V.XMPASM	verb, perfect, middle, participle, accusative, singular, masculine
+V.XMPDPF	verb, perfect, middle, participle, dative, plural, feminine
+V.XMPDPM	verb, perfect, middle, participle, dative, plural, masculine
+V.XMPGPM	verb, perfect, middle, participle, genitive, plural, masculine
+V.XMPGSF	verb, perfect, middle, participle, genitive, singular, feminine
+V.XMPNPM	verb, perfect, middle, participle, nominative, plural, masculine
+V.XMPNSF	verb, perfect, middle, participle, nominative, singular, feminine
+V.XMPNSM	verb, perfect, middle, participle, nominative, singular, masculine
+V.XPN	verb, perfect, passive, infinitive
+V.XPPAPF	verb, perfect, passive, participle, accusative, plural, feminine
+V.XPPAPM	verb, perfect, passive, participle, accusative, plural, masculine
+V.XPPAPN	verb, perfect, passive, participle, accusative, plural, neuter
+V.XPPASF	verb, perfect, passive, participle, accusative, singular, feminine
+V.XPPASM	verb, perfect, passive, participle, accusative, singular, masculine
+V.XPPASN	verb, perfect, passive, participle, accusative, singular, neuter
+V.XPPDPM	verb, perfect, passive, participle, dative, plural, masculine
+V.XPPDPN	verb, perfect, passive, participle, dative, plural, neuter
+V.XPPDSF	verb, perfect, passive, participle, dative, singular, feminine
+V.XPPDSM	verb, perfect, passive, participle, dative, singular, masculine
+V.XPPDSN	verb, perfect, passive, participle, dative, singular, neuter
+V.XPPGPF	verb, perfect, passive, participle, genitive, plural, feminine
+V.XPPGPM	verb, perfect, passive, participle, genitive, plural, masculine
+V.XPPGPN	verb, perfect, passive, participle, genitive, plural, neuter
+V.XPPGSF	verb, perfect, passive, participle, genitive, singular, feminine
+V.XPPGSM	verb, perfect, passive, participle, genitive, singular, masculine
+V.XPPGSN	verb, perfect, passive, participle, genitive, singular, neuter
+V.XPPNPF	verb, perfect, passive, participle, nominative, plural, feminine
+V.XPPNPM	verb, perfect, passive, participle, nominative, plural, masculine
+V.XPPNPN	verb, perfect, passive, participle, nominative, plural, neuter
+V.XPPNSF	verb, perfect, passive, participle, nominative, singular, feminine
+V.XPPNSM	verb, perfect, passive, participle, nominative, singular, masculine
+V.XPPNSN	verb, perfect, passive, participle, nominative, singular, neuter
+V.XPPVPM	verb, perfect, passive, participle, vocative, plural, masculine
+V.XPPVSF	verb, perfect, passive, participle, vocative, singular, feminine
+V.XPPVSM	verb, perfect, passive, participle, vocative, singular, masculine
+X	particle
