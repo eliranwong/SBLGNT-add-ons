@@ -5,5 +5,5 @@ NOTE: for Mac/iOS/iPhone (e-Sword X/HD/LT) only; PC version not supported yet, t
 <br />
 MGNTi.bbli - bible module; interlinear (manuscript form, modern Greek pronunciation, lexeme, parsing, English gloss)<br />
 MGNTi_zh.bbli - bible module; interlinear (manuscript form, modern Greek pronunciation, lexeme, parsing, Chinese gloss); testing ONLY<br />
-MGNT.dcti - dictionary module; for lookup of Greek lexeme<br />
+MGNT.dcti - dictionary module; for lookup of Greek lexeme and morphological codes<br />
 SBLGNT.dcti - dictionary module; for lookup of all words forms of Greek words in SBLGNT
