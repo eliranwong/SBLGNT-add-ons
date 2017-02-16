@@ -61,5 +61,6 @@ s/giy/yiy/g
 s/G/g/g
 # restore diaeresis
 s/＊/iy/g
+s/ $//g
 # reminder: read line 29
 # replace s( \r[0-9]+?\t[vgðmnr]) with z\1 if necessary
