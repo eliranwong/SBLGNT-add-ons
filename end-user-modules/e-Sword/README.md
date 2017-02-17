@@ -7,4 +7,5 @@ MGNT.bbli - bible module; plain Greek text of SBLGNT; work with SBLGNT.dcti for 
 MGNTi.bbli - bible module; interlinear (manuscript form, modern Greek pronunciation, lexeme, parsing, English gloss)<br />
 MGNTi_zh.bbli - bible module; interlinear (manuscript form, modern Greek pronunciation, lexeme, parsing, Chinese gloss); testing ONLY<br />
 MGNT.dcti - dictionary module; for lookup of Greek lexeme and morphological codes<br />
-SBLGNT.dcti - dictionary module; for lookup of all words forms of Greek words in SBLGNT
+SBLGNT.dcti - dictionary module; for lookup of all words forms of Greek words in SBLGNT<br />
+SBLGNT.cmti - commentary module; syntax data (https://github.com/biblicalhumanities/greek-new-testament) and word analysis (https://github.com/morphgnt/sblgnt and https://github.com/eliranwong/SBLGNT-add-ons)
