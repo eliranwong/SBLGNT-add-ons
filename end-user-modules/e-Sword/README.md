@@ -8,4 +8,4 @@ MGNTi.bbli - bible module; interlinear (manuscript form, modern Greek pronunciat
 MGNTi_zh.bbli - bible module; interlinear (manuscript form, modern Greek pronunciation, lexeme, parsing, Chinese gloss); testing ONLY<br />
 MGNT.dcti - dictionary module; for lookup of Greek lexeme and morphological codes<br />
 SBLGNT.dcti - dictionary module; for lookup of all words forms of Greek words in SBLGNT<br />
-SBLGNT.cmti - commentary module; syntax data (https://github.com/biblicalhumanities/greek-new-testament) and word analysis (https://github.com/morphgnt/sblgnt and https://github.com/eliranwong/SBLGNT-add-ons)
+SBLGNTc.bbli - bible module; plain Greek text of SBLGNT + clause functions; work with SBLGNT.dcti for dictionary lookup of every Greek forms of the text.
