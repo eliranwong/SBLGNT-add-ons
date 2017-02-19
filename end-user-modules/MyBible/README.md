@@ -24,3 +24,7 @@ MyBible modules created by Eliran Wong<br />
 - <b>Predicate Function (P): </b>A constituent that makes an attribution or identification about the Subject of a verbless clause or a verbal clause with a verbal copula.
 - <b>Verbal Function (V): </b>A constituent that represents the action/event of a proposition. In verbal clauses, this is the head of the clause, on which all other clause constituents depend.
 - <b>Verbal Copula Function (VC): </b>A constituent that facilitates an attribution or identification about the Subject. Verbal copulas are commonly known as copula verbs or linking verbs. This typically corresponds to a “to be” verb in English, which indicates a relation between the Subject and the Predicate rather than any action/event. 
+
+<h2>more screenshots</h2>
+<img src="screenshots/00-plain"><br />
+<img src="screenshots/02-footnote_option.png"><br />
