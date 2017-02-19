@@ -1,14 +1,18 @@
+MyBible modules created by Eliran Wong<br />
+(MyBible is an Android application developed by Denys Dolganenko and his team; module posted here work best with MyBible version 4.6+)<br />
+<br />
 <img src="screenshot.png"><br />
 <h2>SBLGNT with clause functions</h2>
-<b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt<br />
-<b>Source: </b>https://github.com/morphgnt/morphological-lexicon<br />
-<b>Derivative work: </b>https://github.com/eliranwong/SBLGNT-add-ons<br />
+<b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt; data in TF format provided by Dirk Roorda<br />
+<b>Source: </b>https://github.com/morphgnt/morphological-lexicon; work on Greek morphology by James Tauber and Ulrik Sandborg-Petersen<br />
+<b>Derivative work: </b>https://github.com/eliranwong/SBLGNT-add-ons; by Eliran Wong<br />
 <br />
 <b>Credits: </b><br />
 - Asia Bible Society provides syntax trees data; free for non-commercial use<br />
 - Jonathan Robie provides syntax trees data in xml format at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt; Jonathan Robie supports and advises on making this module.<br />
 - Dirk Roorda provides Greek syntax trees data into text-fabric formats and advises on use of the data.<br />
 - James Tauber provides data on morphological analysis adivse on use of the data<br />
+- Denys Dolganenko and Oleg Safonov are developers of MyBible app.  They paid tremendous effort to develop this great app to bless the public.  They gives helpful support for module creation.<br />
 <br />
 <h2>Annotations of clause analysis</h2>
 - <b>Adverbial Function (ADV): </b>A constituent that represents when, where, how, or why of a proposition.
