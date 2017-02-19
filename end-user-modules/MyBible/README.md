@@ -1,3 +1,4 @@
+<img src="screenshot.png"><br />
 <h2>SBLGNT with clause functions</h2>
 <b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt<br />
 <b>Source: </b>https://github.com/morphgnt/morphological-lexicon<br />
