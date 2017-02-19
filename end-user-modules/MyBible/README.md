@@ -4,6 +4,7 @@ MyBible modules created by Eliran Wong<br />
 <img src="screenshot.png"><br />
 <h2>SBLGNT with clause functions</h2>
 <b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt; data in TF format provided by Dirk Roorda<br />
+<b>Source: </b>https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt; data in xml format provided by Jonathan Robie<br />
 <b>Source: </b>https://github.com/morphgnt/morphological-lexicon; work on Greek morphology by James Tauber and Ulrik Sandborg-Petersen<br />
 <b>Derivative work: </b>https://github.com/eliranwong/SBLGNT-add-ons; by Eliran Wong<br />
 <br />
