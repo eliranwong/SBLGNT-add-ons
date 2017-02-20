@@ -26,5 +26,21 @@ MyBible modules created by Eliran Wong<br />
 - <b>Verbal Copula Function (VC): </b>A constituent that facilitates an attribution or identification about the Subject. Verbal copulas are commonly known as copula verbs or linking verbs. This typically corresponds to a “to be” verb in English, which indicates a relation between the Subject and the Predicate rather than any action/event. 
 
 <h2>more screenshots</h2>
-<img src="screenshots/00-plain"><br />
+... plain view Greek New Testament<br />
+<img src="screenshots/00-plain.png"><br />
+... turn on footnote option to show annotation on clause functions
 <img src="screenshots/02-footnote_option.png"><br />
+... lexeme, morphology, and Strong's number dictionary with extra links
+<img src="screenshots/03-dictionary_popup.png"><br />
+... integrated with morphological data and lexicon provided by James Tauber
+<img src="screenshots/04-JTauberLexicon.png"><br />
+... filtering on different word forms of the same lexeme
+<img src="screenshots/05-word_filtering.png"><br />
+... further filtering on a particular word form
+<img src="screenshots/06-futher_filtering.png"><br />
+... another tap on Greek word for more dictionaries
+<img src="screenshots/07-more_dictionaries_on_second_tap.png"><br />
+... MyBbile app has very nice support on parallel reading
+<img src="screenshots/08-parallel_1.png"><br />
+<img src="screenshots/09-parallel_2.png"><br />
+<img src="screenshots/10-parallel_3.png">
