@@ -11,15 +11,16 @@ SBLGNT.dcti - dictionary module; for lookup of all words forms of Greek words in
 SBLGNTc.bbli - bible module; plain Greek text of SBLGNT + clause functions; work with SBLGNT.dcti for dictionary lookup of every Greek forms of the text.
 
 <h2>SBLGNT with clause functions</h2>
-<b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt<br />
-<b>Source: </b>https://github.com/morphgnt/morphological-lexicon<br />
-<b>Derivative work: </b>https://github.com/eliranwong/SBLGNT-add-ons<br />
+<b>Source: </b>https://github.com/ETCBC/text-fabric-data/tree/master/greek/sblgnt; data in TF format provided by Dirk Roorda<br />
+<b>Source: </b>https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt; data in xml format provided by Jonathan Robie<br />
+<b>Source: </b>https://github.com/morphgnt/morphological-lexicon; work on Greek morphology by James Tauber and Ulrik Sandborg-Petersen<br />
+<b>Derivative work: </b>https://github.com/eliranwong/SBLGNT-add-ons; by Eliran Wong<br />
 <br />
 <b>Credits: </b><br />
 - Asia Bible Society provides syntax trees data; free for non-commercial use<br />
-- Jonathan Robie provides syntax trees data in xml format at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt; Jonathan Robie supports and advises on making this module.<br />
-- Dirk Roorda provides Greek syntax trees data into text-fabric formats and advises on use of the data.<br />
-- James Tauber provides data on morphological analysis adivse on use of the data<br />
+- Jonathan Robie provides syntax trees data in xml format and advises on use of the data<br />
+- Dirk Roorda provides Greek syntax trees data in text-fabric formats and advises on use of the data.<br />
+- James Tauber provides data on morphological analysis adivses on use of the data<br />
 <br />
 <h2>Annotations of clause analysis</h2>
 - <b>Adverbial Function (ADV): </b>A constituent that represents when, where, how, or why of a proposition.
