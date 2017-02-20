@@ -38,8 +38,6 @@ MyBible modules created by Eliran Wong<br />
 <img src="screenshots/05-word_filtering.png"><br />
 ... further filtering on a particular word form
 <img src="screenshots/06-futher_filtering.png"><br />
-... another tap on Greek word for more dictionaries
-<img src="screenshots/07-more_dictionaries_on_second_tap.png"><br />
 ... MyBbile app has very nice support on parallel reading
 <img src="screenshots/08-parallel_1.png"><br />
 <img src="screenshots/09-parallel_2.png"><br />
