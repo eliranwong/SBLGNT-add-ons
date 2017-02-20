@@ -38,6 +38,8 @@ MyBible modules created by Eliran Wong<br />
 <img src="screenshots/05-word_filtering.png"><br />
 ... further filtering on a particular word form
 <img src="screenshots/06-futher_filtering.png"><br />
+... support for lexeme-based dictionaries, like LSJ, intermediate-LSJ, Abbott-Smith, etc.
+<img src="screenshots/07-dicitonary_support.png"><br />
 ... MyBbile app has very nice support on parallel reading
 <img src="screenshots/08-parallel_1.png"><br />
 <img src="screenshots/09-parallel_2.png"><br />
