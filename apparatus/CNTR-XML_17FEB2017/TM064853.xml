@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064853</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64853</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 1:1, 4:23, Mark 1:1, Luke 1:1, John 1:1-2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 14x8 (?), 1 extant leaf(s), 1 column(s), 23 (?) line(s) per column, 26-36 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1887 by Stadler at Al Fayyūm, Miṣr at the mounds of Kom el-Fâris (The Mound of the Horseman).</provenance>
+<provenance>Transferred 1887 to Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 6096, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Schmidt, Carl and Wilhelm Schubart, Altchristliche Texte, Berliner Klassikertexte, no. 6, p. 129-130, Weidmannsche Buchhandlung: Berlin, Deutschland, 1910. OCLC 6823377.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040101'/><pb/><gap unit='line' quantity='3'/><w n='110401'>εν</w><w n='110402'>αρχη</w><w n='110403'>ην</w><w n='110404'>ο</w><w n='110405'>λογοϲ</w><w n='110406'>και</w><w n='110407'>ο</w><w n='110408'>λογοϲ</w><w n='110409'>ην</w><w n='110410'>πρ<supplied>οϲ</supplied></w><lb/><w n='110501'>τον</w><w n='110502'>ϗ</w><w n='110503'><abbr type='nominasacra'>θϲ</abbr></w><w n='110504'>ην</w><w n='110505'>ο</w><w n='110506'>λογοϲ</w>
+<milestone unit='verse' n='040102'/><w n='110507'>ουτοϲ</w><w n='110508'>ην</w><w n='110509'>εν</w><w n='110510'>αρχη</w><lb/><w n='110601'>προϲ</w><w n='110602'>τον</w><w n='110603'><abbr type='nominasacra'>θν</abbr></w>
+<milestone unit='verse' n='010101'/><lb/><w n='110701'>βιβλοϲ</w><w n='110702'>γενεϲενϲ</w><w n='110703'><abbr type='nominasacra'>ιυ</abbr></w><w n='110704'><abbr type='nominasacra'>χυ</abbr></w><w n='110705'><abbr type='nominasacra'>υυ</abbr></w><w n='110706'><abbr type='nominasacra'>δαδ</abbr></w><w n='110707'><abbr type='nominasacra'>υυ</abbr></w><w n='110708'>αβρ<supplied>ααμ</supplied></w>
+<milestone unit='verse' n='020101'/><lb/><w n='110801'>αρχη</w><w n='110802'>του</w><w n='110803'>ευαγγελιου</w><w n='110804'>υιϲου</w><w n='110805'><abbr type='nominasacra'>χυ</abbr></w><w n='110806'><abbr type='nominasacra'>υυ</abbr></w><w n='110807'>του</w><w n='110808'><abbr type='nominasacra'>θυ</abbr></w>
+<milestone unit='verse' n='030101'/><lb/><w n='110901'>επειδηπερ</w><w n='110902'>πολλοι</w><w n='110903'>επεχειριϲαν</w><lb/><w n='111001'>αναδεξαϲθαι</w><w n='111002'>διηγιϲιν</w><note>*</note>
+<milestone unit='verse' n='010423'/><gap unit='line' quantity='6'/><w n='111701'>περιυγεν</w><w n='111702'>ο</w><w n='111703'><abbr type='nominasacra'>κϲ</abbr></w><w n='111704'><abbr type='nominasacra'>ιϲ</abbr></w><w n='111705'>ολην</w><w n='111706'>την</w><w n='111707'>γαλλειαν</w><lb/><w n='111801'>διδαϲκον</w><w n='111802'>εν</w><w n='111803'>ταιϲ</w><w n='111804'>ϲυναγωγεϲ</w><w n='111805'>αυτον</w><lb/><w n='111901'>ϗ</w><w n='111902'>κυρηϲον</w><w n='111903'>το</w><w n='111904'>ευαγγελειον</w><w n='111905'>τηϲ</w><w n='111906'>βαϲιλει<supplied>αϲ</supplied></w><lb/><w n='112001'>ϗ</w><w n='112002'>θεραπευον</w><w n='112003'>παϲαν</w><w n='112004'>νοϲον</w><w n='112005'>και</w><w n='112006'>παϲαν</w><w n='112007'>μαλακια<supplied>ν</supplied></w><note>*</note><gap unit='line' quantity='3'/>
+</ab>
+</body>
+</text>
+</TEI>

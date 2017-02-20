@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062337</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62337</msName></msIdentifier>
+<msContents>
+<summary>Homily by Origen written 200-254 in Alexandria, Aegyptus</summary>
+<msItem><p>Matt. 4:5, 5:8, 27:52-53, John 1:14-, 29, 6:55, Phil. 2:6, 2Tim. 2:19</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 15.3x8.5 (15.5x15.2), 3 extant leaf(s), 2 column(s), 32 (?) line(s) per column, 16-19 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-299 Original scribe (9 verses).</handNote>
+</handDesc>
+<additions><p>(Still need to check for quotes from PSI 2101) </p></additions>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā, Miṣr.</provenance>
+<provenance>[1-2] Purchased 1934 by British Museum at London, England from antiquities dealer using the Bridgewater fund.</provenance>
+<provenance>[1-2] Moved 1973 to British Library at London, England.</provenance>
+<provenance>[3] Obtained  by Istituto Papirologico Girolamo Vitelli (Girolamo Vitelli Papyrological Institute) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1-2] Egerton Pap 3, British Library, London, England.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[3] PSI inv. 2101, Istituto Papirologico Girolamo Vitelli (Girolamo Vitelli Papyrological Institute), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[1-2] Bell , H. Idris and T.C. Skeat, Fragments of an Unknown Gospel and Other Early Christian Papyri, Trustees of the British Museum: London, England, 1935. OCLC 910744.</bibl>
+<bibl>[3] Naldini, Mario, “Nuovi frammenti origeniani (PSI inv. 2101)”, Prometheus: rivista quadrimestrale di studi classici, vol. 4, no. 2, p. 97-108, La nuova scuola editrice: Firenze, Italia, 1978. OCLC 4352610.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010405'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='4'/><note>*</note><w n='110501'><supplied>παραλαμβανε</supplied>ι</w><w n='110502'>ο</w><w n='110503'>διαβολο<supplied>ϲ</supplied></w><lb/><w n='110601'><supplied>τον</supplied></w><w n='110602'><supplied><abbr type='nominasacra'>ιν</abbr></supplied></w><w n='110603'><supplied>ειϲ</supplied></w><w n='110604'><supplied>την</supplied></w><w n='110605'><supplied>α</supplied>γιαν</w><w n='110606'>πολ<supplied>ιν</supplied></w><lb/><w n='110701'><supplied>και</supplied></w><w n='110702'><supplied>εϲτηϲεν</supplied></w><w n='110703'><supplied>αυ</supplied>τον</w><w n='110704'>επι</w><w n='110705'>τ<supplied>ο</supplied></w><lb/><w n='110801'><supplied>πτερυγιον</supplied></w><w n='110802'><supplied>το</supplied>υ</w><w n='110803'>ιερου</w>
+<milestone unit='verse' n='012752'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='110901'>πολλα</w><lb/><w n='111002'><supplied>των</supplied></w><w n='111003'><supplied>κε</supplied><unclear>κ</unclear>οιμημενω̅</w><lb/><w n='111101'><supplied>αγιων</supplied></w><w n='111102'><supplied>ηγερθ</supplied>η</w>
+<milestone unit='verse' n='012753'/><w n='111103'>και</w><lb/><w n='111202'><supplied>ειϲ</supplied></w><w n='111203'><supplied>την</supplied></w><w n='111204'><supplied>αγ</supplied>ιαν</w><w n='111205'>πολιν</w><note>*</note><gap unit='line' quantity='7'/><gap unit='line' extent='unknown'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='010508'/><pb/><gap unit='column' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='4'/><note>*</note><w n='220501'><supplied>ο</supplied>ι</w><w n='220502'>καθαρο<supplied>ι</supplied></w><w n='220503'><supplied>τη</supplied></w><w n='220504'><supplied>καρδια</supplied></w><w n='220505'><supplied>οτι</supplied></w><lb/><w n='220601'><supplied>α</supplied><unclear>υ</unclear>τοι</w><w n='220602'>τον</w><note>*</note><gap unit='line' quantity='13'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='040114'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='310502'>ϲαρξ</w><w n='310503'>ε<unclear>γ</unclear>ενετ<supplied>ο</supplied></w><note>*</note>
+<milestone unit='verse' n='040129'/><gap unit='line' quantity='2'/><gap unit='character' extent='unknown'/><note>*</note><w n='310801'>τον</w><w n='310802'><abbr type='nominasacra'>ιν</abbr></w><w n='310803'>ερχ<unclear>ο</unclear><supplied>μενον</supplied></w><lb/><w n='310901'><supplied>πρ</supplied>οϲ</w><w n='310902'>αυτ<supplied>ο</supplied><unclear>ν</unclear></w><w n='310903'>λεγ<unclear>ει</unclear></w><w n='310904'><supplied>ιδε</supplied></w><w n='310905'><supplied>ο</supplied></w><lb/><w n='311002'>τ<supplied>ου</supplied></w><w n='311003'><abbr type='nominasacra'><supplied>θ</supplied>υ</abbr></w><w n='311004'>ο</w><w n='311005'>αι<unclear>ρ</unclear><supplied>ων</supplied></w><w n='311006'><supplied>την</supplied></w><lb/><w n='311102'><supplied>τ</supplied>ου</w><w n='311103'>κ<supplied>οϲμου</supplied></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='040655'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><w n='311501'>η</w><w n='311502'><supplied>ϲα</supplied>ρ<unclear>ξ</unclear></w><w n='311503'><supplied>μου</supplied></w><w n='311504'><supplied>αληθηϲ</supplied></w><w n='311505'><supplied>εϲτι̅</supplied></w><lb/><w n='311601'>βρωϲ<unclear>ι</unclear><supplied>ϲ</supplied></w><w n='311602'>κ<unclear>α</unclear><supplied>ι</supplied></w><w n='311603'>το</w><w n='311604'><unclear>α</unclear><supplied>ιμα</supplied></w><w n='311605'><supplied>μου</supplied></w><lb/><w n='311701'>αληθ<unclear>η</unclear><supplied>ϲ</supplied></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='110206'/><gap unit='line' quantity='6'/><gap unit='character' extent='unknown'/><note>*</note><w n='312401'><unclear>μ</unclear>ορφη</w><lb/><w n='312501'><abbr type='nominasacra'>θυ</abbr></w><w n='312502'>υπαρχω<supplied>ν</supplied></w><w n='312503'><supplied>ουχ</supplied></w><lb/><w n='312602'>ηγη<supplied>ϲατο</supplied></w><w n='312603'><supplied>το</supplied></w><w n='312604'><supplied>ε</supplied><unclear>ι</unclear>ναι</w><lb/><w n='312701'><supplied>ι</supplied>ϲα</w><w n='312702'><supplied>θ</supplied>εω</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='5'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='160219'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='21'/><note>*</note><w n='422201'>ε<unclear>γ</unclear>ν<supplied>ω</supplied></w><w n='422202'><supplied><abbr type='nominasacra'>κϲ</abbr></supplied></w><w n='422203'><supplied>τουϲ</supplied></w><w n='422204'><supplied>ον</supplied><unclear>τα</unclear><supplied>ϲ</supplied></w><lb/><w n='422302'>α<supplied>ποϲτητω</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='1'/>
+<milestone unit='verse' n='071309'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='28'/><gap unit='character' extent='unknown'/><w n='522901'>εκ</w><w n='522902'><supplied>μ</supplied>ερουϲ</w><w n='522903'>γαρ</w><lb/><w n='523002'>και</w><w n='523003'>εκ</w><w n='523004'>μερ<unclear>ο</unclear><supplied>υϲ</supplied></w><lb/><w n='523101'><supplied>προ</supplied>φητ<unclear>ε</unclear><supplied>υ</supplied>ομεν</w>
+<milestone unit='verse' n='071310'/><w n='523102'>οταν</w><w n='523103'><supplied>δε</supplied></w><lb/><w n='523201'><supplied>ελθ</supplied><unclear>η</unclear></w><w n='523202'>το</w><w n='523203'>τ<supplied>ε</supplied><unclear>λ</unclear>ιον</w><w n='523204'>το</w><w n='523205'>εκ</w><lb/><lb/>
+<milestone unit='verse' n='230302'/><pb/><gap unit='line' quantity='9'/><gap unit='character' extent='unknown'/><lb/><w n='611102'><abbr type='nominasacra'>θυ</abbr></w><w n='611103'><supplied>εϲμεν</supplied></w><w n='611104'><supplied>και</supplied></w><w n='611105'><supplied>ουπω</supplied></w><lb/><w n='611202'><supplied>τι</supplied></w><w n='611203'><supplied>εϲομεθα</supplied></w><lb/><w n='611302'><supplied>οτι</supplied></w><w n='611303'><supplied>εαν</supplied></w><w n='611304'><supplied>φανερωθη</supplied></w><lb/><w n='611401'>ομοιο<supplied>ι</supplied></w><w n='611402'><supplied>αυτω</supplied></w><w n='611403'><supplied>εϲο</supplied>μεθα</w><w n='611404'><supplied>οτι</supplied></w><lb/><w n='611501'>οψομε<supplied>θα</supplied></w><w n='611502'><supplied>αυτον</supplied></w><w n='611503'>καθωϲ</w><lb/>
+<milestone unit='verse' n='230303'/><w n='611602'>κ<supplied>αι</supplied></w><w n='611603'><supplied>π</supplied><unclear>α</unclear><supplied>ϲ</supplied></w><w n='611604'><supplied>ο</supplied></w><w n='611605'>εχων</w><w n='611606'><unclear>τ</unclear><supplied>ην</supplied></w><lb/><w n='611701'><supplied>ε</supplied><unclear>λ</unclear>π<unclear>ι</unclear><supplied>δα</supplied></w><w n='611702'><supplied>τ</supplied><unclear>α</unclear>υτ<supplied>η</supplied><unclear>ν</unclear></w><w n='611703'>επ</w><w n='611704'>αυ<unclear>τ</unclear><supplied>ω</supplied></w><lb/><w n='611801'><supplied>αγνι</supplied><unclear>ζε</unclear><supplied>ι</supplied></w><w n='611802'><unclear>ε</unclear>αυτ<supplied>ο</supplied><unclear>ν</unclear></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='120115'/><gap unit='line' quantity='7'/><gap unit='character' extent='unknown'/><w n='612601'><unclear>ει</unclear>κον<unclear>α</unclear></w><lb/><w n='612701'><unclear>το</unclear>υ</w><w n='612702'>α<unclear>ο</unclear>ρατου</w><w n='612703'><supplied><abbr type='nominasacra'>θυ</abbr></supplied></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100210'/><gap unit='line' quantity='6'/><w n='613401'>αυτου</w><w n='613402'>γαρ</w><w n='613403'>ε<supplied>ϲμεν</supplied></w><w n='613404'><supplied>ποιημα</supplied></w><cb/><w n='620101'><supplied>κτι</supplied>ϲθεντεϲ</w><w n='620102'>εν</w><w n='620103'><abbr type='nominasacra'>χ<supplied>ω</supplied></abbr></w><w n='620104'><abbr type='nominasacra'>ιυ</abbr></w><w n='620105'>επι</w><lb/><w n='620201'><supplied>εργο</supplied>ιϲ</w><w n='620202'>αγαθοιϲ</w><w n='620203'>οι<supplied>ϲ</supplied></w><lb/><w n='620302'>ο</w><w n='620303'><abbr type='nominasacra'>θϲ</abbr></w><w n='620304'>ινα</w><w n='620305'><supplied>ε</supplied>ν</w><w n='620306'>αυτοιϲ</w><lb/><w n='620401'><supplied>πε</supplied><unclear>ρ</unclear>ιπατηϲω<supplied>μεν</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='30'/>
+</ab>
+</body>
+</text>
+</TEI>

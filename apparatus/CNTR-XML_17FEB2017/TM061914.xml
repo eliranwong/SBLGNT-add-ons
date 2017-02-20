@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061914</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61914</msName></msIdentifier>
+<msContents>
+<summary>Gospel harmony by Tatian the Assyrian known as Diatessaron written 160-175 in Syria</summary>
+<msItem><p>Matt. 27:57, Mark 15:42, Luke 23:49, 51, 54, John 19:38</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 10.5x9.5 (?), 1 extant leaf(s), 1 column(s), 15 (?) line(s) per column, 30-35 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>175-224 Original scribe (6 verses).</handNote>
+</handDesc>
+<additions><p>Individual phrases were extracted from the harmonization of the gospels.</p></additions>
+</physDesc>
+<history>
+<provenance>Excavated 1933 by Clark Hopkins  at Qal‘at aş Şāliḩīyah, Sūrīyah in some ruins.</provenance>
+<provenance>Transferred  to Yale University, Beinecke Rare Book and Manuscript Library at New Haven, CT.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.CtYBR inv. DPg 24, Yale University, Beinecke Rare Book and Manuscript Library, New Haven, CT.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Wells, C. Badford, R. O. Fink, and J. F. Gilliam, “The Parchments and Papyri”, The Excavations at Dura-Europos. Final Report., no. 5, p. 23-24, Yale University Press: New Haven, CT, 1959. OCLC 28327358.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='032349'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'>κ<supplied>α</supplied>ι</w><w n='110102'><unclear>α</unclear>ι</w><w n='110103'><unclear>γυν</unclear>αικεϲ</w><lb/><w n='110201'><supplied>ϲυ</supplied><unclear>ν</unclear>ακολουθουϲαι</w><w n='110202'><unclear>α</unclear><supplied>υτ</supplied>ω</w><w n='110203'>απο</w><w n='110204'>τηϲ</w><lb/><w n='110301'><supplied>γαλιλαι</supplied><unclear>α</unclear>ϲ</w><w n='110302'>ορωϲαι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='032354'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='110401'><supplied>ημερ</supplied>α</w><w n='110402'>παραϲκευ<unclear>η</unclear></w><w n='110403'>ϲαββατον</w><lb/><note>*</note>
+<milestone unit='verse' n='012757'/><w n='110502'><supplied>ο</supplied>ψιαϲ</w><w n='110503'>δε</w><w n='110504'>γενομενηϲ</w><note>*</note>
+<milestone unit='verse' n='021542'/><note>*</note><w n='110505'>επι</w><w n='110506'><unclear>τ</unclear><supplied>η</supplied></w><lb/><w n='110602'>ο</w><w n='110603'>εϲτιν</w><w n='110604'>προϲαββατον</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='032351'/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><w n='110801'>π<supplied>ο</supplied><unclear>λεω</unclear>ϲ</w><w n='110802'>τηϲ</w><lb/><w n='110901'><supplied>ιουδαι</supplied>αϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='041938'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='111001'>ων</w><w n='111002'>μαθητηϲ</w><w n='111003'>τ<supplied>ο</supplied><unclear>υ</unclear></w><w n='111004'><abbr type='nominasacra'>ιη</abbr></w><lb/><w n='111102'>δε</w><w n='111103'>δια</w><w n='111104'><unclear>τον</unclear></w><w n='111105'>φ<unclear>ο</unclear>βον</w><w n='111106'>των</w><lb/><w n='111201'><supplied>ιουδαιω</supplied>ν</w><note>*</note>
+<milestone unit='verse' n='032351'/><gap unit='character' extent='unknown'/><note>*</note><w n='111202'>προϲεδεχετο</w><lb/><w n='111301'><supplied>την</supplied></w><w n='111302'>β<supplied>αϲιλειαν</supplied></w><w n='111303'>το<unclear>υ</unclear></w><w n='111304'><abbr type='nominasacra'>θυ</abbr></w><w n='111305'><unclear>ο</unclear>υτοϲ</w><w n='111306'>ουκ</w><lb/><w n='111401'><supplied>ην</supplied></w><w n='111402'><supplied>ϲυγκατατ</supplied>ιθε<unclear>μ</unclear>ε<unclear>ν</unclear><supplied>ο</supplied><unclear>ϲ</unclear></w><w n='111403'>τη</w><w n='111404'><unclear>β</unclear><supplied>ουλη</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

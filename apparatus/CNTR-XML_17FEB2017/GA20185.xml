@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20185</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0185</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>1Cor. 2:5-6, 9, 13, 3:2-3</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 5.3x12.5 (19x15), 1 extant leaf(s), 2 column(s), 6 (24) line(s) per column, 12-14 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>350-449 Original scribe with professional hand (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Fayyūm?, Miṣr.</provenance>
+<provenance>Transferred  to Österreichische Nationalbibliothek (Austrian National Library) at Wien, Österreich.</provenance>
+</history>
+<msPart><msIdentifier><msName>Pap. G. 39787, Österreichische Nationalbibliothek (Austrian National Library), Wien, Österreich.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Wessely, Carl, “Griechische and koptische Texte theologischen Inhalts IV”, Studien zur Palaeographie und Papyruskunde, vol. 15, no. 235, p. 104, Leipzig, Deutschland, 1914. OCLC 18320827.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='070205'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ϲ</supplied>οφια</w><w n='110102'><abbr type='nominasacra'>ανων</abbr></w><lb/><w n='110201'><supplied>αλλ</supplied></w><w n='110202'><unclear>ε</unclear>ν</w><w n='110203'>δυναμει</w><w n='110204'><abbr type='nominasacra'>θυ</abbr></w>
+<milestone unit='verse' n='070206'/><lb/><w n='110301'><supplied>ϲο</supplied>φιαν</w><w n='110302'>δε</w><lb/><w n='110402'>εν</w><w n='110403'>τοιϲ</w><lb/><w n='110502'><supplied>ϲο</supplied>φιαν</w><w n='110503'>δε</w><w n='110504'>ου</w><lb/><w n='110601'><supplied>του</supplied></w><w n='110602'><supplied>αιω</supplied><unclear>νοϲ</unclear></w><w n='110603'><unclear>το</unclear><supplied>υτου</supplied></w><note>*</note><gap unit='line' quantity='18'/>
+<milestone unit='verse' n='070209'/><cb/><note>*</note><w n='120101'>ουϲ</w><w n='120102'>ο<supplied>υ</supplied><unclear>κ</unclear></w><w n='120103'>ηκουϲε</w><lb/><w n='120201'>και</w><w n='120202'>επ<supplied>ι</supplied></w><w n='120203'><unclear>κα</unclear>ρδιαν</w><lb/><w n='120301'><abbr type='nominasacra'>ανου</abbr></w><w n='120302'><supplied>ου</supplied>κ</w><w n='120303'>ανε<unclear>β</unclear><supplied>η</supplied></w><lb/><w n='120401'>α</w><w n='120402'>ητ<supplied>οιμαϲεν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='20'/>
+<milestone unit='verse' n='070213'/><pb/><note>*</note><w n='210101'><unclear>λογ</unclear>ο<unclear>ιϲ</unclear></w><w n='210102'><unclear>α</unclear>λλ</w><w n='210103'><supplied>ε</supplied>ν</w><lb/><w n='210202'><abbr type='nominasacra'>πνϲ</abbr></w><lb/><lb/><lb/><gap unit='character' extent='unknown'/><gap unit='line' quantity='19'/>
+<milestone unit='verse' n='070302'/><cb/><note>*</note><w n='220101'>υμαϲ</w><w n='220102'>εποτ<supplied>ιϲα</supplied></w><w n='220103'><supplied>ου</supplied></w><lb/><w n='220201'><unclear>β</unclear>ρωμα</w><w n='220202'>ουπ<supplied>ω</supplied></w><w n='220203'><supplied>γαρ</supplied></w><lb/><w n='220301'>εδυναϲθε</w><w n='220302'>αλ<supplied>λ</supplied></w><lb/><w n='220402'>νυν</w><w n='220403'>δυν<unclear>α</unclear><supplied>ϲθε</supplied></w>
+<milestone unit='verse' n='070303'/><lb/><w n='220501'><unclear>ε</unclear>τι</w><w n='220502'>γαρ</w><w n='220503'>ϲα<unclear>ρ</unclear><supplied>κικοι</supplied></w><lb/><w n='220601'><supplied>εϲτε</supplied></w><w n='220602'><unclear>οπου</unclear></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='18'/>
+</ab>
+</body>
+</text>
+</TEI>

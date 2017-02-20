@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10035</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P35</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Matt. 25:12-15, 20-23</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 8.9x8 (24x15), 1 extant leaf(s), 1 column(s), 11 (30) line(s) per column, 16-20 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe with reformed documentary hand (8 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā, Miṣr.</provenance>
+<provenance>Transferred  to Biblioteca Medicea Laurentiana (Medicean Laurentian Library) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>BML inv. 13725, Biblioteca Medicea Laurentiana (Medicean Laurentian Library), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Pistelli, Ermenegildo, Papiri Greci e Latini, vol. 1, no. 1, p. 1-2, Pubblicazioni della Società Italiana: Firenze, Italia, 1912. OCLC 11324150.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='012512'/><pb/><note>*</note><w n='110101'><supplied>ει</supplied>πεν</w><w n='110102'>αμην</w><w n='110103'>λεγω</w><w n='110104'><supplied>υμιν</supplied></w><lb/><w n='110201'><supplied>ο</supplied><unclear>υ</unclear>κ</w><w n='110202'>οιδα</w><w n='110203'>υμαϲ</w>
+<milestone unit='verse' n='012513'/><lb/><w n='110302'>ουν</w><w n='110303'>οτι</w><w n='110304'>ουκ</w><w n='110305'><unclear>ο</unclear><supplied>ι</supplied><unclear>δα</unclear><supplied>τε</supplied></w><lb/><w n='110401'><supplied>τ</supplied><unclear>η</unclear><supplied>ν</supplied></w><w n='110402'>ημερα<unclear>ν</unclear></w><w n='110403'><supplied>ου</supplied><unclear>δε</unclear></w><w n='110404'><supplied>την</supplied></w><lb/><w n='110501'><supplied>ωρ</supplied>αν</w>
+<milestone unit='verse' n='012514'/><w n='110502'>ωϲπε<supplied>ρ</supplied></w><w n='110503'><supplied>γ</supplied><unclear>α</unclear>ρ</w><lb/><w n='110602'>αποδημων</w><lb/><w n='110702'>τουϲ</w><w n='110703'>ιδιουϲ</w><w n='110704'>δ<unclear>ο</unclear><supplied>υλουϲ</supplied></w><lb/><w n='110801'><supplied>και</supplied></w><w n='110802'><unclear>π</unclear>αρεδωκεν</w><w n='110803'>α<unclear>υ</unclear><supplied>τοιϲ</supplied></w><lb/><w n='110901'><supplied>τα</supplied></w><w n='110902'><supplied>υ</supplied><unclear>π</unclear>αρχοντα</w><w n='110903'>αυτο<supplied>υ</supplied></w>
+<milestone unit='verse' n='012515'/><w n='110904'><supplied>και</supplied></w><lb/><w n='111001'><supplied>ω</supplied></w><w n='111002'><supplied>μεν</supplied></w><w n='111003'><supplied>εδ</supplied><unclear>ω</unclear>κεν</w><w n='111004'><abbr type='number'>ε</abbr></w><w n='111005'>τα<unclear>λ</unclear><supplied>αντα</supplied></w><lb/><w n='111101'><supplied>ω</supplied></w><w n='111102'><supplied>δε</supplied></w><w n='111103'><supplied>δυο</supplied></w><w n='111104'><supplied>ω</supplied></w><w n='111105'><unclear>δ</unclear><supplied>ε</supplied></w><w n='111106'><unclear>εν</unclear></w><w n='111107'><unclear>ε</unclear><supplied>καϲτω</supplied></w><note>*</note>
+<milestone unit='verse' n='012520'/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><pb/>
+<milestone unit='verse' n='012521'/><w n='210102'>εφη</w><w n='210103'>αυτω</w><w n='210104'>ο</w><w n='210105'><abbr type='nominasacra'>κϲ</abbr></w><lb/><w n='210202'>ευ</w><w n='210203'>δουλε</w><w n='210204'>αγαθε</w><w n='210205'>και</w><lb/><w n='210301'><supplied>πιϲτε</supplied></w><w n='210302'><unclear>επ</unclear><supplied>ι</supplied></w><w n='210303'>ολιγα</w><w n='210304'>ηϲ</w><w n='210305'>πιϲτο<supplied>ϲ</supplied></w><lb/><w n='210401'><supplied>επι</supplied></w><w n='210402'><supplied>π</supplied><unclear>ο</unclear><supplied>λλω</supplied><unclear>ν</unclear></w><w n='210403'>ϲε</w><lb/><w n='210502'>ει<unclear>ϲ</unclear><supplied>ελ</supplied>θε</w><w n='210503'>ειϲ</w><w n='210504'>τη<unclear>ν</unclear></w><w n='210505'><supplied>χαραν</supplied></w><lb/><w n='210601'><supplied>τ</supplied><unclear>ο</unclear>υ</w><w n='210602'><abbr type='nominasacra'>κυ</abbr></w><w n='210603'>ϲου</w>
+<milestone unit='verse' n='012522'/><w n='210604'>προϲελ<supplied>θων</supplied></w><w n='210605'><supplied>και</supplied></w><lb/><w n='210701'><supplied>ο</supplied></w><w n='210702'>τα</w><w n='210703'>δυο</w><w n='210704'>ταλαντα</w><w n='210705'>ει<supplied>πεν</supplied></w><w n='210706'><supplied><abbr type='nominasacra'>κε</abbr></supplied></w><lb/><w n='210801'><supplied>δ</supplied>υο</w><w n='210802'>ταλαντα</w><w n='210803'>μο<unclear>ι</unclear></w><lb/><w n='210902'>ιδε</w><w n='210903'>αλλα</w><w n='210904'>δυ<supplied>ο</supplied></w><lb/><w n='211002'><supplied>εκ</supplied>ερδηϲα</w>
+<milestone unit='verse' n='012523'/><w n='211003'><unclear>εφ</unclear><supplied>η</supplied></w><w n='211004'><supplied>α</supplied><unclear>υ</unclear><supplied>τω</supplied></w><w n='211005'><supplied>ο</supplied></w><w n='211006'><supplied><abbr type='nominasacra'>κϲ</abbr></supplied></w><lb/><w n='211101'><supplied>αυ</supplied>του</w><w n='211102'>ευ</w><w n='211103'>δ<unclear>ο</unclear><supplied>υλε</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

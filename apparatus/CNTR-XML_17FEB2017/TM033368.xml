@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM033368</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 33368</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 6:9</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 24.9x24.7, 12 extant leaf(s), 1 column(s), 1 line(s) per column, 16 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>313-314 Original scribe (1 verses).</handNote>
+</handDesc>
+<additions><p>Text was written upside down over the page number of an employer’s account book. </p></additions>
+</physDesc>
+<history>
+<provenance>Purchased  by Carl Schmidt at Hiw, Miṣr.</provenance>
+<provenance>Transferred  to Universitätsbibliothek Erlangen-Nürnberg (University Library of Erlangen-Nürnberg) at Erlangen, Deutschland by Carl Schmidt.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.Erl.Inv. 27-32, Universitätsbibliothek Erlangen-Nürnberg (University Library of Erlangen-Nürnberg), Erlangen, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Mitthof, Fritz, Ein spätantikes Wirtschaftsbuch aus Diospolis Parva. Der Erlanger Papyruskodex und die Texte aus seinem Umfeld (P. Erl. Diosp.). Archiv für Papyrusforschung und verwandte Gebiete, Beiheft 12,, K. G. Saur: München, Deutschland, 2002. OCLC 59098856.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010609'/><gap unit='page' quantity='1'/><note>*</note><w n='210101'>πατερ</w><w n='210102'>ημων</w><w n='210103'>ο</w><w n='210104'>ε<unclear>ν</unclear></w><w n='210105'><unclear>τ</unclear>οι<unclear>ϲ</unclear></w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

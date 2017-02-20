@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM145321</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 145321</msName></msIdentifier>
+<msContents>
+<summary>Commentary</summary>
+<msItem><p>Matt. 22:21-22, 35</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 5.2x11 (?), 1 extant leaf(s), 1 column(s), 10 (?) line(s) per column, 40-42 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-350 Original scribe (3 verses).</handNote>
+</handDesc>
+<additions><p>The recto contains a petition. </p></additions>
+</physDesc>
+<history>
+<provenance>Obtained 1925 July by Dr. Askren and Prof. Boak at Miṣr.</provenance>
+<provenance>Transferred  to University of Michigan, Harlan Hatcher Graduate Library at Ann Arbor, MI.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.Mich.inv. 4157a + 4170a, University of Michigan, Harlan Hatcher Graduate Library, Ann Arbor, MI.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Caldwell, Robert and Nikos Latinas, “P.Mich.Invs. 4157a + 4170a Petition and Exegetical Text on Matthew”, Zeitschrift für Papyrologie und Epigraphik, no. 183, p. 227-233, Rudolf Habelt: Bonn, Deutschland, 2012. OCLC 1466587.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='012221'/><gap unit='page' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='2'/><note>*</note><w n='210301'>λεγ[ει]</w><w n='210302'>αυτο[ιϲ]</w><w n='210303'>α[πο]δοτε</w><w n='210304'>ο[υν]</w><w n='210305'>τα</w><w n='210306'>ϗϲαροϲ</w><w n='210307'>τω</w><w n='210308'>ϗϲαρι</w><w n='210309'>ϗ</w><w n='210310'>τα</w><w n='210311'>του</w><w n='210312'><abbr type='nominasacra'>θυ</abbr></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='012222'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><note>*</note><w n='210701'>ακουϲαν<supplied>τεϲ</supplied></w><w n='210702'><supplied>εθαυμαϲαν</supplied></w><w n='210703'>ϗ</w><w n='210704'>αφεντεϲ</w><w n='210705'>αυτον</w><w n='210706'>απηλθαν</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='012235'/><lb/><w n='210801'>ϗ</w><w n='210802'>επηρωτηϲεν</w><w n='210803'>ειϲ</w><w n='210804'>τ[ων]</w><w n='210805'>φαρειϲαι<unclear>ων</unclear></w><w n='210806'>νομικοϲ</w><w n='210807'><unclear>π</unclear><supplied>ειραζων</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='2'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

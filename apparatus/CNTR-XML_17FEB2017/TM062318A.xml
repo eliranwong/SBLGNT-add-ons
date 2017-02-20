@@ -1,0 +1,70 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062318A</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62318A</msName></msIdentifier>
+<msContents>
+<summary>Letter by Athanasius known as Epistle To Marcellinus written 350-373 in Alexandria, Aegyptus</summary>
+<msItem><p>Matt. 11:29, Luke 1:28, 8:28 (Matt. 8:29), John 1:1, 3, 14, 18:38, Acts 5:3-5, 8:13, 1Cor. 11:1, 12:11, Phil. 3:13, 1Thes. 5:18, 1Tim. 4:15, 2Tim. 3:12, 16, Jas. 5:13</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 32x28, 773 extant leaf(s), 2 column(s), 49-54 line(s) per column, 19-27 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>375-499 Original scribe (19 verses).</handNote>
+<handNote>375-499 ^ Original scribe (1 verses edited).</handNote>
+</handDesc>
+<additions><p>Also contains Septuagint, 3 Maccabees, and 4 Maccabees. </p></additions>
+</physDesc>
+<history>
+<provenance>Transferred 1621  at Constantinople, Türkiye.</provenance>
+<provenance>Donated 1627 to Royal Library at London, England from Cyril Lucar through English Ambassador Sir Thomas Roe.</provenance>
+<provenance>Transferred  to British Museum at London, England.</provenance>
+<provenance>Moved 1973 to British Library at London, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Royal 1 D. VIII, British Library, London, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Thompson, E. Maunde, Facsimile of the Codex Alexandrinus, Trustees of the British Museum: London, England, 1876-1883. OCLC 8267348.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='160316'/><gap unit='page' quantity='1024'/><gap unit='line' quantity='27'/><gap unit='character' extent='unknown'/><note>*</note><w n='102512801'>θεοπνε<unclear>υϲ</unclear>το<unclear>ϲ</unclear></w><w n='102512802'>εϲτιν</w><lb/><w n='102512901'>και</w><w n='102512902'>ωφει<unclear>λ</unclear>ιμοϲ</w><w n='102512903'>προ<unclear>ϲ</unclear></w><w n='102512904'>διδαϲκαλια̅</w><note>*</note><gap unit='line' quantity='23'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='040101'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='35'/><note>*</note><w n='102623601'>και</w><w n='102623602'><abbr type='nominasacra'>θϲ</abbr></w><w n='102623603'>ην</w><w n='102623604'>ο</w><w n='102623605'>λογοϲ</w>
+<milestone unit='verse' n='040103'/><w n='102623606'>παντα</w><w n='102623607'>δι</w><w n='102623608'>αυτου</w><lb/><w n='102623701'>εγενετο</w><note>*</note>
+<milestone unit='verse' n='040114'/><w n='102623702'>και</w><w n='102623703'>ο</w><w n='102623704'>λογοϲ</w><w n='102623705'>ϲαρξ</w><lb/><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='030128'/><gap unit='line' quantity='10'/><note>*</note><w n='102624901'>χαιρε</w><w n='102624902'>καιχαριτωμεν<unclear>η</unclear></w><w n='102624903'>ο</w><w n='102624904'><abbr type='nominasacra'>κϲ</abbr></w><lb/><w n='102625002'>ϲου</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='1'/>
+<milestone unit='verse' n='071211'/><gap unit='page' quantity='1'/><gap unit='line' quantity='21'/><gap unit='character' extent='unknown'/><note>*</note><w n='102812201'>το</w><w n='102812202'>εν</w><lb/><w n='102812301'>και</w><w n='102812302'>το</w><w n='102812303'>αυτο</w><w n='102812304'><abbr type='nominasacra'>πνα</abbr></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='28'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='060503'/><pb/><gap unit='line' quantity='6'/><gap unit='character' extent='unknown'/><note>*</note><w n='102910701'><unclear>υ</unclear>πομονην</w><lb/>
+<milestone unit='verse' n='060504'/><w n='102910802'>η</w><w n='102910803'>δε</w><w n='102910804'>υπομονη</w><app><rdg type='corr' hand='^'></rdg><rdg type='orig'><w n='102910806'>η</w></rdg></app><w n='102910807'>δοκιμην</w><lb/><w n='102910901'>η</w><w n='102910902'>δε</w><w n='102910903'>δοκιμη</w><w n='102910904'>ελπιδα</w>
+<milestone unit='verse' n='060505'/><w n='102910905'>η</w><w n='102910906'>δε</w><w n='102910907'>ελπιϲ</w><w n='102910908'>ου</w><lb/><w n='102911001'>καταιϲχυνει</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='130518'/><gap unit='line' quantity='6'/><gap unit='character' extent='unknown'/><w n='102911701'>εν</w><w n='102911702'>παντι</w><w n='102911703'>ευχαριϲτειν</w><note>*</note>
+<milestone unit='verse' n='160312'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><note>*</note><w n='102912101'>θελουϲιν</w><w n='102912102'>ευϲεβωϲ</w><w n='102912103'>ζην</w><lb/><w n='102912201'>διωχ<unclear>θ</unclear>ηϲονται</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='29'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='011129'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='36'/><gap unit='character' extent='unknown'/><note>*</note><w n='103023701'>απ</w><w n='103023702'>εμου</w><w n='103023703'>οτι</w><lb/><w n='103023802'>ειμι</w><w n='103023803'>και</w><w n='103023804'>τα<unclear>ω</unclear>εινοϲ</w><w n='103023805'>τη</w><w n='103023806'>καρδια</w><note>*</note>
+<milestone unit='verse' n='071101'/><gap unit='line' quantity='11'/><gap unit='character' extent='unknown'/><w n='103025001'>μιμηται</w><w n='103025002'>μου</w><lb/><w n='103025102'>καθωϲ</w><w n='103025103'>καγω</w><w n='103025104'><abbr type='nominasacra'>χυ</abbr></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='110313'/><gap unit='page' quantity='4'/><gap unit='column' quantity='1'/><gap unit='line' quantity='21'/><gap unit='character' extent='unknown'/><note>*</note><w n='103522201'>τα</w><w n='103522202'>με̅</w><lb/><w n='103522301'>οπιϲω</w><w n='103522302'>επιλανθανομαι</w><w n='103522303'>τοιϲ</w><w n='103522304'>δε</w><lb/><w n='103522401'>εμπροϲθεν</w><w n='103522402'>επεκτεινομε</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='27'/>
+<milestone unit='verse' n='041838'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='38'/><gap unit='character' extent='unknown'/><note>*</note><w n='103623901'>ουδεμιαν</w><w n='103623902'>αιτιαν</w><lb/><w n='103624001'>ευριϲκω</w><w n='103624002'>ειϲ</w><w n='103624003'>αυτον</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='11'/>
+<milestone unit='verse' n='200513'/><pb/><gap unit='line' quantity='26'/><gap unit='character' extent='unknown'/><note>*</note><w n='103712701'>ευθυμι</w><w n='103712702'>τιϲ</w><w n='103712703'>εν</w><w n='103712704'>υμιν</w><lb/><w n='103712801'>ψαλλετω</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='23'/>
+<milestone unit='verse' n='060813'/><cb/><gap unit='line' quantity='31'/><gap unit='character' extent='unknown'/><note>*</note><w n='103723201'>ταϲ</w><lb/><w n='103723301'>πραξειϲ</w><w n='103723302'>του</w><w n='103723303'>ϲοματοϲ</w><w n='103723304'>θανατου<supplied>ν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='18'/>
+<milestone unit='verse' n='030828'/><gap unit='page' quantity='1'/><gap unit='line' quantity='44'/><gap unit='character' extent='unknown'/><note>*</note><w n='103914501'>δαιομαι</w><w n='103914502'>ϲου</w><w n='103914503'>μη</w><w n='103914504'>με</w><w n='103914505'>προ</w><w n='103914506'>κερου</w><lb/><w n='103914601'>βαϲανιϲηϲ</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='5'/>
+<milestone unit='verse' n='150415'/><cb/><gap unit='line' quantity='26'/><gap unit='character' extent='unknown'/><w n='103922701'>ταυτα</w><w n='103922702'>μελετα</w><w n='103922703'>εν</w><w n='103922704'>τουτοιϲ</w><lb/><w n='103922801'>ιϲθει</w><w n='103922802'>ινα</w><w n='103922803'>ϲου</w><w n='103922804'>η</w><w n='103922805'>προκοπη</w><w n='103922806'>φανερα</w><lb/><w n='103922901'>γενηται</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='7'/>
+</ab>
+</body>
+</text>
+</TEI>

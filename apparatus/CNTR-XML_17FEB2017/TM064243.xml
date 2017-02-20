@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064243</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64243</msName></msIdentifier>
+<msContents>
+<summary>Gospel</summary>
+<msItem><p>Mark 14:27-30 omitting Mark 14:28</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 35x43, 1 extant leaf(s), 1 column(s), 7 (?) line(s) per column, 20? characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Fayyūm, Miṣr.</provenance>
+<provenance>Transferred  to Österreichische Nationalbibliothek (Austrian National Library) at Wien, Österreich.</provenance>
+</history>
+<msPart><msIdentifier><msName>Pap. G. 02325, Österreichische Nationalbibliothek (Austrian National Library), Wien, Österreich.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Bickell, G., “A Papyrus Fragment of a Noncanonidcal Gospel”, Zeitschrift für Katholische Theologie, no. 9, p. 498-506, Echter: Würzburg, Deutschland, 1885. OCLC 1774234.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='021427'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><unclear>ο</unclear>τ<unclear>ι</unclear></w><w n='110102'>α<supplied>παντεϲ</supplied></w><w n='110103'><supplied>εν</supplied></w><lb/><w n='110201'><supplied>ταυτη</supplied></w><w n='110202'><unclear>τ</unclear>η</w><w n='110203'>νυκτι</w><w n='110204'>ϲκανδαλιϲ<supplied>θηϲεϲθε</supplied></w><lb/><w n='110301'><supplied>κατα</supplied></w><w n='110302'><unclear>τ</unclear>ο</w><w n='110303'>γραφεν</w><w n='110304'>παταξω</w><w n='110305'>το<unclear>ν</unclear></w><w n='110306'><supplied>ποιμενα</supplied></w><lb/><w n='110401'><supplied>και</supplied></w><w n='110402'><supplied>τα</supplied></w><w n='110403'><supplied>π</supplied>ροβατα</w><w n='110404'>διαϲκορπιϲθηϲ<supplied>ονται</supplied></w>
+<milestone unit='verse' n='021429'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='110501'>πετ</w><w n='110502'>και</w><w n='110503'>ει</w><w n='110504'>παντεϲ</w><w n='110505'>ο<supplied>υκ</supplied></w><w n='110506'><supplied>εγω</supplied></w>
+<milestone unit='verse' n='021430'/><lb/><note>*</note><w n='110601'><supplied>πρι</supplied><unclear>ν</unclear></w><w n='110602'>αλεκτυων</w><w n='110603'>διϲ</w><w n='110604'>κοκ<supplied>κυϲει</supplied></w><w n='110605'><supplied>τριϲ</supplied></w><lb/><w n='110701'><supplied>ϲυ</supplied></w><w n='110702'><supplied>ϲημερον</supplied></w><w n='110703'><supplied>με</supplied></w><w n='110704'><supplied>α</supplied><unclear>παρν</unclear><supplied>ηϲη</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

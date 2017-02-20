@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062312</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62312</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Heb. 1:1</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 20.8x23, 1 extant leaf(s), 3 column(s), 26 line(s) per column, 20-26 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>285-299 Original scribe (1 verses).</handNote>
+</handDesc>
+<additions><p>Single unrelated verse at the beginning of the 2nd column. </p></additions>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Fayyūm, Miṣr.</provenance>
+<provenance>Purchased 1897 by Bernard Grenfell and Arthur Hunt at Miṣr.</provenance>
+<provenance>Transferred  to Lord Amherst of Hackney at Norfolk, England.</provenance>
+<provenance>Transferred  to Morgan Library and Museum at New York, NY.</provenance>
+</history>
+<msPart><msIdentifier><msName>S. L. 4687.1 Ro [2] & Vo, Morgan Library and Museum, New York, NY.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Grenfell, Bernard P. and Arthur S. Hunt, The Amherst Papyri being an account of the Greek papyri in the collection of Lord Amherst of Hackney, Didlington Hall, Norfolk, no. 3, p. 30-31, Henry Frowde: London, England, 1900. OCLC 64368476.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='190101'/><pb/><gap unit='column' quantity='1'/><w n='120101'>πολυ<unclear>μ</unclear>ερωϲ</w><w n='120102'>ϗ</w><w n='120103'>πολυ<supplied>τρο</supplied><unclear>πω</unclear>ϲ</w><lb/><w n='120201'>παλε</w><w n='120202'>ο</w><w n='120203'><abbr type='nominasacra'><unclear>θ</unclear>ϲ</abbr></w><w n='120204'>λαληϲ<supplied>α</supplied><unclear>ϲ</unclear></w><w n='120205'><unclear>το</unclear><supplied>ιϲ</supplied></w><lb/><w n='120302'>ημ<supplied>ω</supplied>ν</w><w n='120303'>εν</w><w n='120304'>τοιϲ</w><lb/><gap unit='column' quantity='1'/>
+</ab>
+</body>
+</text>
+</TEI>

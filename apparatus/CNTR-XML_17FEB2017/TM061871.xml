@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061871</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61871</msName></msIdentifier>
+<msContents>
+<summary>Inscription</summary>
+<msItem><p>Rom. 8:31</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Stone, ?x?, 1 extant leaf(s), 1 column(s), 3 line(s) per column, 7-10 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-599 Original scribe (1 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Cambridge University Library at Cambridge, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>O. 129, Cambridge University Library, Cambridge, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Tait, John Gavin, Greek Ostraca in the Bodleian Library at Oxford, vol. 1, p. 172, Egypt Exploration Society: London, England, 1930. OCLC 608150770.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='060831'/><pb/><note>*</note><w n='110101'>ει</w><w n='110102'>ο</w><w n='110103'>θεοϲ</w><lb/><w n='110201'>επερ</w><w n='110202'>εμον</w><lb/><w n='110301'>τιϲ</w><w n='110302'>καθ</w><w n='110303'>ημων</w>
+</ab>
+</body>
+</text>
+</TEI>

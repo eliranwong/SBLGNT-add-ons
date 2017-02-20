@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM063857</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 63857</msName></msIdentifier>
+<msContents>
+<summary>Homily</summary>
+<msItem><p>Matt. 8:20 (Luke 9:58), 1Cor. 2:9</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 17x9.8 (?), scroll, 2 column(s), 19 (?) line(s) per column, 31 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>150-249 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Discovered   at Kawm Awshīm, Miṣr.</provenance>
+<provenance>Purchased 1936 .</provenance>
+<provenance>Transferred 1936 to University of Michigan, Harlan Hatcher Graduate Library at Ann Arbor, MI.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.Mich.inv. 6846, University of Michigan, Harlan Hatcher Graduate Library, Ann Arbor, MI.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Geissen, Angelo, “P. Michigan Koenen (=P. Mich. XVIII)”, Studia Amstelodamensia ad Epigraphicam, ius Antiquum et Papyrologicam pertinentia, vol. 6, no. 763, Gieben: Amsterdam, Nederland, 1996. OCLC 3043825.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='070209'/><gap unit='page' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='200302'><supplied>ουκ</supplied></w><w n='200303'><supplied>ειδεν</supplied></w><w n='200304'><supplied>και</supplied></w><w n='200305'><supplied>ουϲ</supplied></w><w n='200306'><supplied>ουκ</supplied></w><w n='200307'><supplied>ηκουϲεν</supplied></w><lb/><w n='200401'><unclear>και</unclear></w><w n='200402'>επι</w><w n='200403'><unclear>κ</unclear><supplied>α</supplied><unclear>ρ</unclear>δ<unclear>ιαν</unclear></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='9'/>
+<milestone unit='verse' n='010820'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='4'/><gap unit='character' extent='unknown'/><note>*</note><w n='201901'>ου<unclear>κ</unclear></w><w n='201902'><unclear>ε</unclear>χε<unclear>ι</unclear></w><w n='201903'><supplied>που</supplied></w><lb/><w n='202001'>την</w><w n='202002'>κεφα<supplied>λ</supplied><unclear>η</unclear>ν</w><w n='202003'>κλ<supplied>ινη</supplied></w><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

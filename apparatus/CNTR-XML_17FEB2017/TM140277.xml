@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM140277</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 140277</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Mark 1:1-2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 25x4.7, 1 extant leaf(s), 1 column(s), 4 line(s) per column, 25-29 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-399 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Loaned  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oxy. 5073, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Smith, G. S. and A. E. Bernhard, The Oxyrhynchus Papyri, vol. 76, no. 5073, Egypt Exploration Society: London, England, 2011. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='020101'/><pb/><gap unit='line' quantity='1'/><w n='110201'>αρχη</w><w n='110202'>του</w><w n='110203'>ευαγγελιου</w><w n='110204'><abbr type='nominasacra'>ιηυ</abbr></w><w n='110205'>του</w><w n='110206'><abbr type='nominasacra'>χρυ</abbr></w>
+<milestone unit='verse' n='020102'/><lb/><w n='110301'>ωϲ</w><w n='110302'>γεγραπται</w><w n='110303'>εν</w><w n='110304'>τω</w><w n='110305'>ηϲαια</w><w n='110306'>τω</w><w n='110307'>προφητη</w><lb/><w n='110401'>ιδου</w><w n='110402'>αποϲτελω</w><w n='110403'>τον</w><w n='110404'>αγγελον</w><w n='110405'>μου</w><lb/><w n='110501'>προ</w><w n='110502'>προϲωπου</w><w n='110503'>ϲου</w><w n='110504'>οϲ</w><w n='110505'>καταϲκευαϲει</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

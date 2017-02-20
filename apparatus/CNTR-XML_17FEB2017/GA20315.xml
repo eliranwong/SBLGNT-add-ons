@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20315</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0315</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Mark 2:19, 21-22, 25, 3:1-2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 8.5x2.5 (29x20), 1 extant leaf(s), 2 column(s), 6 (32) line(s) per column, 10-12 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe with reformed documentary hand (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased  by antiquities dealer at Europe possibly from a pre-War Armenian collection of antiquities and Armenian manuscripts in France.</provenance>
+<provenance>Purchased 2003 by private collector at London, England.</provenance>
+<provenance>Transferred  to Corpus Christi College, Parker Library at Cambridge, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>de Hamil Gk. MS 387, Corpus Christi College, Parker Library, Cambridge, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Head, Peter, “Five New Testament Manuscripts: Recently Discovered Fragments in a Private Collection in Cambridge”, Journal of Theological Studies, vol. 59, part 2, p. 538-541, Oxford University Press: Oxford, England, 2008 October. OCLC 50047092.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='020219'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ει</supplied><unclear>π</unclear>εν</w><w n='110102'>αυτοιϲ</w><lb/><w n='110201'><supplied>ο</supplied></w><w n='110202'><supplied><abbr type='nominasacra'>ιϲ</abbr></supplied></w><w n='110203'>μη</w><lb/><w n='110302'>οι</w><w n='110303'><unclear>υιοι</unclear></w><w n='110304'><unclear>του</unclear></w><lb/><w n='110401'><supplied>νυμ</supplied><unclear>φ</unclear>ων<supplied>οϲ</supplied></w><w n='110402'><supplied>εν</supplied></w><lb/><w n='110501'><supplied>ω</supplied></w><w n='110502'><supplied>ο</supplied></w><w n='110503'>νυμ<unclear>φ</unclear><supplied>ιοϲ</supplied></w><lb/><w n='110601'><supplied>μετ</supplied></w><w n='110602'><unclear>α</unclear>υτ<unclear>ω</unclear><supplied>ν</supplied></w><note>*</note><gap unit='line' quantity='26'/>
+<milestone unit='verse' n='020221'/><cb/><note>*</note><w n='120101'>χειρον</w><w n='120102'>ϲ<unclear>χ</unclear><supplied>ιϲμα</supplied></w><lb/><w n='120201'>γεινετα<supplied>ι</supplied></w>
+<milestone unit='verse' n='020222'/><lb/><w n='120301'>κ<unclear>αι</unclear></w><w n='120302'>ου<unclear>δ</unclear>ει<unclear>ϲ</unclear></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='29'/>
+<milestone unit='verse' n='020225'/><pb/><gap unit='character' extent='unknown'/><w n='210101'>οτε</w><w n='210102'>χρειαν</w><lb/><w n='210201'><supplied>εϲχ</supplied>εν</w><w n='210202'>και</w><lb/><w n='210302'><unclear>αυ</unclear>τ<supplied>οϲ</supplied></w><note>*</note><gap unit='line' quantity='29'/>
+<milestone unit='verse' n='020301'/><cb/><note>*</note><w n='220101'>εξηρα<unclear>μ</unclear><supplied>μενην</supplied></w><lb/><w n='220201'>εχω<unclear>ν</unclear></w><w n='220202'>τ<unclear>η</unclear><supplied>ν</supplied></w><lb/>
+<milestone unit='verse' n='020302'/><w n='220302'>και</w><lb/><w n='220402'>αυ<supplied>τον</supplied></w><w n='220403'><supplied>ει</supplied></w><lb/><w n='220501'><supplied>τοι</supplied>ϲ</w><w n='220502'>ϲα<unclear>β</unclear><supplied>βαϲιν</supplied></w><lb/><w n='220601'><supplied>θε</supplied><unclear>ρ</unclear>απ<unclear>ε</unclear><supplied>υϲει</supplied></w><note>*</note><gap unit='line' quantity='26'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10102</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P102</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Matt. 4:11-12, 22-23</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 3.3x5 (27x14), 1 extant leaf(s), 1 column(s), 2 (35) line(s) per column, 28 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-324 Original scribe with reformed documentary hand (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Loaned  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oxy. 4402, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Thomas, J. David, The Oxyrhynchus Papyri, vol. 64, no. 4401, Egypt Exploration Society: London, England, 1997. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010411'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><unclear>α</unclear>γγελοι</w><lb/><w n='110202'><supplied>και</supplied></w><w n='110203'><supplied>διηκονουν</supplied></w><w n='110204'>αυτω</w>
+<milestone unit='verse' n='010412'/><w n='110205'>ακουϲαϲ</w><note>*</note>
+<milestone unit='verse' n='010422'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><lb/>
+<milestone unit='verse' n='010423'/><w n='210202'>και</w><w n='210203'>περι<supplied>ηγεν</supplied></w><w n='210204'><supplied>εν</supplied></w><w n='210205'><supplied>ολη</supplied></w><w n='210206'><supplied>τη</supplied></w><w n='210207'><supplied>γαλιλαια</supplied></w><lb/><w n='210301'><unclear>δι</unclear>δαϲκων</w><w n='210302'><unclear>ε</unclear>ν</w><note>*</note><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20057</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 057</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Acts 3:5-6, 10-12</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 9x13 (?), 1 extant leaf(s), 2 column(s), 16 (27) line(s) per column, 13-15 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe with professional hand (5 verses).</handNote>
+<handNote>300-499 ^ Original scribe (1 verses edited).</handNote>
+</handDesc>
+<additions><p>The verso is blank. </p></additions>
+</physDesc>
+<history>
+<provenance>Obtained  by Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung (Berlin State Museums, Egyptian Museum and Papyrus Collection) at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 9808, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung (Berlin State Museums, Egyptian Museum and Papyrus Collection), Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Salonius, A. H., “Die griechischen Handscriftenfragmente des Neuen Testaments in den Staatlichen Museen zu Berlin”, Zeitschrift für die Neutestamentliche Wissenschaft, no. 26, p. 109-110, Alfred Töpelmann: Giessen, Deutschland, 1927. OCLC 47766549.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='050305'/><pb/><gap unit='line' quantity='1'/><note>*</note><w n='110201'><supplied>αυτοι</supplied>ϲ</w><w n='110202'>προϲδοκων</w><lb/><w n='110301'><supplied>τι</supplied></w><w n='110302'><supplied>π</supplied>αρ</w><w n='110303'>αυτων</w><w n='110304'>λαβειν</w>
+<milestone unit='verse' n='050306'/><lb/><w n='110401'><supplied>ειπεν</supplied></w><w n='110402'><supplied>δε</supplied></w><w n='110403'>πετροϲ</w><lb/><w n='110502'>και</w><w n='110503'>χρυϲιον</w><lb/><w n='110602'>υπαρχι</w><w n='110603'>μοι</w><w n='110604'>ο</w><w n='110605'>δε</w><lb/><w n='110702'>τουτο</w><w n='110703'>ϲο<supplied>ι</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='19'/>
+<milestone unit='verse' n='050310'/><cb/><note>*</note><w n='120101'>ιερου</w><w n='120102'>και</w><app><rdg type='corr' hand='^'></rdg><rdg type='orig'><lb/></rdg></app><w n='120203'>θαμβουϲ</w><w n='120204'>και</w><lb/><w n='120302'>επι</w><w n='120303'>τω<unclear>ι</unclear></w><lb/><w n='120401'>ϲυμβεβηκοτι</w><w n='120402'>αυτω</w>
+<milestone unit='verse' n='050311'/><lb/><w n='120501'>κρατουντοϲ</w><w n='120502'>δε</w><lb/><w n='120602'>τον</w><w n='120603'>πετρον</w><w n='120604'>και</w><lb/><w n='120701'>τον</w><w n='120702'>ιωαν<supplied>νη</supplied>ν</w><lb/><w n='120802'>παϲ</w><w n='120803'>ο</w><w n='120804'><supplied>λα</supplied>οϲ</w><lb/><w n='120901'>προϲ</w><w n='120902'>αυτουϲ</w><w n='120903'>επι</w><w n='120904'><supplied>τη</supplied></w><lb/><w n='121001'><supplied>ϲτο</supplied>α</w><w n='121002'>τη</w><lb/><w n='121102'>ϲολομωντοϲ</w><lb/><w n='121201'><supplied>εκ</supplied>θαμβοι</w>
+<milestone unit='verse' n='050312'/><w n='121202'>ιδων</w><w n='121203'>δε</w><lb/><w n='121301'><supplied>ο</supplied></w><w n='121302'><supplied>π</supplied>ετροϲ</w><lb/><w n='121402'><supplied>π</supplied>ροϲ</w><w n='121403'>τον</w><lb/><w n='121502'><supplied>ανδρε</supplied>ϲ</w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='11'/>
+</ab>
+</body>
+</text>
+</TEI>

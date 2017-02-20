@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM120532</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 120532</msName></msIdentifier>
+<msContents>
+<summary>Inscription</summary>
+<msItem><p>Matt. 9:27</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Ostracon, ?x?, 1 extant leaf(s), 1 column(s), 1 line(s) per column, 19 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-699 Original scribe (1 verses).</handNote>
+</handDesc>
+<additions><p>Written on a lamp. </p></additions>
+</physDesc>
+<history>
+<provenance>Discovered   at Miṣr written on a lamp.</provenance>
+<provenance>Obtained  by Museo Egizio di Torino (Egyptian Museum of Turin) at Torino, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>no. 4761, Museo Egizio di Torino (Egyptian Museum of Turin), Torino, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Lefebvre, Gustave, Recueil des inscriptions grecques-chrétiennes d'Égypte, no. 749, p. 750, Institut Francais d'Archeologie Orientale du Caire: Le Caire, Égypte, 1907. OCLC 7065867.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010927'/><pb/><note>*</note><w n='110101'><abbr type='nominasacra'>υϲ</abbr></w><w n='110102'><abbr type='nominasacra'>θυ</abbr></w><w n='110103'>ελε<supplied>η</supplied>ϲον</w><w n='110104'>ημαϲ</w>
+</ab>
+</body>
+</text>
+</TEI>

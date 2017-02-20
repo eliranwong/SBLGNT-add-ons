@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM059463</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 59463</msName></msIdentifier>
+<msContents>
+<summary>Homily by Clement of Alexandria written 195-215 in Alexandria, Aegyptus</summary>
+<msItem><p>Matt. 3:12, 1Cor. 3:13</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 13.5x9 (?), scroll, 2 column(s), 26 (?) line(s) per column, 75-78 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>100-299 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā, Miṣr.</provenance>
+<provenance>Purchased 1925 by Arthur E. R. Boak.</provenance>
+<provenance>Transferred 1925 to University of Michigan, Harlan Hatcher Graduate Library at Ann Arbor, MI.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.Mich.inv. 3689, University of Michigan, Harlan Hatcher Graduate Library, Ann Arbor, MI.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Römer, Cornelia Eva and T. Gagos, “P. Michigan Koenen (=P. Mich. XVIII)”, Studia Amstelodamensia ad Epigraphicam, ius Antiquum et Papyrologicam pertinentia, vol. 6, no. 764, Gieben: Amsterdam, Nederland, 1996. OCLC 3043825.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010312'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='19'/><gap unit='character' extent='unknown'/><note>*</note><w n='102001'><supplied>τ</supplied>ο</w><w n='102002'>πτυον</w><lb/><w n='102101'><supplied>εν</supplied></w><w n='102102'><supplied>τη</supplied></w><w n='102103'><supplied>χειρι</supplied></w><w n='102104'><supplied>αυτου</supplied></w><w n='102105'><supplied>και</supplied></w><w n='102106'><supplied>διακαθαριει</supplied></w><w n='102107'><supplied>την</supplied></w><w n='102108'><supplied>αλωνα</supplied></w><w n='102109'><supplied>αυτου</supplied></w><w n='102110'><supplied>και</supplied></w><w n='102111'><supplied>ϲυναξει</supplied></w><w n='102112'><supplied>τον</supplied></w><w n='102113'><supplied>ϲιτον</supplied></w><w n='102114'><supplied>αυτου</supplied></w><w n='102115'><supplied>ειϲ</supplied></w><w n='102116'><supplied>τη</supplied>ν</w><lb/><note>*</note><gap unit='line' quantity='5'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='070313'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='18'/><gap unit='character' extent='unknown'/><lb/><w n='202002'>εργον</w><w n='202003'><unclear>φ</unclear><supplied>ανερον</supplied></w><w n='202004'><supplied>γενηϲεται</supplied></w><w n='202005'><supplied>η</supplied></w><w n='202006'><supplied>γαρ</supplied></w><w n='202007'><supplied>ημερα</supplied></w><w n='202008'><supplied>δηλωϲει</supplied></w><w n='202009'><supplied>οτι</supplied></w><w n='202010'><supplied>εν</supplied></w><w n='202011'><supplied>πυρι</supplied></w><w n='202012'><supplied>αποκαλυπτεται</supplied></w><w n='202013'><supplied>και</supplied></w><w n='202014'><supplied>εκαϲτου</supplied></w><lb/><w n='202101'>το</w><w n='202102'>εργον</w><w n='202103'>οποιο<unclear>ν</unclear></w><note>*</note><gap unit='line' quantity='3'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

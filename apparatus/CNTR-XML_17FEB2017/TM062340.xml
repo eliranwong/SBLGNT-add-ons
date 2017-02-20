@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062340</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62340</msName></msIdentifier>
+<msContents>
+<summary>Treatise by Origen known as De Principiis written 229-230 in Alexandria, Aegyptus</summary>
+<msItem><p>Rom. 2:9-10</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 14.3x19.2 (?), 1 extant leaf(s), 1 column(s), 19 (?) line(s) per column, 42-46 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Universiteitsbibliotheek Amsterdam (University of Amsterdam Library) at Amsterdam, Nederland .</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Sem. 194, Universiteitsbibliotheek Amsterdam (University of Amsterdam Library), Amsterdam, Nederland .</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Treu, Kurt and Anthony Klaas, “Origenes, De principiis III 1. 6-8 in einem Amsterdamer Papyrus”, Zeitschrift für Papyrologie und Epigraphik, no. 35, p. 43-47, Rudolf Habelt: Bonn, Deutschland, 1979. OCLC 1466587.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='060209'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><unclear>επ</unclear><supplied>ι</supplied></w><w n='110102'><supplied>παϲαν</supplied></w><w n='110103'><supplied>ψυχην</supplied></w><w n='110104'><supplied><abbr type='nominasacra'>ανου</abbr></supplied></w><w n='110105'><supplied>του</supplied></w><lb/><w n='110201'><supplied>κατεργαζ</supplied><unclear>ομεν</unclear><supplied>ο</supplied><unclear>υ</unclear></w><w n='110202'>τ<unclear>ο</unclear></w><w n='110203'><supplied>κακον</supplied></w><w n='110204'><supplied>ι</supplied>ουδ<unclear>α</unclear><supplied>ιου</supplied></w><w n='110205'><supplied>τε</supplied></w><w n='110206'><supplied>πρωτον</supplied></w><w n='110207'><supplied>και</supplied></w><lb/>
+<milestone unit='verse' n='060210'/><w n='110302'><supplied>δοξα</supplied></w><w n='110303'><supplied>δε</supplied></w><w n='110304'><supplied>και</supplied></w><w n='110305'><supplied>τι</supplied><unclear>μ</unclear>η</w><w n='110306'>και</w><w n='110307'>ειρ<unclear>η</unclear>νη</w><w n='110308'>πα<unclear>ν</unclear><supplied>τι</supplied></w><w n='110309'><supplied>τω</supplied></w><w n='110310'><supplied>εργαζομενω</supplied></w><w n='110311'><supplied>το</supplied></w><lb/><w n='110401'><supplied>αγαθον</supplied></w><w n='110402'><supplied>ιο</supplied><unclear>υ</unclear><supplied>δ</supplied><unclear>α</unclear><supplied>ι</supplied><unclear>ω</unclear></w><w n='110403'>τε</w><w n='110404'>πρωτον</w><w n='110405'>και</w><w n='110406'>ε<unclear>λ</unclear>λ<unclear>η</unclear><supplied>νι</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='13'/>
+</ab>
+</body>
+</text>
+</TEI>

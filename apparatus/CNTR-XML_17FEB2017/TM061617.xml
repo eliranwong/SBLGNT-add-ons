@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061617</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61617</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 1:1, 6:9, Mark 1:1, Luke 1:1, John 1:1,23</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 5.8x24.5, 1 extant leaf(s), 1 column(s), 6 line(s) per column, 70-73 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā?, Miṣr.</provenance>
+<provenance>Transferred  to Biblioteca Medicea Laurentiana (Medicean Laurentian Library) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>BML inv. 13926, Biblioteca Medicea Laurentiana (Medicean Laurentian Library), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Vitelli, G., “Amuleto Christiano”, Papiri Greci e Latini, vol. 6, no. 719, p. 151-152, Pubblicazioni della Società Italiana: Firenze, Italia, 1920. OCLC 11324150.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040101'/><pb/><gap unit='character' extent='unknown'/><w n='110101'>εν</w><w n='110102'>αρχη</w><w n='110103'>ην</w><w n='110104'>ο</w><w n='110105'>λογοϲ</w><w n='110106'>και</w><w n='110107'>ο</w><w n='110108'>λογοϲ</w><w n='110109'>ην</w><w n='110110'>προϲ</w><w n='110111'>τον</w><w n='110112'>θεον</w><w n='110113'>και</w><w n='110114'>θεοϲ</w><w n='110115'>ην</w><w n='110116'>ο</w><w n='110117'>λογοϲ</w>
+<milestone unit='verse' n='010101'/><w n='110118'>βιβλοϲ</w><w n='110119'>γενεϲεωϲ</w><w n='110120'>ιηϲου</w><w n='110121'>χριϲτου</w><lb/><w n='110201'>υιου</w><w n='110202'>δαυετ</w><w n='110203'>υιου</w><w n='110204'>αβρααμ</w>
+<milestone unit='verse' n='040123'/><note>*</note><w n='110205'>καθ<unclear>ω</unclear><supplied>ϲ</supplied></w><w n='110206'><supplied>ε</supplied>ιπεν</w><w n='110207'>ηϲαιαϲ</w><w n='110208'>ο</w><w n='110209'>προφητηϲ</w>
+<milestone unit='verse' n='020101'/><w n='110210'><supplied>αρχη</supplied></w><w n='110211'><supplied>του</supplied></w><w n='110212'><supplied>ευα</supplied>γγελιου</w><w n='110213'>ιηϲου</w><w n='110214'>χριϲτου</w><lb/><w n='110301'>υιου</w><w n='110302'>θεου</w><w n='110303'>υιου</w><w n='110304'>αβρααμ</w>
+<milestone unit='verse' n='030101'/><w n='110305'>επε<supplied>ιδ</supplied><unclear>ηπ</unclear>ερ</w><w n='110306'>πολλοι</w><w n='110307'>επιχειρηϲαν</w><w n='110308'>α<unclear>ν</unclear><supplied>αταξα</supplied>ϲθαι</w><w n='110309'>δ<supplied>ι</supplied>ηγ<supplied>η</supplied>ϲιν</w><w n='110310'>περι</w><w n='110311'>των</w><lb/><w n='110401'>πεπληροφορημενον</w><w n='110402'>εν</w><w n='110403'><unclear>ημι</unclear><supplied>ν</supplied></w><w n='110404'><supplied>π</supplied>ραγματων</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='010609'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='110501'>πατερ</w><w n='110502'>ημων</w><w n='110503'>ο</w><w n='110504'>εν</w><w n='110505'>τοιϲ</w><w n='110506'>ου<supplied>ραν</supplied>οιϲ</w><w n='110507'>αγιαϲθητο</w><w n='110508'>το</w><w n='110509'>ονομα</w><w n='110510'>ϲου</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='1'/>
+</ab>
+</body>
+</text>
+</TEI>

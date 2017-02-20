@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10095</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P95</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>John 5:26-29, 36-38</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 4.4x4 (25x12), 1 extant leaf(s), 1 column(s), 9 (35) line(s) per column, 19-22 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-224 Original scribe with professional hand (7 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Biblioteca Medicea Laurentiana (Medicean Laurentian Library) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>PL II/31, Biblioteca Medicea Laurentiana (Medicean Laurentian Library), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Lenaerts, Jean, “Un papyrus l'Evangile de Jean: PL II/31”, Chronique d'Egypte, no. 60, p. 117-120, Musées royaux d'art et d'histoire: Bruxelles, België, 1985. OCLC 1554541.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040526'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ε</supplied>αυτω</w>
+<milestone unit='verse' n='040527'/><w n='110102'>κα<supplied>ι</supplied></w><lb/><w n='110202'><supplied>εξ</supplied>ουϲιαν</w><w n='110203'>εδ<supplied>ωκεν</supplied></w><lb/><w n='110301'><supplied>αυτω</supplied></w><w n='110302'><supplied>κριϲιν</supplied></w><w n='110303'><supplied>π</supplied>οιειν</w><w n='110304'>οτι</w><w n='110305'>υι<unclear>ο</unclear><supplied>ϲ</supplied></w><lb/><w n='110402'><supplied>εϲτι</supplied>ν</w>
+<milestone unit='verse' n='040528'/><w n='110403'>μη</w><lb/><w n='110502'><supplied>τουτο</supplied></w><w n='110503'><supplied>ο</supplied>τι</w><w n='110504'>ερχεται</w><w n='110505'><supplied>ωρα</supplied></w><lb/><w n='110601'><supplied>εν</supplied></w><w n='110602'><supplied>η</supplied></w><w n='110603'><supplied>παντεϲ</supplied></w><w n='110604'><supplied><supplied>ο</supplied><unclear>ι</unclear></supplied></w><w n='110605'><unclear>ε</unclear>ν</w><w n='110606'><supplied>τ</supplied>οιϲ</w><lb/><w n='110702'><supplied>ακουϲαντ</supplied>εϲ</w><w n='110703'>τηϲ</w><lb/><w n='110802'><supplied>αυτου</supplied></w>
+<milestone unit='verse' n='040529'/><w n='110803'><supplied>και</supplied></w><lb/><w n='110902'><supplied>οι</supplied></w><w n='110903'><supplied>τα</supplied></w><w n='110904'><supplied>αγαθα</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='040536'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='210202'>αυτα</w><w n='210203'><unclear>τ</unclear><supplied>α</supplied></w><w n='210204'><supplied>εργα</supplied></w><w n='210205'><supplied>α</supplied></w><w n='210206'><supplied>ποιω</supplied></w><lb/><w n='210301'><supplied>μαρ</supplied><unclear>τ</unclear>υρει</w><w n='210302'>περι</w><w n='210303'>ε<unclear>μ</unclear><supplied>ου</supplied></w><w n='210304'><supplied>οτι</supplied></w><w n='210305'><supplied>ο</supplied></w><w n='210306'><supplied><abbr type='nominasacra'>πρ</abbr></supplied></w><w n='210307'><supplied>με</supplied></w><lb/><w n='210401'><supplied>απε</supplied>ϲταλκεν</w>
+<milestone unit='verse' n='040537'/><w n='210402'>κα<supplied>ι</supplied></w><w n='210403'><supplied>ο</supplied></w><w n='210404'><supplied>πεμψαϲ</supplied></w><w n='210405'><supplied>με</supplied></w><lb/><w n='210501'><supplied><abbr type='nominasacra'>πρ</abbr></supplied></w><w n='210502'><supplied>ε</supplied>κεινοϲ</w><w n='210503'>μεμ<supplied>αρτυρηκεν</supplied></w><lb/><w n='210601'><supplied>πε</supplied>ρι</w><w n='210602'>εμου</w><w n='210603'>ο<unclear>υ</unclear><supplied>τε</supplied></w><w n='210604'><supplied>φωνην</supplied></w><lb/><w n='210702'><unclear>π</unclear>ωπ<supplied>ο</supplied><unclear>τ</unclear><supplied>ε</supplied></w><w n='210703'><supplied>ακηκοατε</supplied></w><lb/><w n='210802'>ειδοϲ</w><w n='210803'><unclear>α</unclear><supplied>υτου</supplied></w><w n='210804'><supplied>εωρακατε</supplied></w>
+<milestone unit='verse' n='040538'/><w n='210805'><supplied>και</supplied></w><lb/><w n='210901'><supplied>το</supplied>ν</w><w n='210902'>λο<unclear>γ</unclear><supplied>ον</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

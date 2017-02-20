@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061695</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61695</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Jude 1:4-5, 7-8</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 2.9x5.3, 1 extant leaf(s), 1 column(s), 5 line(s) per column, 12-14 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-324 Original scribe (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Loaned  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oxy. 2684, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Parsons, P. J., The Oxyrhynchus Papyri, vol. 34, no. 2684, Egypt Exploration Society: London, England, 1968. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='260104'/><gap unit='page' extent='unknown'/><note>*</note><pb/><w n='110102'>και</w><w n='110103'>τον</w><lb/><w n='110202'>δεϲποτην</w><lb/><w n='110301'><abbr type='nominasacra'>κν</abbr></w><w n='110302'>ημων</w><w n='110303'><abbr type='nominasacra'>ιην</abbr></w><w n='110304'><abbr type='nominasacra'>χρν</abbr></w><pb/><w n='210101'>αρνουμενοι</w>
+<milestone unit='verse' n='260105'/><lb/><w n='210202'>δε</w><w n='210203'>υμαϲ</w><lb/><w n='210301'>βουλομε</w><w n='210302'>αδελφ<unclear>οι</unclear></w><note>*</note>
+<milestone unit='verse' n='260107'/><pb/><note>*</note><w n='310101'>αιωνιου</w><w n='310102'>δικην</w><lb/><w n='310201'>επεχουϲαι</w>
+<milestone unit='verse' n='260108'/><w n='310202'>ομοιωϲ</w><lb/><w n='310301'>μεντοι</w><w n='310302'>και</w><w n='310303'>αυτοι</w><lb/><lb/><pb/><w n='410101'>ϲαρκα</w><w n='410102'>μεν</w><lb/><lb/><w n='410302'>δε</w><lb/><w n='410402'>δοξα<unclear>ν</unclear></w><w n='410403'>δε</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

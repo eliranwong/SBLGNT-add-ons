@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064605</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64605</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 6:9-11 omitting Matt. 6:10</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 15.5x13 (?), 1 extant leaf(s), 1 column(s), 20 (?) line(s) per column, 30 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>350-549 Original scribe (2 verses).</handNote>
+<handNote>350-549 ^ Original scribe (1 verses edited).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Princeton University, Harvey S. Firestone Memorial Library at Princeton, NJ.</provenance>
+</history>
+<msPart><msIdentifier><msName>AM 8963, Princeton University, Harvey S. Firestone Memorial Library, Princeton, NJ.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Kase, Edmund Harris Jr., Papyri in the Princeton University Collections, vol. 2, no. 107, p. 102-103, Princeton University Press: Princeton, NJ, 1936. OCLC 61950190.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010609'/><pb/><gap unit='line' quantity='12'/><gap unit='character' extent='unknown'/><note>*</note><w n='111301'>πατηρ</w><w n='111302'><unclear>υ</unclear>μων</w><app><rdg type='corr' hand='^'><w n='111303'>ο</w></rdg><rdg type='orig'></rdg></app><w n='111305'>εν</w><w n='111306'>τηϲ</w><lb/><w n='111401'>ουρανηϲ</w><w n='111402'>αγιαϲ<unclear>θ</unclear>ητω</w><w n='111403'>τω</w><w n='111404'>θελημα</w><w n='111405'>ϲου</w>
+<milestone unit='verse' n='010610'/><note>*</note>
+<milestone unit='verse' n='010611'/><lb/><w n='111502'>αρτον</w><w n='111503'>υμων</w><w n='111504'>των</w><w n='111505'>επιουϲιων</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='5'/>
+</ab>
+</body>
+</text>
+</TEI>

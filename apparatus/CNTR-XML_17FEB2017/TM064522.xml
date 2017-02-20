@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064522</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64522</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>1Cor. 6:16-17, Heb. 4:15</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 4x5.6 (? ), 1 extant leaf(s), 1 column(s), 7 (?) line(s) per column, 40-43 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Österreichische Nationalbibliothek (Austrian National Library) at Wien, Österreich.</provenance>
+</history>
+<msPart><msIdentifier><msName>Pap. G. 29345, Österreichische Nationalbibliothek (Austrian National Library), Wien, Österreich.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Hagedorn, Dieter, “Beobachtungen zu zwei Texten christlich-literarischen Inhalts aus der Wiener Papyrussammlung”, Zeitschrift für Papyrologie und Epigraphik, no.163, p. 67-70, Rudolf Habelt: Bonn, Deutschland, 2007. OCLC 1466587.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='070616'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='1'/><note>*</note><w n='110201'><supplied>οτ</supplied><unclear>ι</unclear></w><w n='110202'><unclear>ο</unclear></w><w n='110203'><unclear>κολλωμ</unclear>ενοϲ</w><w n='110204'>τη</w><w n='110205'>π<supplied>ορνη</supplied></w><w n='110206'><supplied>εν</supplied></w><w n='110207'><supplied>ϲωμα</supplied></w><lb/><w n='110301'><supplied>εϲτιν</supplied></w>
+<milestone unit='verse' n='070617'/><w n='110302'><supplied>ο</supplied></w><w n='110303'><supplied>δε</supplied></w><w n='110304'><supplied>κο</supplied><unclear>λ</unclear>λωμενοϲ</w><w n='110305'>τωι</w><w n='110306'><abbr type='nominasacra'>κω</abbr></w><w n='110307'><unclear>ε</unclear><supplied>ν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='4'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='190415'/><pb/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><w n='210201'><supplied>δυ</supplied>ναμενον</w><w n='210202'><unclear>ϲυ</unclear>μπαθηϲ<supplied>αι</supplied></w><w n='210203'><supplied>ταιϲ</supplied></w><lb/><w n='210302'><supplied>ημων</supplied></w><w n='210303'><supplied>πεπειρ</supplied><unclear>α</unclear>ϲμενον</w><w n='210304'>δε</w><w n='210305'>κατα</w><w n='210306'>παν<supplied>τα</supplied></w><w n='210307'><supplied>καθ</supplied></w><w n='210308'><supplied>ομοιοτητα</supplied></w><lb/><w n='210401'><supplied>χωριϲ</supplied></w><w n='210402'><supplied>αμαρτια</supplied><unclear>ϲ</unclear></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='2'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

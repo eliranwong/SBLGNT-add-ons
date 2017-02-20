@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064399</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64399</msName></msIdentifier>
+<msContents>
+<summary>Homily</summary>
+<msItem><p>Luke 6:45-46, 7:29-30</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 3.9x5.3 (?), 1 extant leaf(s), 1 column(s), 8 (?) line(s) per column, 25-29 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Donated 1958 to Chester Beatty Library at Dublin, Ireland from Wilfred Merton Collection.</provenance>
+</history>
+<msPart><msIdentifier><msName>MP 51, Chester Beatty Library, Dublin, Ireland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Bernhard, Andrew E., Other Early Christian Gospels, p. 106-107, T&T Clark International: London, England, 2006. OCLC 64960018.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030729'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>λα</supplied>οϲ</w><w n='110102'>και</w><w n='110103'>οι</w><w n='110104'>τε<unclear>λω</unclear><supplied>ναι</supplied></w><lb/><w n='110201'><supplied>ακουϲαντεϲ</supplied></w><w n='110202'><supplied>εδικ</supplied><unclear>α</unclear>ιωϲαν</w><w n='110203'>τον</w><w n='110204'><abbr type='nominasacra'>θν</abbr></w><lb/><w n='110301'><supplied>ομολογουντεϲ</supplied></w><w n='110302'><supplied>ταϲ</supplied></w><w n='110303'>αμαρτιαϲ</w><w n='110304'>εαυτων</w>
+<milestone unit='verse' n='030730'/><lb/><w n='110401'><supplied>οι</supplied></w><w n='110402'><supplied>δε</supplied></w><w n='110403'><supplied>φαριϲαιοι</supplied></w><w n='110404'><supplied>ο</supplied>υκ</w><w n='110405'>εβαπτιϲαντο</w><lb/><w n='110501'><supplied>υπο</supplied></w><w n='110502'><supplied>ιωαννου</supplied></w><w n='110503'><supplied>την</supplied></w><w n='110504'><supplied>δε</supplied></w><w n='110505'><supplied>βου</supplied><unclear>λη</unclear>ν</w><w n='110506'>του</w><w n='110507'><abbr type='nominasacra'>θυ</abbr></w><lb/><w n='110601'><supplied>και</supplied></w><w n='110602'><supplied>την</supplied></w><w n='110603'><supplied>εντολην</supplied></w><w n='110604'><supplied>του</supplied></w><w n='110605'><abbr type='nominasacra'><supplied>θ</supplied>υ</abbr></w><w n='110606'>ηθετηϲα<unclear>ν</unclear></w><note>*</note><gap unit='line' quantity='2'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='030645'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='2'/><gap unit='character' extent='unknown'/><note>*</note><w n='210301'>και</w><w n='210302'>οτε</w><w n='210303'>αποϲ<unclear>τ</unclear><supplied>ελλετε</supplied></w><w n='210304'><supplied>εκ</supplied></w><w n='210305'><supplied>του</supplied></w><lb/><w n='210402'>θηϲαυρου</w><w n='210403'>τ<unclear>η</unclear><supplied>ϲ</supplied></w><w n='210404'><supplied>καρδιαϲ</supplied></w><w n='210405'><supplied>αγαθα</supplied></w><w n='210406'><supplied>ουκ</supplied></w><lb/><w n='210501'>απολλυ<unclear>τα</unclear><supplied>ι</supplied></w><w n='210502'><supplied>ο</supplied></w><w n='210503'><supplied>αγαθοϲ</supplied></w><w n='210504'><supplied>καρποϲ</supplied></w><lb/><w n='210601'><supplied>αυ</supplied>τηϲ</w>
+<milestone unit='verse' n='030646'/><w n='210602'>ουκ</w><w n='210603'>απ<supplied>α</supplied></w><w n='210604'><supplied>με</supplied></w><w n='210605'><supplied>καλειτε</supplied></w><w n='210606'><supplied><abbr type='nominasacra'>κε</abbr></supplied></w><w n='210607'><supplied><abbr type='nominasacra'>κε</abbr></supplied></w><lb/><w n='210701'><supplied>και</supplied></w><w n='210702'>ου</w><w n='210703'>ποιειτε</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='1'/>
+</ab>
+</body>
+</text>
+</TEI>

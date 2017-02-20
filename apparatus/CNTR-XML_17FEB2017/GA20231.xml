@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20231</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0231</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Matt. 26:75-27:1, 27:3-4</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 5.9x4.8 (15x11.5), 1 extant leaf(s), 2 column(s), 9 (15) line(s) per column, 13-15 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe with professional hand (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1913-1914 by J. de M. Johnson at Sheikh-'Ibada, Miṣr.</provenance>
+<provenance>Transferred  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Ant. 1 11, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Roberts, G. R., The Antinoopolis Papyri, vol. 1, no. 11, p. 23-24, Egypt Exploration Society: London, England, 1950. OCLC 1191310.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='012675'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='7'/><note>*</note><w n='120801'><supplied>αλεκτορ</supplied><unclear>ο</unclear>φ<unclear>ω</unclear><supplied>νιαϲ</supplied></w><lb/><w n='120901'><supplied>τριϲ</supplied></w><w n='120902'><supplied>α</supplied>παρνηϲ<unclear>η</unclear></w><w n='120903'><supplied>με</supplied></w><lb/><w n='121001'><supplied>και</supplied></w><w n='121002'><supplied>εξ</supplied>ελθων</w><w n='121003'>εξω</w><lb/><w n='121101'><supplied>εκλαυϲ</supplied><unclear>ε</unclear>ν</w><w n='121102'>πικρωϲ</w>
+<milestone unit='verse' n='012701'/><lb/><w n='121201'><supplied>πρωιαϲ</supplied></w><w n='121202'>δε</w><lb/><lb/><w n='121402'><supplied>ελ</supplied>αβον</w><w n='121403'>παντεϲ</w><lb/><w n='121501'><supplied>οι</supplied></w><w n='121502'><supplied>αρ</supplied>χι<unclear>ερε</unclear>ιϲ</w><w n='121503'>και</w><w n='121504'>οι</w><note>*</note>
+<milestone unit='verse' n='012703'/><pb/><gap unit='line' quantity='7'/><gap unit='character' extent='unknown'/><note>*</note><w n='210801'><supplied>ι</supplied><unclear>ο</unclear><supplied>υ</supplied>δ<supplied>αϲ</supplied></w><w n='210802'><supplied>ο</supplied></w><lb/><w n='210902'>α<unclear>υ</unclear><supplied>τ</supplied><unclear>ον</unclear></w><w n='210903'><unclear>ο</unclear><supplied>τι</supplied></w><lb/><lb/><w n='211102'>ε<unclear>ϲ</unclear><supplied>τρεψεν</supplied></w><lb/><w n='211201'><unclear>τα</unclear></w><w n='211202'><unclear>τρι</unclear>ακ<unclear>ο</unclear><supplied>ντα</supplied></w><lb/><w n='211302'>τοιϲ</w><lb/><w n='211402'>και</w><lb/>
+<milestone unit='verse' n='012704'/><w n='211502'>λεγων</w><cb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='14'/>
+</ab>
+</body>
+</text>
+</TEI>

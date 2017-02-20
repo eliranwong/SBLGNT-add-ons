@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064692</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64692</msName></msIdentifier>
+<msContents>
+<summary>Liturgy</summary>
+<msItem><p>Luke 1:79, 1Tim. 2:4</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 28x16, 1 extant leaf(s), 1 column(s), 37 line(s) per column, 25-29 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>375-399 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1911 by Abel at Al Ashmūnayn, Miṣr.</provenance>
+<provenance>Transferred 1911 to Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 13415, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Schmidt, Carl, “Zwei altchristliche Gebete”, Neutestamentliche Studien. Georg Heinrici zu seinem 70. Geburtstag, p. 66, J.C. Hinrichs: Leipzig, Deutschland, 1914. OCLC 555639575.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030179'/><pb/><gap unit='line' quantity='15'/><gap unit='character' extent='unknown'/><note>*</note><w n='111601'>εν</w><w n='111602'>ϲ<supplied>κοτει</supplied></w><w n='111603'><supplied>και</supplied></w><lb/><w n='111701'>ϲ<unclear>κ</unclear><supplied>ια</supplied></w><w n='111702'><unclear>θ</unclear>ανατου</w><w n='111703'>καθημεν<supplied>οιϲ</supplied></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='150204'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='111801'><supplied>θελων</supplied></w><lb/><w n='111901'>π<supplied>αντ</supplied>αϲ</w><w n='111902'><abbr type='nominasacra'>ανουϲ</abbr></w><w n='111903'>ϲωθηναι</w><w n='111904'><unclear>κ</unclear><supplied>αι</supplied></w><w n='111905'><supplied>ειϲ</supplied></w><lb/><w n='112002'>αληθειαϲ</w><w n='112003'>ελθει<unclear>ν</unclear></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='17'/>
+</ab>
+</body>
+</text>
+</TEI>

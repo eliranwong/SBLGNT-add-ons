@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061715</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61715</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>Luke 4:1-2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 22x15, 1 extant leaf(s), 1 column(s), 10 (18) line(s) per column, 18-21 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-349 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Natsionalʹna Biblioteka Ukraini imeni V. I. Vernadsʹkogo (Vernadsky National Library of Ukraine) at Ukraina, Kiev.</provenance>
+</history>
+<msPart><msIdentifier><msName>F. 301 (KDA), 553p, Natsionalʹna Biblioteka Ukraini imeni V. I. Vernadsʹkogo (Vernadsky National Library of Ukraine), Ukraina, Kiev.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Aland, Kurt, “Neue neutestamentliche Papyri”, New Testament Studies, no. 3, p. 261-265, Cambridge University Press: London, England, 1957. OCLC 1713962.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030401'/><pb/><gap unit='line' quantity='4'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='6'/><w n='111201'><abbr type='nominasacra'>ιϲ</abbr></w><w n='111202'><unclear>δε</unclear></w><w n='111203'>πλ<supplied>ηρηϲ</supplied></w><w n='111204'><abbr type='nominasacra'><supplied>π</supplied><unclear>ν</unclear>ϲ</abbr></w><w n='111205'>αγιου</w><lb/><w n='111302'><supplied>απ</supplied>ο</w><w n='111303'>του</w><lb/><w n='111402'><supplied>και</supplied></w><w n='111403'><supplied>ηγετο</supplied></w><w n='111404'>εν</w><w n='111405'><unclear>τω</unclear></w><w n='111406'><abbr type='nominasacra'>πνι</abbr></w><lb/><w n='111501'><unclear>εν</unclear></w><w n='111502'><unclear>τη</unclear></w><w n='111503'><unclear>ερ</unclear><supplied>ημ</supplied><unclear>ω</unclear></w>
+<milestone unit='verse' n='030402'/><w n='111504'><unclear>ημερα</unclear>ϲ</w><lb/><w n='111602'>πειραζομενοϲ</w><lb/><w n='111701'>υπο</w><w n='111702'>του</w><w n='111703'>διαβολου</w><w n='111704'>και</w><w n='111705'>ουκ</w><lb/><w n='111802'>ου<unclear>δε</unclear>ν</w><w n='111803'>εν</w><w n='111804'>ταιϲ</w><lb/><w n='111902'><unclear>εκ</unclear><supplied>εινα</supplied><unclear>ιϲ</unclear></w><w n='111903'>κ<unclear>α</unclear>ι</w><lb/><w n='112002'><supplied>αυτων</supplied></w><lb/><gap unit='character' extent='unknown'/><gap unit='line' quantity='8'/>
+</ab>
+</body>
+</text>
+</TEI>

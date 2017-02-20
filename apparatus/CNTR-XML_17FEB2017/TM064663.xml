@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064663</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64663</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>Matt. 6:33-34</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 26.3x14.2, 1 extant leaf(s), 1 column(s), 22 (?) line(s) per column, 22-24 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-599 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Discovered  by Ieras Monēs Theobadistou Orous Sina, Agias Aikaterinēs (Holy Monastery of St. Catherine at Mount Sinai) at Dayr al Qiddīsah Kātrīnā, Miṣr.</provenance>
+<provenance>Transferred  to Uspensky private collection at Ukraina, Kiev.</provenance>
+<provenance>Transferred 1887-1889 to 152b, Geistliche Akademie, Archaologisches Museum at Ukraina, Kiev.</provenance>
+<provenance>Transferred post 1954 to Natsionalʹna Biblioteka Ukraini imeni V. I. Vernadsʹkogo (Vernadsky National Library of Ukraine) at Ukraina, Kiev.</provenance>
+</history>
+<msPart><msIdentifier><msName>Petrov 533b, Natsionalʹna Biblioteka Ukraini imeni V. I. Vernadsʹkogo (Vernadsky National Library of Ukraine), Ukraina, Kiev.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Aland, Kurt, “Nue Neutestamentliche Papyri”, New Testament Studies, vol. 3, no. 4, p. 261-266, Cambridge University Press: London, England, 1957 July. OCLC 1713962.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010633'/><pb/><gap unit='line' quantity='5'/><note>*</note><w n='110601'><supplied>τη</supplied>ν</w><w n='110602'>βαϲιλει<supplied>αν</supplied></w><w n='110603'><supplied>και</supplied></w><w n='110604'><supplied>την</supplied></w><lb/><w n='110702'>α<unclear>υ</unclear><supplied>του</supplied></w><w n='110703'><supplied>και</supplied></w><w n='110704'><supplied>ταυτα</supplied></w><w n='110705'><supplied>παντα</supplied></w><lb/><w n='110802'><supplied>υμιν</supplied></w>
+<milestone unit='verse' n='010634'/><w n='110803'><supplied>μη</supplied></w><w n='110804'><supplied>ουν</supplied></w><lb/><w n='110902'><supplied>ειϲ</supplied></w><w n='110903'><supplied>την</supplied></w><w n='110904'><supplied>αυριον</supplied></w><w n='110905'><supplied>η</supplied></w><lb/><w n='111001'><supplied>γα</supplied>ρ</w><w n='111002'>αυριο<supplied>ν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='12'/>
+</ab>
+</body>
+</text>
+</TEI>

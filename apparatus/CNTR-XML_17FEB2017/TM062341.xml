@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062341</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62341</msName></msIdentifier>
+<msContents>
+<summary>Homily by Origen written 200-254 in Alexandria, Aegyptus</summary>
+<msItem><p>John 4:13-14, 1Cor. 2:14, 5:7</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 25x17, 12 extant leaf(s), 1 column(s), 27 line(s) per column, 37 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe (4 verses).</handNote>
+</handDesc>
+<additions><p>Sheets from a documentary scroll containing a land register, liturgical lists, and corresponce (P. Achmim 6-9 and P. Bouriant 41a-b) on the recto and blank of the verso were cut and glued together back to back to make a new codex. P. Achmim 1 (P. Bouriant 3) and Coptic texts of Exodus and Sirach were written on the blank pages (verso's of the original scroll). </p></additions>
+</physDesc>
+<history>
+<provenance>Discovered 1883? by M. Maspero at Dayr Anbā Shanūdah, Miṣr.</provenance>
+<provenance>[1-4] Purchased  by Bouriant 38v, Urbain Bouriant at Al Qāhirah, Miṣr.</provenance>
+<provenance>[1-4] Transferred  to Université Paris-Sorbonne, Institut de Papyrologie (Paris-Sorbonne University, Institute of Papyrology) at Paris, France.</provenance>
+<provenance>[5] Obtained 1887 by Bibliothèque nationale de France (National Library of France) at Paris, France.</provenance>
+<provenance>[6-11] Obtained 1887 by Bibliothèque nationale de France (National Library of France) at Paris, France.</provenance>
+<provenance>[12] Obtained 1887 by Bibliothèque nationale de France (National Library of France) at Paris, France.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1-4] 828, Université Paris-Sorbonne, Institut de Papyrologie (Paris-Sorbonne University, Institute of Papyrology), Paris, France.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[5] Copte 135B 17, Suppl. Grec 1099, Bibliothèque nationale de France (National Library of France), Paris, France.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[6-11] Copte 135A 4,7,9, 135B 1-4,12, Bibliothèque nationale de France (National Library of France), Paris, France.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[12] Copte 135B 6, Bibliothèque nationale de France (National Library of France), Paris, France.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[1-4] Collart, Paul, “3. Homelie”, Les Papyrus Bouriant, p. 31-37, Honoré Champion: Paris, France, 1926. OCLC 9420157.</bibl>
+<bibl>[5-12] Collart, Paul, Les papyrus grecs d'Achmîm à la Bibliothèque nationale de Paris, no. 31, p. 33-111, Le Bulletin de l’Institut Français d’Archéologie Orientale: Le Caire, Égypte, 1931. OCLC 3908825.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040413'/><gap unit='page' quantity='3'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><note>*</note><w n='410401'>παϲ</w><w n='410402'>γαρ</w><w n='410403'>ο</w><w n='410404'>πινων</w><w n='410405'>εκ</w><w n='410406'>του</w><w n='410407'>υδα<supplied>τοϲ</supplied></w><w n='410408'>τουτου</w><w n='410409'>διψηϲηϲει</w><lb/>
+<milestone unit='verse' n='040414'/><w n='410502'>οϲ</w><w n='410503'>δ</w><w n='410504'>αν</w><w n='410505'>πειη</w><w n='410506'>εκ</w><w n='410507'>του</w><w n='410508'>υδ<unclear>α</unclear><supplied>τοϲ</supplied></w><w n='410509'>ου</w><w n='410510'>εγω</w><w n='410511'>αναδωϲω</w><w n='410512'>ου</w><w n='410513'>μη</w><lb/><w n='410601'>διψηϲη</w><w n='410602'>ειϲ</w><w n='410603'>τον</w><w n='410604'>αιωνα</w><w n='410605'>αλλα</w><w n='410606'>γενηϲεται</w><w n='410607'>εν</w><w n='410608'>αυτω</w><lb/><w n='410702'>υδατοϲ</w><w n='410703'>ζωντοϲ</w><w n='410704'>αλλομενου</w><w n='410705'>ειϲ</w><w n='410706'>ζωην</w><lb/>
+<milestone unit='verse' n='070507'/><gap unit='page' quantity='1'/><gap unit='line' quantity='9'/><note>*</note><w n='611001'><unclear>το</unclear></w><w n='611002'>παϲχα</w><w n='611003'>ημων</w><w n='611004'>εθυθη</w><w n='611005'><abbr type='nominasacra'>χϲ</abbr></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='14'/>
+<milestone unit='verse' n='070214'/><gap unit='page' quantity='1'/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><w n='810401'>ο</w><w n='810402'>ψυχικοϲ</w><w n='810403'>γαρ</w><w n='810404'><abbr type='nominasacra'>ανοϲ</abbr></w><w n='810405'>ου</w><lb/><w n='810501'>δεχεται</w><w n='810502'>τα</w><w n='810503'>του</w><w n='810504'><abbr type='nominasacra'>πνοϲ</abbr></w><w n='810505'>μ<supplied>ωρ</supplied>ια</w><w n='810506'>γαρ</w><w n='810507'>αυτω</w><w n='810508'>εϲτιν</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='20'/>
+</ab>
+</body>
+</text>
+</TEI>

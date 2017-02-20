@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM641699</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 641699</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Col. 3:9-10</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 6.6x6.8, 1 extant leaf(s), 1 column(s), 4 line(s) per column, 30-34 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe (2 verses).</handNote>
+</handDesc>
+<additions><p>The verso contains a writing excersice. </p></additions>
+</physDesc>
+<history>
+<provenance>Excavated 1922 by Petrie at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Transferred  to University College London, Petrie Museum of Egyptian Archaeology at London, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>UC32070, University College London, Petrie Museum of Egyptian Archaeology, London, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Wayment, Thomas A., “A Christian Amulet Containing Colossians 3:9-10”, Vigiliae Christianae, vol. 39, no. 5, p. 528-533, Brill Academic Publishers: Leiden, Nederland, 2015. OCLC 1640835.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='120309'/><pb/><note>*</note><w n='110101'>απεκδυϲαμενοι</w><w n='110102'><unclear>τ</unclear><supplied>ον</supplied></w><w n='110103'><supplied>παλαιον</supplied></w><w n='110104'><supplied><abbr type='nominasacra'>ανον</abbr></supplied></w><w n='110105'><supplied>ϲυν</supplied></w><lb/><w n='110201'>ταιϲ</w><w n='110202'>πρα<unclear>ξ</unclear>εϲιν</w><w n='110203'>αυτ<unclear>ο</unclear><supplied>υ</supplied></w>
+<milestone unit='verse' n='120310'/><w n='110204'><supplied>και</supplied></w><w n='110205'><supplied>ενδυϲαμενοι</supplied></w><w n='110206'><supplied>τον</supplied></w><lb/><w n='110301'>νεον</w><w n='110302'>α<unclear>να</unclear>καινο<supplied>υμενον</supplied></w><w n='110303'><supplied>ειϲ</supplied></w><w n='110304'><supplied>επιγνωϲιν</supplied></w><w n='110305'><supplied>κατ</supplied></w><lb/><w n='110401'>εικονα</w><w n='110402'>του</w><w n='110403'>κτιϲα<supplied>ντοϲ</supplied></w><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

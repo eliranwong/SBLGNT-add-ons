@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064348</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64348</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>John 1:16</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 12x8, scroll, 3 column(s), 17 (?) line(s) per column, 19? characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-399 Original scribe (1 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Discovered   at Akhmīm, Miṣr.</provenance>
+<provenance>Transferred  to Bibliothèque Nationale et Universitaire de Strasbourg (Strasbourg National and University Library) at Strasbourg, France.</provenance>
+</history>
+<msPart><msIdentifier><msName>Gr. 1017, Bibliothèque Nationale et Universitaire de Strasbourg (Strasbourg National and University Library), Strasbourg, France.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Plasberg, O., “Strassburger Anekdota”, Archiv für Papyrusforschung und verwandte Gebiete, vol. 2, p. 217-224, Druck und Verlag von B. G. Teubner: Leipzig, Deutschland, 1903. OCLC 1482000.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040116'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='4'/><gap unit='character' extent='unknown'/><note>*</note><w n='100501'><supplied>χαρ</supplied><unclear>ι</unclear>ν</w><w n='100502'>αντι</w><lb/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

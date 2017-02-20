@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061840</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61840</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 6:9-13, 2Cor. 13:13</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 7.7x13 (?), 1 extant leaf(s), 1 column(s), 12 (?) line(s) per column, 46-52 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>350-399 Original scribe (6 verses).</handNote>
+<handNote>350-399 ^ Original scribe (1 verses edited).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>[1] Purchased 1936  at Al Bahnasā, Miṣr.</provenance>
+<provenance>[1] Transferred 1936 to Universitetsbiblioteket i Oslo (University of Oslo Library) at Oslo, Norge.</provenance>
+<provenance>[2] Purchased 1989 Apr. by Martin Schøyen at Oslo, Norge from Hans P. Kraus.</provenance>
+<provenance>[2] Transferred 1989 to Nasjonalbiblioteket, Schøyen Collection (National Library, Schøyen Collection) at Oslo, Norge.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1] Inv. 1644, Universitetsbiblioteket i Oslo (University of Oslo Library), Oslo, Norge.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[2] MS 244/4, Nasjonalbiblioteket, Schøyen Collection (National Library, Schøyen Collection), Oslo, Norge.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[1] Amundsen, Leiv, “Christian Papyri from the Oslo Collection”, Symbolae Osloenses, no. 24, p. 141-147, Universitetsforlaget: Oslo, Norge, 1945. OCLC 1605827.</bibl>
+<bibl>[2] Pintaudi, Rosario, “Amuleto Christiano: LXX, PS. 90.4-13 (MS 244/4)”, Papyri Graecae Schoyen : PSchoyen 1, no. 16, p. 55-56, Gonnelli: Firenze, Italia, 2005. OCLC 506322930.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010609'/><pb/><note>*</note><w n='110101'><unclear>π</unclear><supplied>ατε</supplied>ρ</w><w n='110102'>ημων</w><w n='110103'>ω</w><w n='110104'>εν</w><w n='110105'>τοιϲ</w><w n='110106'><unclear>ο</unclear><supplied>υρανοιϲ</supplied></w><w n='110107'><supplied>αγιαϲθητω</supplied></w><w n='110108'><supplied>το</supplied></w><w n='110109'><supplied>ονομα</supplied></w><w n='110110'><supplied>ϲου</supplied></w>
+<milestone unit='verse' n='010610'/><w n='110111'><supplied>ελθετω</supplied></w><w n='110112'><supplied>η</supplied></w><lb/><w n='110202'>ϲου</w><w n='110203'>γενεθητ<supplied>ω</supplied></w><w n='110204'><supplied>το</supplied></w><w n='110205'><supplied>θελημα</supplied></w><w n='110206'><supplied>ϲου</supplied></w><w n='110207'><supplied>ωϲ</supplied></w><w n='110208'><supplied>εν</supplied></w><w n='110209'><supplied>τω</supplied></w><w n='110210'><supplied>ουρανω</supplied></w><w n='110211'><supplied>και</supplied></w><w n='110212'><supplied>επι</supplied></w><lb/><w n='110302'>γηϲ</w>
+<milestone unit='verse' n='010611'/><w n='110303'>τον</w><w n='110304'>αρτον</w><w n='110305'>ημ<unclear>ω</unclear><supplied>ν</supplied></w><app><rdg type='corr' hand='^'><w n='110306'>τ<unclear>ον</unclear></w></rdg><rdg type='orig'></rdg></app><w n='110308'>επιουϲιον</w><w n='110309'>δοϲ</w><w n='110310'>ημιν</w><w n='110311'>ϲημερον</w>
+<milestone unit='verse' n='010612'/><lb/><w n='110402'><supplied>α</supplied><unclear>φ</unclear><supplied>εϲ</supplied></w><w n='110403'><supplied>ημιν</supplied></w><w n='110404'><supplied>τα</supplied></w><w n='110405'><supplied>οφιληματα</supplied></w><w n='110406'><supplied>ημων</supplied></w><w n='110407'><supplied>ωϲ</supplied></w><w n='110408'><supplied>και</supplied></w><w n='110409'><supplied>ημειϲ</supplied></w><w n='110410'><supplied>αφηκαμεν</supplied></w><lb/><w n='110501'><unclear>τοι</unclear><supplied>ϲ</supplied></w><w n='110502'><supplied>ο</supplied><unclear>φελ</unclear></w><w n='110503'><unclear>η</unclear>μω<unclear>ν</unclear></w>
+<milestone unit='verse' n='010613'/><w n='110504'><unclear>και</unclear></w><w n='110505'><unclear>μη</unclear></w><w n='110506'><supplied>ειϲενεγκηϲ</supplied></w><w n='110507'><supplied>ημαϲ</supplied></w><w n='110508'><supplied>ειϲ</supplied></w><w n='110509'><supplied>πειραϲμον</supplied></w><lb/><w n='110601'>αλλα</w><w n='110602'>ρυϲε</w><w n='110603'>ημαϲ</w><w n='110604'>ειϲ</w><w n='110605'>τ<supplied>ουϲ</supplied></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081313'/><lb/><w n='110701'>την</w><w n='110702'>χαριϲ</w><w n='110703'>του</w><w n='110704'>χρυϲτου</w><w n='110705'>κ<supplied>αι</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='5'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

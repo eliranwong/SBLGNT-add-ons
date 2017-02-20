@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM018004</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 18004</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>2Tim. 1:16</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 24x12.5 (?), 1 extant leaf(s), 1 column(s), 27 (?) line(s) per column, 29-34 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>306-337 Original scribe (1 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased  by Offord private collection at Muḩāfaz̧at al Jīzah, Miṣr.</provenance>
+</history>
+<msPart><msIdentifier><msName>unknown, Offord private collection, Muḩāfaz̧at al Jīzah, Miṣr.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Bilabel, Friedrich, et al., Sammelbuch Griechischer Urkunden aus Agypten, Wiesbaden Harrassowitz: Heidelberg, Deutschland, 1955. OCLC 489859490.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='160116'/><pb/><gap unit='line' quantity='10'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='111202'>οικω</w><w n='111203'>οτι</w><w n='111204'>πολλακιϲ</w><w n='111205'><supplied>με</supplied></w><w n='111206'><supplied>ανεψυξεν</supplied></w><note>*</note><gap unit='line' quantity='15'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

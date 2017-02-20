@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10052</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P52</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>John 18:31-33, 37-38</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 8.9x5.8 (22x18), 1 extant leaf(s), 1 column(s), 7 (18) line(s) per column, 28-31 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>100-124 Original scribe with reformed documentary hand (5 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā?, Miṣr.</provenance>
+<provenance>Purchased 1920 by Bernard Grenfell for University of Manchester, John Rylands Library at Miṣr.</provenance>
+<provenance>Transferred 1920 to University of Manchester, John Rylands Library at Manchester, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Greek Papyrus 457, University of Manchester, John Rylands Library, Manchester, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Roberts, C. H., An Unpublished Fragment of the Fourth Gospel in the John Rylands Library, Manchester University Press: Manchester, England, 1935. OCLC 1466248.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='041831'/><pb/><note>*</note><w n='110101'>οι</w><w n='110102'>ιουδαι<unclear>οι</unclear></w><w n='110103'>ημε<supplied>ιν</supplied></w><w n='110104'><supplied>ουκ</supplied></w><w n='110105'><supplied>εξεϲτιν</supplied></w><w n='110106'><supplied>αποκτειναι</supplied></w><lb/><w n='110201'>ουδενα</w>
+<milestone unit='verse' n='041832'/><w n='110202'>ινα</w><w n='110203'>ο</w><w n='110204'>λ<unclear>ο</unclear><supplied>γοϲ</supplied></w><w n='110205'><supplied>του</supplied></w><w n='110206'><supplied><abbr type='nominasacra'>ιηυ</abbr></supplied></w><w n='110207'><supplied>πληρωθη</supplied></w><w n='110208'><supplied>ον</supplied></w><lb/><w n='110302'>ϲημαινω<supplied>ν</supplied></w><w n='110303'><supplied>ποιω</supplied></w><w n='110304'><supplied>θανατω</supplied></w><w n='110305'><supplied>ημελλεν</supplied></w><lb/>
+<milestone unit='verse' n='041833'/><w n='110402'>ιϲ<supplied>ηλθεν</supplied></w><w n='110403'><supplied>ουν</supplied></w><w n='110404'><supplied>παλιν</supplied></w><w n='110405'><supplied>ειϲ</supplied></w><w n='110406'><supplied>το</supplied></w><lb/><w n='110502'>ο</w><w n='110503'>π<supplied>ειλατοϲ</supplied></w><w n='110504'><supplied>και</supplied></w><w n='110505'><supplied>εφωνηϲεν</supplied></w><w n='110506'><supplied>τον</supplied></w><w n='110507'><supplied><abbr type='nominasacra'>ιην</abbr></supplied></w><lb/><w n='110601'>και</w><w n='110602'>ειπ<supplied>εν</supplied></w><w n='110603'><supplied>αυτω</supplied></w><w n='110604'><supplied>ϲυ</supplied></w><w n='110605'><supplied>ει</supplied></w><w n='110606'><supplied>ο</supplied></w><w n='110607'><supplied>βαϲιλευϲ</supplied></w><w n='110608'><supplied>των</supplied></w><lb/><gap unit='character' extent='unknown'/><gap unit='line' quantity='11'/>
+<milestone unit='verse' n='041837'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>το</supplied>υτο</w><w n='210102'>γ<supplied>ε</supplied>γενν<unclear>η</unclear>μα<unclear>ι</unclear></w><lb/><w n='210201'><supplied>και</supplied></w><w n='210202'><supplied>εληλυθα</supplied></w><w n='210203'><supplied>ειϲ</supplied></w><w n='210204'><supplied>τον</supplied></w><w n='210205'><supplied>κο</supplied>ϲμον</w><w n='210206'>ινα</w><lb/><w n='210302'><supplied>τη</supplied></w><w n='210303'><supplied>αληθεια</supplied></w><w n='210304'><supplied>παϲ</supplied></w><w n='210305'><supplied>ο</supplied></w><w n='210306'><supplied>ων</supplied></w><w n='210307'><unclear>εκ</unclear></w><w n='210308'>τηϲ</w><lb/><w n='210402'><supplied>ακουει</supplied></w><w n='210403'><supplied>μου</supplied></w><w n='210404'><supplied>τηϲ</supplied></w><w n='210405'><supplied>φωνηϲ</supplied></w>
+<milestone unit='verse' n='041838'/><w n='210406'>λεγει</w><w n='210407'>αυτω</w><lb/><w n='210501'><supplied>ο</supplied></w><w n='210502'><supplied>πειλατοϲ</supplied></w><w n='210503'><supplied>τι</supplied></w><w n='210504'><supplied>εϲτιν</supplied></w><w n='210505'><supplied>αληθεια</supplied></w><w n='210506'><supplied>κ</supplied><unclear>α</unclear>ι</w><w n='210507'>τουτ<unclear>ο</unclear></w><lb/><w n='210601'><supplied>ειπων</supplied></w><w n='210602'><supplied>παλιν</supplied></w><w n='210603'><supplied>εξηλθεν</supplied></w><w n='210604'><supplied>προϲ</supplied></w><w n='210605'>τουϲ</w><lb/><w n='210702'><supplied>και</supplied></w><w n='210703'><supplied>λεγει</supplied></w><w n='210704'><supplied>αυτοιϲ</supplied></w><w n='210705'><supplied>εγω</supplied></w><w n='210706'><supplied>ουδ</supplied>εμι<supplied>αν</supplied></w><note>*</note><gap unit='line' quantity='11'/>
+</ab>
+</body>
+</text>
+</TEI>

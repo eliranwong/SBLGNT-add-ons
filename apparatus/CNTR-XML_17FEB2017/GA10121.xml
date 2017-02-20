@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10121</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P121</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>John 19:17-18, 25-26</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 4.5x3.3 (28x12), 1 extant leaf(s), 1 column(s), 4 (37) line(s) per column, 22-25 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe with documentary hand (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Loaned  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oxy. 4805, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Chappa, J., The Oxyrhynchus Papyri, vol. 71, no. 4805, Egypt Exploration Society: London, England, 2007. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='041917'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ε</supplied>βραιϲτι</w><w n='110102'><unclear>γ</unclear><supplied>ολγοθα</supplied></w>
+<milestone unit='verse' n='041918'/><w n='110103'><supplied>οπου</supplied></w><lb/><w n='110202'><supplied>εϲτρωϲα</supplied>ν</w><w n='110203'>και</w><w n='110204'>μ<unclear>ε</unclear><supplied>τ</supplied></w><w n='110205'><supplied>αυτου</supplied></w><lb/><w n='110302'><supplied>δυο</supplied></w><w n='110303'><supplied>���</supplied>α</w><w n='110304'>εντευ<supplied>θεν</supplied></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='041925'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>κλ</supplied><unclear>οπα</unclear></w><w n='210102'><supplied>και</supplied></w><w n='210103'><supplied>μαρια</supplied></w><w n='210104'><supplied>η</supplied></w><lb/><w n='210201'><supplied>μαγδαληνη</supplied></w>
+<milestone unit='verse' n='041926'/><w n='210202'><abbr type='nominasacra'>ιϲ</abbr></w><w n='210203'>ουν</w><w n='210204'>ι<supplied>δων</supplied></w><w n='210205'><supplied>την</supplied></w><w n='210206'><supplied><abbr type='nominasacra'>μρα</abbr></supplied></w><lb/><w n='210301'><supplied>και</supplied></w><w n='210302'><supplied>τον</supplied></w><w n='210303'><supplied>μα</supplied>θητην</w><w n='210304'><unclear>π</unclear><supplied>αρεϲτωτα</supplied></w><lb/><w n='210401'><supplied>ον</supplied></w><w n='210402'><supplied>ηγαπα</supplied></w><w n='210403'><supplied>λε</supplied><unclear>γ</unclear>ει</w><w n='210404'>τη</w><w n='210405'><abbr type='nominasacra'>μ<unclear>ρ</unclear><supplied>ι</supplied></abbr></w><note>*</note><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

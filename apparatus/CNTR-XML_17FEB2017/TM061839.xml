@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061839</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61839</msName></msIdentifier>
+<msContents>
+<summary>Excerpts</summary>
+<msItem><p>Matt. 11:25-30</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 6.5x5.6 (?), 13 extant leaf(s), 1 column(s), 4 (7) line(s) per column, 8-10 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (6 verses).</handNote>
+</handDesc>
+<additions><p>Also contains part of the book of Daniel. </p></additions>
+</physDesc>
+<history>
+<provenance>Discovered   at Miṣr.</provenance>
+<provenance>Transferred  to Jens Lieblein at Oslo, Norge.</provenance>
+<provenance>Transferred 1933 Sep 9 to Etnografisk Museum (Ethnographic Museum) at Oslo, Norge.</provenance>
+<provenance>Transferred  to Adolf Mauritz Fonahn at Oslo, Norge from Prof. Ole Solberg of EM.</provenance>
+<provenance>Transferred post 1940 to Universitetsbiblioteket i Oslo (University of Oslo Library) at Oslo, Norge.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oslo Inv. 1661, Universitetsbiblioteket i Oslo (University of Oslo Library), Oslo, Norge.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Amundsen, Leiv, “Christian Papyri from the Oslo Collection”, Symbolae Osloenses, no. 24, p. 121-140, Universitetsforlaget: Oslo, Norge, 1945. OCLC 1605827.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='011125'/><gap unit='page' quantity='2'/><w n='310101'>εν</w><w n='310102'>εκεινω</w><lb/><w n='310201'>τω</w><w n='310202'>καιρ<unclear>ω</unclear></w><lb/><lb/><w n='310401'>ειπεν</w><w n='310402'>ο</w><w n='310403'><supplied><abbr type='nominasacra'>ιϲ</abbr></supplied></w><lb/><lb/><w n='310602'><supplied>ϲοι</supplied></w><w n='310603'><supplied><abbr type='nominasacra'>περ</abbr></supplied></w><lb/><w n='310701'><abbr type='nominasacra'>κ<supplied>ε</supplied></abbr></w><w n='310702'><supplied>του</supplied></w><pb/><w n='410102'>και</w><w n='410103'>τηϲ</w><lb/><w n='410201'><unclear>γη</unclear>ϲ</w><w n='410202'>οτι</w><lb/><lb/><w n='410402'>απο</w><lb/><w n='410502'><supplied>και</supplied></w><lb/><w n='410602'><supplied>και</supplied></w><lb/><pb/><w n='510101'>αυτα</w><lb/>
+<milestone unit='verse' n='011126'/><w n='510202'>ναι</w><w n='510203'>ο</w><lb/><w n='510301'><abbr type='nominasacra'>πηρ</abbr></w><w n='510302'>οτι</w><lb/><lb/><w n='510502'><supplied>εγενετο</supplied></w><lb/><w n='510602'><supplied>ϲου</supplied></w>
+<milestone unit='verse' n='011127'/><pb/><w n='610101'>παντα</w><w n='610102'>μοι</w><lb/><w n='610201'>παρεδοθη</w><lb/><w n='610301'>υπ<unclear>ο</unclear></w><w n='610302'>του</w><lb/><w n='610402'><unclear>μου</unclear></w><lb/><w n='610501'><supplied>και</supplied></w><w n='610502'><supplied>ουδειϲ</supplied></w><lb/><lb/><w n='610702'><supplied>τον</supplied></w><pb/><w n='710102'>ει</w><w n='710103'>μη</w><w n='710104'>ο</w><lb/><w n='710202'>ουδε</w><lb/><w n='710302'>πατερα</w><lb/><lb/><w n='710502'><supplied>ει</supplied></w><w n='710503'><supplied>μη</supplied></w><w n='710504'><supplied>ο</supplied></w><w n='710505'><supplied>υιοϲ</supplied></w><lb/><w n='710601'><supplied>και</supplied></w><w n='710602'><supplied>ω</supplied></w><w n='710603'><supplied>εαν</supplied></w><lb/><w n='710702'><supplied>ο</supplied></w><w n='710703'><supplied>υιοϲ</supplied></w><pb/><w n='810101'>αποκαλυψαι</w>
+<milestone unit='verse' n='011128'/><lb/><w n='810201'><unclear>δε</unclear>υτε</w><w n='810202'>προϲ</w><lb/><w n='810301'><unclear>μ</unclear>ε</w><w n='810302'>παντε<supplied>ϲ</supplied></w><lb/><w n='810401'><supplied>οι</supplied></w><lb/><w n='810502'><supplied>και</supplied></w><lb/><lb/><w n='810701'><supplied>καγω</supplied></w><pb/><w n='910102'>υμαϲ</w>
+<milestone unit='verse' n='011129'/><lb/><w n='910202'>τον</w><lb/><w n='910302'>μου</w><w n='910303'>ε<unclear>φ</unclear></w><lb/><w n='910401'><supplied>υμ</supplied><unclear>αϲ</unclear></w><w n='910402'>και</w><lb/><w n='910502'><supplied>απ</supplied></w><w n='910503'><supplied>εμου</supplied></w><lb/><w n='910601'><supplied>οτι</supplied></w><w n='910602'><supplied>πραυϲ</supplied></w><lb/><w n='910701'><supplied>ειμι</supplied></w><w n='910702'><supplied>και</supplied></w><pb/><w n='1010102'><unclear>τ</unclear>η</w><lb/><w n='1010202'>και</w><lb/><lb/><w n='1010402'>ταιϲ</w><lb/><w n='1010501'><supplied>ψυχαιϲ</supplied></w><w n='1010502'><supplied>υμων</supplied></w>
+<milestone unit='verse' n='011130'/><lb/><w n='1010601'><supplied>ο</supplied></w><w n='1010602'><supplied>γαρ</supplied></w><w n='1010603'><supplied>ζυγοϲ</supplied></w><lb/><w n='1010701'><supplied>μου</supplied></w><w n='1010702'><supplied>χρηϲτοϲ</supplied></w><pb/><w n='1110101'>και</w><w n='1110102'><unclear>τ</unclear>ο</w><lb/><w n='1110202'>μου</w><lb/><w n='1110302'>εϲτιν</w>
+</ab>
+</body>
+</text>
+</TEI>

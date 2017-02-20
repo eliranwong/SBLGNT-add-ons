@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM120527</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 120527</msName></msIdentifier>
+<msContents>
+<summary>Inscription</summary>
+<msItem><p>John 11:25</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Ostracon, ?x?, 1 extant leaf(s), 1 column(s), 1 line(s) per column, 16 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-699 Original scribe (1 verses).</handNote>
+</handDesc>
+<additions><p>Written on an oval lamp decorated with a frog. </p></additions>
+</physDesc>
+<history>
+<provenance>Discovered   at Miṣr written on a lamp.</provenance>
+<provenance>Transferred  to Museo Egizio di Torino (Egyptian Museum of Turin) at Torino, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>unknown, Museo Egizio di Torino (Egyptian Museum of Turin), Torino, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Lefebvre, Gustave, Recueil des inscriptions grecques-chrétiennes d'Égypte, no. 744, p. 750, Institut Francais d'Archeologie Orientale du Caire: Le Caire, Égypte, 1907. OCLC 7065867.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='041125'/><pb/><note>*</note><w n='110101'>εγω</w><w n='110102'>ειμι</w><w n='110103'>αναϲταϲιϲ</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

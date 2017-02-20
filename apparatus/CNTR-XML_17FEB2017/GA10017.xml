@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10017</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P17</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>Heb. 9:12-19</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 14.2x8.4 (25x19), 1 extant leaf(s), 1 column(s), 11 (16) line(s) per column, 27-30 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-299 Original scribe with documentary hand (8 verses).</handNote>
+<handNote>250-299 ^ Original scribe (1 verses edited).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Donated 1908-1915 to Cambridge University Library at Cambridge, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Add. Ms. 5893, Cambridge University Library, Cambridge, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Hunt, Arthur S., The Oxyrhynchus Papyri, vol. 8, no. 1078, Egypt Exploration Society: London, England, 1911. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='190912'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='110101'><unclear>δι</unclear>α</w><w n='110102'>δ<unclear>ε</unclear></w><w n='110103'><supplied>του</supplied></w><w n='110104'><unclear>ι</unclear><supplied>δ</supplied><unclear>ι</unclear><supplied>ο</supplied><unclear>υ</unclear></w><w n='110105'><supplied>αιματοϲ</supplied></w><w n='110106'><supplied>ειϲηλθεν</supplied></w><lb/><w n='110201'>εφαπαξ</w><w n='110202'>ειϲ</w><w n='110203'>τα</w><w n='110204'>αγι<supplied>α</supplied></w><w n='110205'><supplied>αιωνιαν</supplied></w><w n='110206'><supplied>λυτρωϲιν</supplied></w><lb/><w n='110301'>ευραμενοϲ</w>
+<milestone unit='verse' n='190913'/><w n='110302'>ει</w><w n='110303'>γ<supplied>αρ</supplied></w><w n='110304'><supplied>το</supplied></w><w n='110305'><supplied>αιμα</supplied></w><w n='110306'><supplied>τραγων</supplied></w><w n='110307'><supplied>και</supplied></w><lb/><w n='110401'>ταυρων</w><w n='110402'>και</w><w n='110403'>ϲπ<supplied>οδοϲ</supplied></w><w n='110404'><supplied>δαμαλεωϲ</supplied></w><lb/><w n='110501'>ραντιζουϲα</w><w n='110502'>τουϲ</w><w n='110503'><supplied>κεκοινωμενουϲ</supplied></w><lb/><w n='110601'>αγιαζει</w><w n='110602'>προϲ</w><w n='110603'>τη<supplied>ν</supplied></w><w n='110604'><supplied>τηϲ</supplied></w><w n='110605'><supplied>ϲαρκοϲ</supplied></w><w n='110606'><supplied>καθαροτητα</supplied></w>
+<milestone unit='verse' n='190914'/><app><rdg type='corr' hand='^'><w n='110701'><supplied>π</supplied>ο<unclear>λλ</unclear><supplied>ω</supplied></w></rdg><lb/><rdg type='orig'><w n='110702'><supplied>π</supplied>οϲ<supplied>ω</supplied></w></rdg></app><w n='110703'><supplied>μα</supplied><unclear>λ</unclear><supplied>λ</supplied>ον</w><w n='110704'>τ<supplied>ο</supplied></w><w n='110705'><supplied>αιμα</supplied></w><w n='110706'><supplied>του</supplied></w><w n='110707'><supplied><abbr type='nominasacra'>χυ</abbr></supplied></w><w n='110708'><supplied>οϲ</supplied></w><w n='110709'><supplied>δια</supplied></w><lb/><w n='110801'><abbr type='nominasacra'>πν<supplied>ϲ</supplied></abbr></w><w n='110802'><supplied>αιων</supplied>ιου</w><w n='110803'><supplied>εαυτον</supplied></w><w n='110804'><supplied>προϲηνεγκεν</supplied></w><lb/><w n='110901'><supplied>αμωμον</supplied></w><w n='110902'><supplied>τ</supplied><unclear>ω</unclear></w><w n='110903'><abbr type='nominasacra'><unclear>θ</unclear><supplied>ω</supplied></abbr></w><w n='110904'><supplied>καθαριει</supplied></w><w n='110905'><supplied>την</supplied></w><lb/><w n='111001'><supplied>ϲυ</supplied>ν<supplied>ειδηϲιν</supplied></w><w n='111002'><supplied>η</supplied>μω<supplied>ν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='190915'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>κεκλημ</supplied>ε<supplied>νοι</supplied></w><w n='210102'><supplied>τ</supplied>ηϲ</w><lb/><w n='210202'><supplied>κληρονομια</supplied>ϲ</w>
+<milestone unit='verse' n='190916'/><w n='210203'>οπου</w><w n='210204'>γαρ</w><w n='210205'>διαθηκη</w><lb/><w n='210301'><supplied>θανατον</supplied></w><w n='210302'><supplied>αναγκη</supplied></w><w n='210303'><supplied>φ</supplied>ερεϲθαι</w><w n='210304'>του</w><lb/>
+<milestone unit='verse' n='190917'/><w n='210402'><supplied>διαθηκη</supplied></w><w n='210403'><supplied>γαρ</supplied></w><w n='210404'>επι</w><w n='210405'>νεκροιϲ</w><w n='210406'>βεβαια</w><lb/><w n='210501'><supplied>επει</supplied></w><w n='210502'><supplied>μηποτε</supplied></w><w n='210503'><supplied>ιϲχυει</supplied></w><w n='210504'><supplied>οτε</supplied></w><w n='210505'>ζη</w><w n='210506'>ο</w><w n='210507'>διαθεμενοϲ</w>
+<milestone unit='verse' n='190918'/><lb/><w n='210601'><supplied>οθεν</supplied></w><w n='210602'><supplied>ουδε</supplied></w><w n='210603'><supplied>η</supplied></w><w n='210604'><supplied>πρωτη</supplied></w><w n='210605'><supplied>χ</supplied>ωριϲ</w><w n='210606'>αιματοϲ</w><lb/>
+<milestone unit='verse' n='190919'/><w n='210702'><supplied>λαληθ</supplied>ειϲηϲ</w><w n='210703'>γαρ</w><w n='210704'>παϲηϲ</w><lb/><w n='210801'><supplied>εντοληϲ</supplied></w><w n='210802'><supplied>κατα</supplied></w><w n='210803'><supplied>τον</supplied></w><w n='210804'><supplied>νο</supplied>μον</w><w n='210805'><supplied>υπο</supplied></w><w n='210806'><supplied>μωυ</supplied>ϲεω<supplied>ϲ</supplied></w><lb/><w n='210901'><supplied>παντι</supplied></w><w n='210902'><supplied>τω</supplied></w><w n='210903'><supplied>λαω</supplied></w><w n='210904'><supplied>λαβω</supplied>ν</w><w n='210905'>τ<supplied>ο</supplied></w><w n='210906'><supplied>αιμα</supplied></w><w n='210907'><supplied>τ</supplied>ων</w><lb/><w n='211001'><supplied>μοϲχων</supplied></w><w n='211002'><supplied>και</supplied></w><w n='211003'><supplied>των</supplied></w><w n='211004'><supplied>τραγω</supplied>ν</w><w n='211005'>μ<supplied>ετα</supplied></w><w n='211006'><supplied>υδα</supplied>τοϲ</w><lb/><w n='211101'><supplied>και</supplied></w><w n='211102'><supplied>εριου</supplied></w><w n='211103'><supplied>κοκκινου</supplied></w><w n='211104'><supplied>και</supplied></w><w n='211105'><unclear>υ</unclear>ϲϲ<supplied>ωπου</supplied></w><w n='211106'>αυ<supplied>το</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10086</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P86</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Matt. 5:13-16, 22-25</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 9.5x8 (28x14), 1 extant leaf(s), 1 column(s), 11 (31) line(s) per column, 27-31 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-324 Original scribe with documentary hand (8 verses).</handNote>
+<handNote>275-324 ^ Original scribe (2 verses edited).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Universität zu Köln, Institut für Altertumskunde (University of Cologne, Institute of Archaeology) at Köln, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>Inv. Nr. 5516, Universität zu Köln, Institut für Altertumskunde (University of Cologne, Institute of Archaeology), Köln, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Kramer, Bärbel  and Dieter Hagedorn, “Matthäus-Evangelium 5, 13-16; 22-25”, Kölner Papyri : (P. Köln), vol. 2, no. 80, p. 88-89, Westdeutscher Verlag: Opladen, Deutschland, 1978. OCLC 2874812.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010513'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='110101'>δε</w><w n='110102'><unclear>το</unclear></w><w n='110103'><unclear>αλ</unclear>α<unclear>ϲ</unclear></w><w n='110104'><unclear>μ</unclear>αρανθη</w><w n='110105'><unclear>ε</unclear><supplied>ν</supplied></w><w n='110106'><supplied>τι</supplied>νι</w><lb/><w n='110202'>ειϲ</w><w n='110203'>ουδενι</w><w n='110204'>ειϲχυει</w><w n='110205'><unclear>ετ</unclear><supplied>ι</supplied></w><w n='110206'>ει</w><w n='110207'>μη</w><lb/><w n='110302'>εξω</w><app><rdg type='corr' hand='^'><w n='110303'>και</w></rdg><rdg type='orig'></rdg></app><w n='110305'>καταπατειϲθαι</w><w n='110306'>υπο</w><w n='110307'>των</w><w n='110308'><supplied><abbr type='nominasacra'>ανων</abbr></supplied></w>
+<milestone unit='verse' n='010514'/><lb/><w n='110401'><unclear>υ</unclear>μειϲ</w><w n='110402'>εϲτε</w><w n='110403'>το</w><w n='110404'>φωϲ</w><w n='110405'>του</w><w n='110406'>κοϲ<unclear>μου</unclear></w><w n='110407'><unclear>ο</unclear>υ</w><lb/><w n='110502'>πολιϲ</w><w n='110503'>κρυβηναι</w><w n='110504'>επα<supplied>ν</supplied>ω</w><w n='110505'>ορουϲ</w><lb/>
+<milestone unit='verse' n='010515'/><w n='110602'>ουδε</w><w n='110603'>καιουϲιν</w><w n='110604'>λυ<unclear>χ</unclear>νον</w><w n='110605'>και</w><lb/><w n='110702'>αυτον</w><w n='110703'>υπο</w><w n='110704'>το</w><w n='110705'>μο<supplied>δ</supplied>ιον</w><w n='110706'>αλλ</w><w n='110707'>επι</w><lb/><w n='110801'><supplied>τ</supplied>ην</w><w n='110802'>λυχνιαν</w><w n='110803'>και</w><w n='110804'>λαμ<supplied>πει</supplied></w><w n='110805'><supplied>παϲ</supplied><unclear>ιν</unclear></w><w n='110806'><unclear>τοιϲ</unclear></w><lb/><w n='110901'><unclear>εν</unclear></w><w n='110902'><unclear>τ</unclear>η</w><w n='110903'>οικια</w>
+<milestone unit='verse' n='010516'/><w n='110904'>ου<supplied>τωϲ</supplied></w><w n='110905'><supplied>λαμψατω</supplied></w><w n='110906'><supplied>το</supplied></w><w n='110907'><supplied>φωϲ</supplied></w><lb/><w n='111001'><supplied>υμ</supplied><unclear>ω</unclear><supplied>ν</supplied></w><w n='111002'>εμ<supplied>προϲθεν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='010522'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='210202'><unclear>α</unclear><supplied>υτου</supplied></w><w n='210203'><supplied>ρακα</supplied></w><w n='210204'><supplied>ενοχοϲ</supplied></w><w n='210205'>εϲται</w><w n='210206'>τω</w><lb/><w n='210302'>οϲ</w><w n='210303'>δ</w><w n='210304'><unclear>αν</unclear></w><w n='210305'>ειπη</w><w n='210306'>μωρε</w><w n='210307'>ενοχοϲ</w><w n='210308'>ε<supplied>ϲται</supplied></w><lb/><w n='210401'><supplied>ει</supplied>ϲ</w><w n='210402'>την</w><w n='210403'>γεενναν</w><w n='210404'>του</w><w n='210405'>πυροϲ</w>
+<milestone unit='verse' n='010523'/><w n='210406'>εαν</w><w n='210407'>ο<unclear>υ</unclear><supplied>ν</supplied></w><lb/><w n='210502'>το</w><w n='210503'>δωρον</w><w n='210504'>ϲου</w><w n='210505'>επι</w><w n='210506'>το</w><w n='210507'>θυϲιαϲτ<supplied>ηριον</supplied></w><lb/><w n='210601'><supplied>κ</supplied>ακει</w><w n='210602'>μνηϲθηϲ</w><w n='210603'>οτι</w><w n='210604'>ο</w><w n='210605'>αδελφοϲ</w><w n='210606'>ϲο<unclear>υ</unclear></w><w n='210607'><supplied>εχει</supplied></w><lb/><w n='210701'>τι</w><w n='210702'>κατα</w><w n='210703'>ϲ<unclear>ο</unclear><supplied>υ</supplied></w>
+<milestone unit='verse' n='010524'/><app><rdg type='corr' hand='^'><w n='210704'>αφεϲ</w></rdg><rdg type='orig'><w n='210705'>οφεϲ</w></rdg></app><w n='210706'>εκε<supplied>ι</supplied></w><w n='210707'>το</w><w n='210708'>δωρον</w><w n='210709'>ϲο<supplied>υ</supplied></w><lb/><w n='210802'>του</w><w n='210803'>θυϲιαϲτηριου</w><w n='210804'>και</w><w n='210805'>υπ<supplied>αγε</supplied></w><lb/><w n='210901'>πρωτον</w><w n='210902'>διαλλαγη<unclear>θι</unclear></w><w n='210903'><unclear>τ</unclear>ω</w><w n='210904'>αδελφω</w><w n='210905'><supplied>ϲου</supplied></w><w n='210906'><supplied>και</supplied></w><lb/><w n='211001'><unclear>τ</unclear>ο<unclear>τ</unclear>ε</w><w n='211002'>ε<unclear>λ</unclear><supplied>θων</supplied></w><w n='211003'><unclear>π</unclear>ροϲφ<unclear>ερ</unclear>ε</w><w n='211004'>το</w><w n='211005'>δωρο<unclear>ν</unclear></w><w n='211006'><supplied>ϲου</supplied></w>
+<milestone unit='verse' n='010525'/><lb/><w n='211101'><supplied>ιϲθι</supplied></w><w n='211102'><supplied>ευνοων</supplied></w><w n='211103'><supplied>τω</supplied></w><w n='211104'><supplied>αντιδικω</supplied></w><w n='211105'><supplied>ϲο</supplied>υ</w><w n='211106'>τ<supplied>α</supplied>χυ</w><w n='211107'>ε<supplied>ωϲ</supplied></w><lb/><w n='211201'><supplied>οτου</supplied></w><w n='211202'><supplied>ει</supplied></w><w n='211203'><supplied>μετ</supplied></w><w n='211204'><supplied>αυτου</supplied></w><w n='211205'><supplied>εν</supplied></w><w n='211206'><supplied>τη</supplied></w><w n='211207'><supplied>οδω</supplied></w><w n='211208'>μη<supplied>ποτε</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

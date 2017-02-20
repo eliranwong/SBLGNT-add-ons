@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20258</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0258</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>John 10:25-26</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 5x4.2 (?), 1 extant leaf(s), 1 column(s), 5 (?) line(s) per column, 12-14 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe with documentary hand (2 verses).</handNote>
+</handDesc>
+<additions><p>The verso is blank. </p></additions>
+</physDesc>
+<history>
+<provenance>Purchased 1949 by private collector from Sotheby's Auction House lot 2191.</provenance>
+</history>
+<msPart><msIdentifier><msName>unknown, private collector, .</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Scherling, Eric von, ed., Rotulus: A bulletin for manuscript collectors, vol. 5, no. 2191, p. 35, Leiden, Nederland, 1949. OCLC 9855144.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='041025'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='110101'><unclear>τ</unclear>ου</w><w n='110102'><abbr type='nominasacra'>πρϲ</abbr></w><w n='110103'>μο<supplied>υ</supplied></w><lb/><w n='110202'>μαρτυρ<supplied>ει</supplied></w><w n='110203'><supplied>περι</supplied></w><lb/><w n='110301'>εμου</w>
+<milestone unit='verse' n='041026'/><w n='110302'>αλλ<supplied>α</supplied></w><w n='110303'><supplied>υμειϲ</supplied></w><lb/><w n='110401'>ου</w><w n='110402'>πιϲτευ<supplied>ετε</supplied></w><w n='110403'><supplied>οτι</supplied></w><lb/><w n='110501'>ουκ</w><w n='110502'>εϲτε</w><w n='110503'>ε<unclear>κ</unclear></w><note>*</note><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

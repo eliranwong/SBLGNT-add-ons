@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061795</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61795</msName></msIdentifier>
+<msContents>
+<summary>Lectionary</summary>
+<msItem><p>Matt. 7:28-29, 8:3-4, 7, 9</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 10.5x8.5 (17x14.5), 2 extant leaf(s), 2 column(s), 20 (25) line(s) per column, 10-12 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Dayr Abu Abullu, Miṣr.</provenance>
+<provenance>Transferred  to University of Oxford, Bodleian Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>MS. Copt. f. 5, University of Oxford, Bodleian Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Kahle, Paul E., Bala'izah, Coptic Texts from Deir el-Bala'izah in Upper Egypt, no. 25, Oxford University Press: London, England, 1954. OCLC 7459131.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010728'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='3'/><w n='120401'>και</w><w n='120402'>εγε<unclear>ν</unclear><supplied>ετο</supplied></w><w n='120403'><supplied>οτε</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='010729'/><gap unit='line' quantity='7'/><note>*</note><w n='121301'>ου<supplied>χ</supplied></w><w n='121302'><supplied>ωϲ</supplied></w><w n='121303'><supplied>οι</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='010803'/><pb/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><w n='210201'><supplied>η</supplied><unclear>ψατο</unclear></w><lb/><w n='210301'><supplied>αυτου</supplied></w><w n='210302'><unclear>λεγ</unclear>ων</w><note>*</note>
+<milestone unit='verse' n='010804'/><gap unit='line' quantity='4'/><gap unit='character' extent='unknown'/><note>*</note><w n='210801'><supplied>αυ</supplied><unclear>τω</unclear></w><lb/><w n='210901'><supplied>ο</supplied></w><w n='210902'><supplied>ιηϲουϲ</supplied></w><w n='210903'>ορ<supplied>α</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='010807'/><cb/><w n='220101'><unclear>και</unclear></w><w n='220102'>λεγει</w><w n='220103'>αυ<unclear>τω</unclear></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='010809'/><gap unit='line' quantity='17'/><gap unit='character' extent='unknown'/><note>*</note><w n='221901'>και</w><w n='221902'>τω</w><lb/><w n='222001'><supplied>δουλω</supplied></w><w n='222002'><supplied>μου</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20220</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0220</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>Rom. 4:23-5:3, 8-13</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 8.5x11 (15x13), 1 extant leaf(s), 1 column(s), 14 (24) line(s) per column, 29-33 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-324 Original scribe with reformed documentary hand (6 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Discovered 1900-1925  at Al-Fusṭāṭ, Miṣr among Christian community.</provenance>
+<provenance>Purchased 1950 Jul 3 by Leland C. Wyman at Al Qāhirah, Miṣr.</provenance>
+<provenance>Transferred  to John Rocks at Boston, MA inherited.</provenance>
+<provenance>Purchased 1988 Jun 21 by Martin Schøyen at Oslo, Norge from Sotheby's auction house.</provenance>
+<provenance>Transferred 1988 to MS 113, Nasjonalbiblioteket, Schøyen Collection (National Library, Schøyen Collection) at Oslo, Norge.</provenance>
+<provenance>Purchased 2012 Jul 10 by private collector at London, England from Sotheby's auction house for 301,250 GBP.</provenance>
+</history>
+<msPart><msIdentifier><msName>unknown, private collector, London, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Hatch, William H. P., “A Recently Discovered Fragment of the Epistle to the Romans”, Harvard Theological Review, vol. 45, p. 81-85, Harvard Divinity School: Cambridge, MA, 1952. OCLC 1535398.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='060423'/><pb/><note>*</note><w n='110101'><supplied>εγ</supplied>ραφη</w><w n='110102'>δε</w><w n='110103'>δι</w><w n='110104'>αυτον</w><w n='110105'>μονον</w><w n='110106'>οτι</w><w n='110107'>ε<unclear>λ</unclear>ογι<unclear>ϲ</unclear><supplied>θη</supplied></w><lb/><w n='110201'>αυτω</w>
+<milestone unit='verse' n='060424'/><w n='110202'>αλλα</w><w n='110203'>και</w><w n='110204'>δι</w><w n='110205'>ημαϲ</w><w n='110206'>οιϲ</w><w n='110207'>μελλε<supplied>ι</supplied></w><lb/><w n='110302'>τοιϲ</w><w n='110303'>πιϲτευου<unclear>ϲ</unclear>ιν</w><w n='110304'>ε<unclear>π</unclear>ι</w><w n='110305'>τ<supplied>ο</supplied>ν</w><w n='110306'>εγε<supplied>ιροντα</supplied></w><lb/><w n='110401'><abbr type='nominasacra'><supplied>ι</supplied><unclear>ν</unclear></abbr></w><w n='110402'><supplied>τ</supplied>ον</w><w n='110403'><abbr type='nominasacra'>κν</abbr></w><w n='110404'>ημων</w><w n='110405'>ε<unclear>κ</unclear></w><w n='110406'><supplied>νεκ</supplied>ρων</w>
+<milestone unit='verse' n='060425'/><w n='110407'>ο<unclear>ϲ</unclear></w><lb/><w n='110502'>δια</w><w n='110503'>τα</w><w n='110504'>πα<supplied>ραπτωματα</supplied></w><w n='110505'><supplied>η</supplied>μων</w><w n='110506'>και</w><lb/><w n='110602'>δι<supplied>α</supplied></w><w n='110603'><supplied>την</supplied></w><w n='110604'><supplied>δικαιωϲιν</supplied></w><w n='110605'><supplied>η</supplied>μων</w>
+<milestone unit='verse' n='060501'/><lb/><w n='110702'>ου<unclear>ν</unclear></w><w n='110703'><supplied>εκ</supplied></w><w n='110704'><supplied>πιϲτεωϲ</supplied></w><w n='110705'><supplied>ειρ</supplied><unclear>η</unclear>νην</w><lb/><w n='110802'>προϲ</w><w n='110803'>το<unclear>ν</unclear></w><w n='110804'><supplied><abbr type='nominasacra'>θν</abbr></supplied></w><w n='110805'><supplied>δια</supplied></w><w n='110806'><supplied>του</supplied></w><w n='110807'><supplied><abbr type='nominasacra'>κυ</abbr></supplied></w><w n='110808'><supplied>η</supplied>μ<supplied>ω</supplied><unclear>ν</unclear></w><w n='110809'><abbr type='nominasacra'>ιυ</abbr></w><w n='110810'><abbr type='nominasacra'>χυ</abbr></w>
+<milestone unit='verse' n='060502'/><lb/><w n='110901'>δι</w><w n='110902'>ου</w><w n='110903'>και</w><w n='110904'>τη<unclear>ν</unclear></w><w n='110905'><supplied>προϲαγωγη</supplied><unclear>ν</unclear></w><w n='110906'><unclear>ε</unclear>ϲχηκαμε̅</w><lb/><w n='111001'>ειϲ</w><w n='111002'>την</w><w n='111003'>χαρι<supplied>ν</supplied></w><w n='111004'><supplied>ταυτην</supplied></w><w n='111005'><supplied>εν</supplied></w><w n='111006'>η</w><w n='111007'>εϲτηκαμε̅</w><lb/><w n='111101'>και</w><w n='111102'>καυχω<unclear>μ</unclear><supplied>εθα</supplied></w><w n='111103'><supplied>επ</supplied></w><w n='111104'><supplied>ελπιδ</supplied><unclear>ι</unclear></w><w n='111105'>τηϲ</w><w n='111106'>δοξηϲ</w><lb/><w n='111201'><unclear>τ</unclear>ο<unclear>υ</unclear></w><w n='111202'><abbr type='nominasacra'>θυ</abbr></w>
+<milestone unit='verse' n='060503'/><w n='111203'>ο<unclear>υ</unclear></w><w n='111204'><unclear>μ</unclear><supplied>ονον</supplied></w><w n='111205'><supplied>δε</supplied></w><w n='111206'><supplied>αδελφ</supplied><unclear>οι</unclear></w><w n='111207'><unclear>αλ</unclear><supplied>λα</supplied></w><w n='111208'><supplied>και</supplied></w><lb/><w n='111302'>ε<supplied>ν</supplied></w><w n='111303'><supplied>ταιϲ</supplied></w><w n='111304'><supplied>θλιψεϲιν</supplied></w><w n='111305'><supplied>ειδοτεϲ</supplied></w><w n='111306'><supplied>οτι</supplied></w><w n='111307'><supplied>η</supplied></w><lb/><w n='111401'>θλιψιϲ</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='10'/>
+<milestone unit='verse' n='060508'/><pb/><note>*</note><w n='210101'><supplied>η</supplied>μω<unclear>ν</unclear></w><w n='210102'><abbr type='nominasacra'>χϲ</abbr></w><w n='210103'>υ<unclear>πε</unclear>ρ</w><w n='210104'>ημ<supplied>ω</supplied><unclear>ν</unclear></w><w n='210105'>απεθανεν</w>
+<milestone unit='verse' n='060509'/><w n='210106'>πολλ<unclear>ω</unclear></w><lb/><w n='210201'><supplied>ο</supplied><unclear>υ</unclear>ν</w><w n='210202'>μαλλον</w><w n='210203'>δικα<supplied>ι</supplied><unclear>ωθεντεϲ</unclear></w><w n='210204'>νυν</w><w n='210205'>εν</w><w n='210206'>τ<unclear>ω</unclear></w><lb/><w n='210302'>αυτ<unclear>ου</unclear></w><w n='210303'><unclear>ϲ</unclear><supplied>ωθ</supplied><unclear>ηϲ</unclear>ομ<supplied>ε</supplied>θα</w><w n='210304'>δι</w><w n='210305'>αυτου</w><w n='210306'>απο</w><w n='210307'>τη<unclear>ϲ</unclear></w><lb/><w n='210401'><supplied>ορ</supplied><unclear>γη</unclear><supplied>ϲ</supplied></w>
+<milestone unit='verse' n='060510'/><w n='210402'><supplied>ει</supplied></w><w n='210403'><unclear>γ</unclear><supplied>αρ</supplied></w><w n='210404'><supplied>εχθροι</supplied></w><w n='210405'><supplied>οντε</supplied><unclear>ϲ</unclear></w><w n='210406'><unclear>κα</unclear>τηλλαγη<supplied>μεν</supplied></w><lb/><w n='210501'>τω</w><w n='210502'><abbr type='nominasacra'>θω</abbr></w><w n='210503'>δι<supplied>α</supplied></w><w n='210504'><supplied>του</supplied></w><w n='210505'><supplied>θανατου</supplied></w><w n='210506'><supplied>το</supplied><unclear>υ</unclear></w><w n='210507'><abbr type='nominasacra'>υυ</abbr></w><w n='210508'>αυτου</w><lb/><w n='210602'>μαλλ<supplied>ον</supplied></w><w n='210603'><supplied>καταλλαγεντεϲ</supplied></w><w n='210604'><unclear>ϲω</unclear>θηϲομ<unclear>εθ</unclear><supplied>α</supplied></w><lb/><w n='210701'><supplied>ε</supplied>ν</w><w n='210702'>τη</w><w n='210703'><unclear>ζ</unclear>ωη</w><w n='210704'><supplied>αυτου</supplied></w>
+<milestone unit='verse' n='060511'/><w n='210705'><supplied>ου</supplied></w><w n='210706'><supplied>μονον</supplied></w><w n='210707'><supplied>δ</supplied><unclear>ε</unclear></w><w n='210708'>αλλα</w><w n='210709'>και</w><lb/><w n='210802'><supplied>εν</supplied></w><w n='210803'><supplied>τω</supplied></w><w n='210804'><supplied><abbr type='nominasacra'>θω</abbr></supplied></w><w n='210805'><supplied>δια</supplied></w><w n='210806'><supplied>του</supplied></w><w n='210807'><abbr type='nominasacra'><supplied>κ</supplied><unclear>υ</unclear></abbr></w><w n='210808'>ημων</w><w n='210809'><abbr type='nominasacra'>ιυ</abbr></w><w n='210810'><abbr type='nominasacra'>χυ</abbr></w><lb/><w n='210901'>δι</w><w n='210902'>ου</w><w n='210903'>νυν</w><w n='210904'>τ<supplied>ην</supplied></w><w n='210905'><supplied>καταλλαγην</supplied></w><w n='210906'><supplied>ε</supplied>λαβομεν</w>
+<milestone unit='verse' n='060512'/><w n='210907'><unclear>δ</unclear>ια</w><lb/><w n='211002'>ωϲπερ</w><w n='211003'>δι</w><w n='211004'>ε<unclear>ν</unclear><supplied>οϲ</supplied></w><w n='211005'><supplied><abbr type='nominasacra'>ανου</abbr></supplied></w><w n='211006'><supplied>η</supplied></w><w n='211007'><supplied>αμ</supplied>αρτια</w><w n='211008'><unclear>ειϲ</unclear></w><w n='211009'><unclear>τ</unclear>ον</w><lb/><w n='211101'>κοϲμον</w><w n='211102'>ειϲη<supplied>λθεν</supplied></w><w n='211103'><supplied>και</supplied></w><w n='211104'><supplied>δια</supplied></w><w n='211105'><supplied>τ</supplied><unclear>η</unclear>ϲ</w><w n='211106'>αμαρτιαϲ</w><w n='211107'>ο</w><lb/><w n='211201'><supplied>θ</supplied><unclear>α</unclear>νατοϲ</w><w n='211202'>κα<unclear>ι</unclear></w><w n='211203'><supplied>ουτωϲ</supplied></w><w n='211204'><supplied>ειϲ</supplied></w><w n='211205'><supplied>πανταϲ</supplied></w><w n='211206'><abbr type='nominasacra'>ανουϲ</abbr></w><w n='211207'><unclear>ο</unclear></w><lb/><w n='211302'><supplied>διηλθεν</supplied></w><w n='211303'><supplied>εφ</supplied></w><w n='211304'><supplied>ω</supplied></w><w n='211305'><supplied>παντεϲ</supplied></w><w n='211306'><supplied>ημαρτο</supplied>ν</w>
+<milestone unit='verse' n='060513'/><w n='211307'><unclear>αχ</unclear>ρ<supplied>ι</supplied></w><lb/><w n='211401'><supplied>γαρ</supplied></w><w n='211402'><supplied>νομου</supplied></w><w n='211403'><supplied>αμαρτια</supplied></w><w n='211404'><supplied>ην</supplied></w><w n='211405'><supplied>εν</supplied></w><w n='211406'><supplied>κοϲμ</supplied>ω</w><w n='211407'>α<unclear>μ</unclear>α<unclear>ρ</unclear><supplied>τια</supplied></w><note>*</note><gap unit='line' quantity='10'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061458</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61458</msName></msIdentifier>
+<msContents>
+<summary>Homily by Marcellus of Ancyra written 350-374 in Ancyra, Galatia</summary>
+<msItem><p>John 5:16, 14:9, Eph. 4:13, Col. 2:9</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 24x18 (24x20), 3 extant leaf(s), 1 column(s), 23-26 line(s) per column, 29-35 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>350-499 Original scribe (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>[1] Obtained  by Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia) at Barcelona, España.</provenance>
+<provenance>[2?] Obtained  by Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia) at Barcelona, España.</provenance>
+<provenance>[3?] Obtained  by Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia) at Barcelona, España.</provenance>
+<provenance>[4?] Obtained  by Scuola Normale Superiore di Pisa (Scuola Normale of Pisa) at Pisa, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1] P.PalauRib. Inv. 68 + 207, Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia), Barcelona, España.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[2?] P.PalauRib. Inv. 31, Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia), Barcelona, España.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[3?] P.PalauRib. Inv. 72, Arxiu Històric de la Companyia de Jesús a Catalunya (Archives of the Society of Jesus in Catalonia), Barcelona, España.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[4?] 4, Scuola Normale Superiore di Pisa (Scuola Normale of Pisa), Pisa, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[1?] Sola, Francisco de P., “Texto patristico sobre la controversia cristologica”, Studia Papyrologica, vol. 9, p. 21-33, Barcelona, España, 1970. OCLC 2002610.</bibl>
+<bibl>[2?] Sola, Francisco de P., “Texto patrístico del griego siglo IV (P. Palau Rib. inv. 72)”, Studia Papyrologica, vol. 7, p. 49-64, Barcelona, España, 1968. OCLC 2002610.</bibl>
+<bibl>[3?] O'Callaghan, J., “Papyrus patristique”, Actes du XV Congrès International de Papyrologie II, (Papyrologica Bruxellensia 17), p. 42-48, Fondation égyptologique Reine Élisabeth: Bruxelles, België, 1979. OCLC 899037264.</bibl>
+<bibl>[4?] Carlini, Antonio, Nuovi Papiri Letterari Fiorentini presentati al XIII. Intern. Papyrologenkongress Marburg/Lahn, 2-6 Agosto 1971, Editrice Tecnico Scientifica: Pisa, Italia, 1971. OCLC 879079247.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='040516'/><pb/><gap unit='line' quantity='1'/><w n='110201'>ϗ</w><w n='110202'><unclear>δ</unclear><supplied>ια</supplied></w><w n='110203'><supplied>του</supplied>το</w><w n='110204'>εδιωκον</w><w n='110205'>τον</w><w n='110206'><abbr type='nominasacra'>ιν</abbr></w><w n='110207'>οτι</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='041409'/><gap unit='line' quantity='4'/><gap unit='character' extent='unknown'/><note>*</note><w n='110701'>τοϲουτω</w><w n='110702'>χρονω</w><w n='110703'>μεθ</w><w n='110704'>υμων</w><w n='110705'>ειμι</w><w n='110706'>και</w><lb/><w n='110801'>ουκ</w><w n='110802'>εγνωκαϲ</w><w n='110803'>με</w><w n='110804'>φιλιππε</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100413'/><gap unit='line' quantity='11'/><w n='112001'>με<supplied>χρι</supplied></w><w n='112002'><supplied>κα</supplied><unclear>τ</unclear>αντηϲωμεν</w><w n='112003'>οι</w><w n='112004'>παντεϲ</w><w n='112005'>ειϲ</w><w n='112006'>την</w><lb/><w n='112101'>ενοτητα</w><w n='112102'>τηϲ</w><w n='112103'>πιϲτεωϲ</w><w n='112104'>ϗ</w><w n='112105'>τηϲ</w><w n='112106'>επιγνωϲεωϲ</w><lb/><w n='112201'>του</w><w n='112202'>υιου</w><w n='112203'>του</w><w n='112204'><abbr type='nominasacra'>θυ</abbr></w><w n='112205'>ειϲ</w><w n='112206'>ανδρα</w><w n='112207'>τελιον</w><w n='112208'>ειϲ</w><w n='112209'>μετρον</w><lb/><w n='112301'><unclear>ηλικιαϲ</unclear></w><w n='112302'><unclear>το</unclear>υ</w><w n='112303'>πληρωματοϲ</w><w n='112304'>του</w><w n='112305'><abbr type='nominasacra'>χυ</abbr></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='120209'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='112401'>εν</w><w n='112402'>ο</w><w n='112403'>παν</w><lb/><w n='112501'><supplied>το</supplied></w><w n='112502'><supplied>πληρωμα</supplied></w><w n='112503'>τηϲ</w><w n='112504'>θεοτητοϲ</w><w n='112505'>κατωκηϲεν</w><lb/><w n='112601'>ϲωματικω</w>
+</ab>
+</body>
+</text>
+</TEI>

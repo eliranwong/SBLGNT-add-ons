@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10111</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P111</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Luke 17:11-13, 22-23</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 4.8x2.9 (22x14), 1 extant leaf(s), 1 column(s), 5 (22) line(s) per column, 31-33 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-249 Original scribe with documentary hand (5 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1896-1907 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Loaned  to University of Oxford, Ashmolean Museum of Art and Archaeology at Oxford, England.</provenance>
+<provenance>Moved 2001 to University of Oxford, Sackler Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Oxy. 4495, University of Oxford, Sackler Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Cockle, W. E. H., The Oxyrhynchus Papyri, vol. 66, no. 4495, Egypt Exploration Society: London, England, 1999. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='031711'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>γαλι</supplied>λαια<unclear>ϲ</unclear></w>
+<milestone unit='verse' n='031712'/><w n='110102'>κ<unclear>αι</unclear></w><w n='110103'>ειϲερχομενου</w><w n='110104'><supplied>αυτου</supplied></w><lb/><w n='110201'><supplied>ειϲ</supplied></w><w n='110202'><supplied>τινα</supplied></w><w n='110203'><supplied>κωμην</supplied></w><w n='110204'>απηντηϲ<supplied>αν</supplied></w><w n='110205'><supplied>δεκα</supplied></w><w n='110206'><supplied>λεπροι</supplied></w><lb/><w n='110302'><supplied>οι</supplied></w><w n='110303'><supplied>εϲτηϲα</supplied><unclear>ν</unclear></w><w n='110304'>πορωθ<supplied>εν</supplied></w>
+<milestone unit='verse' n='031713'/><w n='110305'><supplied>και</supplied></w><w n='110306'><supplied>αυτοι</supplied></w><w n='110307'><supplied>ηραν</supplied></w><lb/><w n='110401'><supplied>φωνην</supplied></w><w n='110402'><supplied>λεγοντε</supplied><unclear>ϲ</unclear></w><w n='110403'><abbr type='nominasacra'>ιηυ</abbr></w><w n='110404'>ε<unclear>π</unclear><supplied>ιϲτατα</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='031722'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><unclear>π</unclear>ρ<unclear>ο</unclear><supplied>ϲ</supplied></w><w n='210102'><supplied>τουϲ</supplied></w><lb/><w n='210202'><supplied>ελευϲονται</supplied></w><w n='210203'><supplied>η</supplied>μεραι</w><w n='210204'>του</w><w n='210205'>ε<unclear>π</unclear><supplied>ιθυμηϲαι</supplied></w><lb/><w n='210301'><supplied>υμαϲ</supplied></w><w n='210302'><supplied>μιαν</supplied></w><w n='210303'><supplied>των</supplied></w><w n='210304'><supplied>η</supplied>μερων</w><w n='210305'>το<unclear>υ</unclear></w><w n='210306'><supplied>υιου</supplied></w><w n='210307'><supplied>του</supplied></w><w n='210308'><supplied><abbr type='nominasacra'>ανου</abbr></supplied></w><lb/><w n='210401'><supplied>ιδειν</supplied></w><w n='210402'><supplied>και</supplied></w><w n='210403'><supplied>ουκ</supplied></w><w n='210404'><supplied>οψ</supplied>εϲθε</w>
+<milestone unit='verse' n='031723'/><w n='210405'>και</w><w n='210406'><unclear>ε</unclear><supplied>ρουϲιν</supplied></w><w n='210407'><supplied>υμιν</supplied></w><lb/><w n='210501'><supplied>ιδου</supplied></w><w n='210502'><supplied>εκει</supplied></w><w n='210503'><supplied>η</supplied></w><w n='210504'><supplied>ιδου</supplied></w><w n='210505'><unclear>ωδε</unclear></w><w n='210506'>μη</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

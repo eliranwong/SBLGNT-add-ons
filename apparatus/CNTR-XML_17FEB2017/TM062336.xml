@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062336</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62336</msName></msIdentifier>
+<msContents>
+<summary>Homily by Origen written 200-254 in Alexandria, Aegyptus</summary>
+<msItem><p>Matt. 13:5 (Acts 28:27)</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 10.1x17.5 (?), 1 extant leaf(s), 1 column(s), 12 (?) line(s) per column, 20-23 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe (1 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1897 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Donated 1904-1908 to McCormick Theological Seminary, Jesuit-Krauss-McCormick Library at Chicago, IL.</provenance>
+</history>
+<msPart><msIdentifier><msName>BH 88470.1, McCormick Theological Seminary, Jesuit-Krauss-McCormick Library, Chicago, IL.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Grenfell, Bernard P. and Arthur S. Hunt, The Oxyrhynchus Papyri, vol. 3, no. 406, Egypt Exploration Society: London, England, 1903. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='011315'/><gap unit='page' extent='unknown'/><pb/><w n='110102'>γαρ</w><w n='110103'><supplied>η</supplied></w><w n='110104'><supplied>καρδια</supplied></w><w n='110105'><supplied>του</supplied></w><lb/><w n='110201'>λαου</w><w n='110202'>τουτου</w><w n='110203'>κ<supplied>αι</supplied></w><w n='110204'><supplied>τοιϲ</supplied></w><w n='110205'><supplied>ωϲιν</supplied></w><lb/><w n='110301'>βαρεωϲ</w><w n='110302'>ηκου<supplied>ϲαν</supplied></w><w n='110303'><supplied>και</supplied></w><w n='110304'><supplied>τουϲ</supplied></w><lb/><w n='110401'>οφθαλμουϲ</w><w n='110402'>α<supplied>υτων</supplied></w><lb/><w n='110502'>μηπ<supplied>οτε</supplied></w><w n='110503'><supplied>ιδωϲιν</supplied></w><w n='110504'><supplied>τοιϲ</supplied></w><lb/><w n='110601'>οφθαλμοιϲ</w><w n='110602'>αυ<supplied>των</supplied></w><w n='110603'><supplied>και</supplied></w><w n='110604'><supplied>τοιϲ</supplied></w><lb/><w n='110702'>ακουϲωϲι<supplied>ν</supplied></w><w n='110703'><supplied>και</supplied></w><w n='110704'><supplied>τη</supplied></w><w n='110705'><supplied>καρδια</supplied></w><lb/><w n='110801'>ϲυνωϲιν</w><w n='110802'>και</w><w n='110803'>ε<supplied>πιϲτρεψωϲιν</supplied></w><lb/><w n='110901'>κα<supplied>ι</supplied></w><w n='110902'>ι<supplied>α</supplied>ϲομαι</w><w n='110903'>α<supplied>υτουϲ</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='3'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

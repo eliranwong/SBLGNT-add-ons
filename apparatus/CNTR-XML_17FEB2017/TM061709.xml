@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061709</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61709</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Acts 8:26-32, 10:26-31</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 13.8x8.8, 2 extant leaf(s), 1 column(s), 20-22 line(s) per column, 14-21 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>275-324 Original scribe (13 verses).</handNote>
+<handNote>275-324 ^ Original scribe (5 verses edited).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1933 by Yale University at Paris, France.</provenance>
+<provenance>Transferred  to Yale University, Beinecke Rare Book and Manuscript Library at New Haven, CT.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.CtYBR inv. 1543, Yale University, Beinecke Rare Book and Manuscript Library, New Haven, CT.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Oates, John F., et al., “Yale Papyri in the Beinecke Rare Book and Manuscript Library”, American Society of Papyrologists, vol. 1, p. 15-21, New Haven, CT, 1967. OCLC 8284.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='050826'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ελ</supplied><unclear>α</unclear>λ<unclear>ηϲεν</unclear></w><w n='110102'>προϲ</w><lb/><w n='110202'>λεγων</w><w n='110203'>αναϲταϲ</w><lb/><w n='110302'>κατα</w><w n='110303'>μεϲημβριαν</w><lb/><w n='110401'>επι</w><w n='110402'>την</w><w n='110403'>οδον</w><w n='110404'>την</w><lb/><w n='110502'>απο</w><w n='110503'><abbr type='nominasacra'>ιλημ</abbr></w><w n='110504'>ειϲ</w><w n='110505'>γαζαν</w><lb/><w n='110601'>αυτη</w><w n='110602'>εϲτιν</w><w n='110603'>ερημοϲ</w>
+<milestone unit='verse' n='050827'/><w n='110604'>και</w><lb/><w n='110702'>επορ<unclear>ευθη</unclear></w><w n='110703'>και</w><w n='110704'>ιδου</w><lb/><w n='110802'>α<supplied>ιθι</supplied>οψ</w><w n='110803'><supplied>ευ</supplied>νουχοϲ</w><lb/><w n='110902'>κανδακηϲ</w><w n='110903'>βαϲιλιϲϲηϲ</w><lb/><w n='111001'>αιθιοπων</w><w n='111002'><unclear>ο</unclear>ϲ</w><w n='111003'>ην</w><w n='111004'>επι</w><lb/><w n='111102'>τηϲ</w><w n='111103'>γα<unclear>ζη</unclear>ϲ</w><w n='111104'>αυτηϲ</w><lb/><w n='111201'>οϲ</w><w n='111202'>εληλυθει</w><lb/><w n='111302'>ειϲ</w><w n='111303'><abbr type='nominasacra'>ιλημ</abbr></w>
+<milestone unit='verse' n='050828'/><w n='111304'>ουτοϲ</w><lb/><w n='111402'>καθ<unclear>η</unclear>μενοϲ</w><lb/><w n='111501'>επι</w><w n='111502'>του</w><w n='111503'>αρματοϲ</w><w n='111504'>αυτου</w><lb/><w n='111601'>και</w><w n='111602'>ανεγινωϲκον</w><w n='111603'>τον</w><lb/><w n='111701'>προφητην</w><w n='111702'>η<supplied>ϲ</supplied>αιαν</w>
+<milestone unit='verse' n='050829'/><w n='111703'>ειπεν</w><lb/><w n='111801'>δε</w><w n='111802'>το</w><w n='111803'><abbr type='nominasacra'>πνα</abbr></w><w n='111804'>τω</w><w n='111805'>φ<unclear>ι</unclear>λιππω</w><lb/><w n='111901'>προϲελθε</w><w n='111902'>κα<supplied>ι</supplied></w><lb/><w n='112002'>τω</w><w n='112003'>αρματι</w><w n='112004'>τουτω</w>
+<milestone unit='verse' n='050830'/><lb/><w n='112101'>προϲελ<unclear>θω</unclear>ν</w><w n='112102'>δε</w><w n='112103'>ο</w><lb/><w n='112202'>ηκου<unclear>ϲε</unclear>ν</w><w n='112203'>αυτου</w><pb/><w n='210102'><unclear>η</unclear><supplied>ϲαιαν</supplied></w><w n='210103'><supplied>τον</supplied></w><lb/><w n='210201'>προφητην</w><w n='210202'>και</w><w n='210203'>ειπ<supplied>ε</supplied>ν</w><w n='210204'>τω</w><lb/><w n='210301'>ευνουχω</w><w n='210302'>αρα</w><w n='210303'>γινωϲκειϲ</w><lb/><w n='210401'>α</w><w n='210402'>αναγινωϲκειϲ</w>
+<milestone unit='verse' n='050831'/><w n='210403'>ο</w><w n='210404'>δε</w><lb/><w n='210502'>πωϲ</w><w n='210503'>γαρ</w><w n='210504'>αν</w><w n='210505'>δυναμην</w><lb/><w n='210601'>εαν</w><w n='210602'>μη</w><w n='210603'>τιϲ</w><w n='210604'>οδηγηϲει</w><w n='210605'>με</w><lb/><w n='210701'>παρεκαλεϲεν</w><w n='210702'>τε</w><w n='210703'>τον</w><lb/><w n='210802'>αναβαντα</w><w n='210803'>καθιϲαι</w><lb/><w n='210901'>ϲυν</w><w n='210902'>αυτω</w>
+<milestone unit='verse' n='050832'/><w n='210903'>η</w><w n='210904'>δε</w><w n='210905'>περιοχη</w><lb/><w n='211001'>τηϲ</w><w n='211002'>γραφηϲ</w><w n='211003'><unclear>ην</unclear></w><app><rdg type='corr' hand='^'></rdg><rdg type='orig'><lb/></rdg></app><w n='211103'>ην</w><w n='211104'>αυτ<unclear>η</unclear></w><w n='211105'><unclear>ω</unclear>ϲ</w><lb/><w n='211202'>επι</w><w n='211203'>ϲφαγ<unclear>η</unclear>ν</w><w n='211204'>ηχθη</w><lb/><w n='211301'>και</w><w n='211302'>ωϲ</w><w n='211303'>αμν<unclear>ο</unclear>ϲ</w><w n='211304'>εναντιον</w><app><rdg type='corr' hand='^'><w n='211401'>του</w></rdg><lb/><rdg type='orig'><w n='211402'>τον</w></rdg></app><w n='211403'>κειραντοϲ</w><app><rdg type='corr' hand='^'><w n='211404'>αυτον</w></rdg><rdg type='orig'><w n='211405'>αυτου</w></rdg></app><lb/><w n='211501'>αφωνοϲ</w>
+<milestone unit='verse' n='051026'/><lb/><w n='211601'>ο</w><w n='211602'>δε</w><w n='211603'>πετρ<unclear>ο</unclear>ϲ</w><w n='211604'>ηγειρεν</w><lb/><w n='211701'>αυτον</w><w n='211702'>λε<unclear>γω</unclear>ν</w><lb/><w n='211802'>και</w><w n='211803'>εγω</w><w n='211804'>αυτοϲ</w><lb/><w n='211901'><abbr type='nominasacra'>ανοϲ</abbr></w><w n='211902'>ειμι</w>
+<milestone unit='verse' n='051027'/><w n='211903'>και</w><lb/><w n='212002'>αυ<unclear>τ</unclear>ω</w><lb/><w n='212102'>και</w><w n='212103'>ευριϲκε<supplied>ι</supplied></w><pb/><w n='310102'>πολλουϲ</w>
+<milestone unit='verse' n='051028'/><lb/><w n='310201'>εφη</w><w n='310202'>τε</w><w n='310203'>προϲ</w><w n='310204'>αυτουϲ</w><lb/><w n='310301'>υμειϲ</w><w n='310302'>επιϲταϲθε</w><w n='310303'>ωϲ</w><lb/><w n='310401'>αθεμιτον</w><w n='310402'>εϲτιν</w><w n='310403'>ανδρι</w><app><rdg type='corr' hand='^'><w n='310501'>ιουδαιω</w></rdg><lb/><rdg type='orig'><w n='310502'>ιουδαιου</w></rdg></app><w n='310503'>κολλαϲθαι</w><w n='310504'>η</w><lb/><w n='310602'>ανδρι</w><lb/><w n='310702'>κ<supplied>α</supplied>μοι</w><w n='310703'><supplied>ο</supplied></w><w n='310704'><abbr type='nominasacra'>θϲ</abbr></w><w n='310705'>εδιξεν</w><lb/><w n='310801'>μηδ<unclear>εν</unclear>α</w><app><rdg type='corr' hand='^'><w n='310802'><unclear>κο</unclear>ινον</w></rdg><rdg type='orig'><w n='310803'><unclear>κο</unclear>νοι</w></rdg></app><w n='310804'>η</w><lb/><w n='310902'>λεγ<unclear>ε</unclear>ι<supplied>ν</supplied></w><w n='310903'><abbr type='nominasacra'><supplied>α</supplied><unclear>ν</unclear>ον</abbr></w>
+<milestone unit='verse' n='051029'/><w n='310904'>διο</w><lb/><w n='311001'>και</w><w n='311002'>αν<unclear>αντ</unclear>ιρητωϲ</w><lb/><w n='311101'>ηλθον</w><w n='311102'>μεταπεμφθειϲ</w><lb/><w n='311201'>πυνθανομα<unclear>ι</unclear></w><w n='311202'>ουν</w><w n='311203'>τινι</w><app><rdg type='corr' hand='^'></rdg><rdg type='orig'><w n='311205'>ουν</w></rdg></app><lb/><w n='311301'>λογω</w><w n='311302'>μετεπ<unclear>ε</unclear>μψαϲθε</w><lb/><w n='311401'>με</w>
+<milestone unit='verse' n='051030'/><w n='311402'>ο</w><w n='311403'>δε</w><w n='311404'>κορνηλιοϲ</w><w n='311405'>εφη</w><lb/><w n='311501'>οπο</w><w n='311502'>τεταρτηϲ</w><w n='311503'>ημεραϲ</w><lb/><w n='311601'>μεχρι</w><app><rdg type='corr' hand='^'><w n='311602'>ταυτηϲ</w></rdg><rdg type='orig'><w n='311603'>τη</w></rdg></app><w n='311604'>τηϲ</w><w n='311605'>ωραϲ</w><lb/><w n='311701'>ημην</w><app><rdg type='corr' hand='^'><w n='311702'>νηϲτ<supplied>ε</supplied><unclear>υ</unclear>ων</w></rdg><rdg type='orig'><w n='311703'>τ</w></rdg></app><w n='311704'>και</w><lb/><w n='311801'>την</w><w n='311802'>εννατην</w><lb/><w n='311902'>ε<unclear>ν</unclear></w><w n='311903'><supplied>τ</supplied>ω</w><w n='311904'>οικω</w><w n='311905'>μου</w><lb/><w n='312001'>και</w><w n='312002'>ιδ<supplied>ο</supplied>υ</w><w n='312003'>ανηρ</w><w n='312004'>εϲτη</w><lb/><w n='312102'>μου</w><w n='312103'>εν</w><w n='312104'>αιϲθητι</w><pb/><w n='410101'>λαμπρα</w>
+<milestone unit='verse' n='051031'/><w n='410102'>και</w><w n='410103'>φηϲι<supplied>ν</supplied></w><lb/><w n='410202'>ειϲηκουϲ<unclear>θη</unclear></w><w n='410203'>ϲου</w><lb/><w n='410301'>η</w><app><rdg type='corr' hand='^'><w n='410302'>προϲευχη</w></rdg><rdg type='orig'><w n='410303'>προϲευ<unclear>ε</unclear></w></rdg></app><w n='410304'>και</w><w n='410305'>αι</w><lb/><w n='410402'>ϲου</w><lb/><app><rdg type='corr' hand='^'><w n='410502'>ενω<unclear>πι</unclear>ον</w></rdg><rdg type='orig'><w n='410503'>το<unclear>υ</unclear></w><w n='410504'><abbr type='nominasacra'>θυ</abbr></w><w n='410505'>ενω<unclear>πι</unclear>ου</w></rdg></app><lb/><w n='410601'>του</w><w n='410602'><abbr type='nominasacra'>θυ</abbr></w>
+</ab>
+</body>
+</text>
+</TEI>

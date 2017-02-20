@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM059453</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 59453</msName></msIdentifier>
+<msContents>
+<summary>Liturgy</summary>
+<msItem><p>Matt. 26:26-28,  2Tim. 4:1</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 12.3x11.4, 54 extant leaf(s), 1 column(s), 26-28 line(s) per column, 37-41 characters per line, written in Greek/Latin.</p></objectDesc>
+<handDesc>
+<handNote>350-399 Original scribe (4 verses).</handNote>
+</handDesc>
+<additions><p>Also contains Cicero in Catilinam, Alcestis (in Latin) and some liturgical prayers and a word list (in Greek). A number of pages still need to be checked. Various parts of the text were published in numerous sources.</p></additions>
+</physDesc>
+<history>
+<provenance>[1?] Obtained 1997 by Inv. 126-181, Fundación Sant Lluc Evangelista (Foundation of Saint Luke Evangelist) at Barcelona, España.</provenance>
+<provenance>[1?] Transferred  to Abadía de Monserrat (Abbey of Montserrat) at Barcelona, España.</provenance>
+<provenance>[2?] Purchased 1955 by David M. Robinson at Al Qāhirah, Miṣr from Maguid Sameda.</provenance>
+<provenance>[2?] Donated 1968 to P. Robinson Lat. 1, Duke University, David M. Rubenstein Rare Book & Manuscript Library at Durham, NC by William H. Willis.</provenance>
+<provenance>[2?] Relabelled  as P.Duk.inv. 798, Duke University, David M. Rubenstein Rare Book & Manuscript Library at Durham, NC.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1?] P.Monts.Roca Inv. 126-178, 292, 338, Abadía de Monserrat (Abbey of Montserrat), Barcelona, España.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[2?] P.Duk.inv. 798, Duke University, David M. Rubenstein Rare Book & Manuscript Library, Durham, NC.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[?] Zheltov, Michael, “The Anaphora and the Thanksgiving Prayer from the Barcelona Papyrus”, Vigiliae Christianae, vol. 62, no. 5, p. 467-504, Brill Academic Publishers: Leiden, Nederland, 2008. OCLC 50924640.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='160401'/><gap unit='page' quantity='1'/><gap unit='line' quantity='24'/><gap unit='character' extent='unknown'/><note>*</note><w n='212501'>κριναι</w><w n='212502'>ζωνταϲ</w><w n='212503'>και</w><w n='212504'>νεκρουϲ</w><note>*</note>
+<milestone unit='verse' n='012626'/><pb/><gap unit='line' quantity='7'/><gap unit='character' extent='unknown'/><note>*</note><w n='310801'>λαβων</w><w n='310802'>αρτον</w><w n='310803'>και</w><lb/><w n='310902'>και</w><w n='310903'>εκαλεϲεν</w><w n='310904'>και</w><w n='310905'>εδωκεν</w><w n='310906'>τοιϲ</w><w n='310907'>μαθηταιϲ</w><lb/><w n='311001'>αυτου</w><w n='311002'>λεγων</w><w n='311003'>λαβετε</w><w n='311004'>φαγετε</w><w n='311005'>τουτο</w><w n='311006'>μοι</w><w n='311007'>εϲτιν</w><w n='311008'>το</w><w n='311009'>ϲωμα</w>
+<milestone unit='verse' n='012627'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='311101'>λαβων</w><lb/><w n='311202'>ευχαριϲτηϲαϲ</w><w n='311203'>εδωκεν</w><w n='311204'>αυτοιϲ</w><w n='311205'>λεγων</w><w n='311206'>λαβετε</w><lb/><w n='311301'>πιετε</w>
+<milestone unit='verse' n='012628'/><w n='311302'>το</w><w n='311303'>αιμα</w><w n='311304'>το</w><w n='311305'>περι</w><w n='311306'>πολλων</w><w n='311307'>εκχυομενων</w><w n='311308'>ειϲ</w><lb/><w n='311401'>αφηϲιν</w><w n='311402'>αμαρτιων</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='13'/>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20219</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0219</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>Rom. 2:21-23, 3:8-9, 23-25, 27-30</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 6.1x6 (20x14), 2 extant leaf(s), 2 column(s), 10 (26) line(s) per column, 14-16 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-499 Original scribe with professional hand (12 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Fayyūm, Miṣr.</provenance>
+<provenance>Transferred  to Österreichische Nationalbibliothek (Austrian National Library) at Wien, Österreich.</provenance>
+</history>
+<msPart><msIdentifier><msName>Pap. G. 36113, 26083, Österreichische Nationalbibliothek (Austrian National Library), Wien, Österreich.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Sanz, Peter, ed., Mitteilungen Aus Der Papyrussammlung Der Österreichischen Nationalbibliothek in Wien, n.s. iv, no. 42, R.M. Rohrer Verlag: Baden bei Wien, Österreich, 1946. OCLC 263601230.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='060221'/><gap unit='page' extent='unknown'/><note>*</note><pb/><w n='110102'>κλεπτε<supplied>ι</supplied>ϲ</w>
+<milestone unit='verse' n='060222'/><w n='110103'>ο</w><lb/><w n='110201'>λεγων</w><w n='110202'>μη</w><w n='110203'>μο<unclear>ι</unclear><supplied>χευει̅</supplied></w><lb/><w n='110301'>μο<unclear>ι</unclear><supplied>χε</supplied><unclear>υ</unclear>ειϲ</w><w n='110302'>ο</w><lb/><w n='110402'><supplied>τα</supplied></w><w n='110403'><supplied>ειδωλα</supplied></w><lb/><w n='110501'>ιεροϲυ<supplied>λειϲ</supplied></w>
+<milestone unit='verse' n='060223'/><w n='110502'><supplied>οϲ</supplied></w><w n='110503'><supplied>εν</supplied></w><lb/><w n='110602'><supplied>καυχαϲαι</supplied></w><w n='110603'><supplied>δια</supplied></w><w n='110604'><supplied>τηϲ</supplied></w><lb/><w n='110701'>π<supplied>αραβαϲεωϲ</supplied></w><w n='110702'><supplied>του</supplied></w><w n='110703'><supplied>νομου</supplied></w><lb/><w n='110801'>τ<supplied>ον</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='18'/><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='060308'/><pb/><gap unit='column' quantity='1'/><note>*</note><w n='220101'>ο<unclear>τι</unclear></w><w n='220102'><unclear>π</unclear>οιηϲωμεν</w><w n='220103'>τα</w><lb/><w n='220201'><supplied>κακα</supplied></w><w n='220202'><supplied>ι</supplied>να</w><w n='220203'>ελθη</w><w n='220204'>εφ</w><lb/><w n='220302'><supplied>τα</supplied></w><w n='220303'><unclear>αγα</unclear>θ<unclear>α</unclear></w><w n='220304'><supplied>ω</supplied><unclear>ν</unclear></w><w n='220305'>το</w><lb/><w n='220401'><supplied>κριμα</supplied></w><w n='220402'><supplied>ενδικο</supplied>ν</w><w n='220403'>εϲτι̅</w>
+<milestone unit='verse' n='060309'/><lb/><w n='220501'><supplied>τι</supplied></w><w n='220502'><supplied>ουν</supplied></w><w n='220503'><supplied>προεχο</supplied>μεθα</w><lb/><w n='220601'><supplied>ου</supplied></w><w n='220602'><supplied>παντωϲ</supplied></w><lb/><w n='220702'><supplied>γαρ</supplied></w><lb/><w n='220802'><supplied>τε</supplied></w><w n='220803'><supplied>και</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='17'/>
+<milestone unit='verse' n='060323'/><pb/><gap unit='column' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='320202'><supplied>τηϲ</supplied></w><w n='320203'><supplied>δοξη</supplied>ϲ</w><w n='320204'>τ<unclear>ο</unclear><supplied>υ</supplied></w><lb/><w n='320301'><supplied><abbr type='nominasacra'>θυ</abbr></supplied></w>
+<milestone unit='verse' n='060324'/><w n='320302'><supplied>δικαιουμ</supplied>ενο<unclear>ι</unclear></w><lb/><w n='320401'><supplied>δωρεαν</supplied></w><w n='320402'><supplied>τη</supplied></w><w n='320403'><supplied>α</supplied>υτου</w><lb/><w n='320501'><supplied>χαριτι</supplied></w><w n='320502'><supplied>δια</supplied></w><w n='320503'><supplied>τηϲ</supplied></w><lb/><w n='320602'>τηϲ</w><w n='320603'>ε̅</w><lb/><w n='320701'><supplied><abbr type='nominasacra'>χω</abbr></supplied></w><w n='320702'><supplied><abbr type='nominasacra'>ιυ</abbr></supplied></w>
+<milestone unit='verse' n='060325'/><w n='320703'><supplied>ον</supplied></w><w n='320704'><supplied>προε</supplied><unclear>θ</unclear>ετο</w><lb/><w n='320801'><supplied>ο</supplied></w><w n='320802'><supplied><abbr type='nominasacra'>θϲ</abbr></supplied></w><w n='320803'><supplied>ιλαϲτηριο</supplied>ν</w><lb/><w n='320902'><supplied>πιϲτεωϲ</supplied></w><w n='320903'><supplied>εν</supplied></w><w n='320904'><supplied>τ</supplied>ω</w><lb/><w n='321002'><supplied>αιματι</supplied></w><w n='321003'><supplied>ειϲ</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='060327'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='410101'><unclear>δι</unclear><supplied>α</supplied></w><w n='410102'><supplied>νομου</supplied></w><lb/>
+<milestone unit='verse' n='060328'/><w n='410202'>λο<supplied>γιζομεθα</supplied></w><w n='410203'><supplied>γαρ</supplied></w><lb/><w n='410301'><unclear>δ</unclear>ικαι<supplied>ουϲθαι</supplied></w><w n='410302'><supplied>πιϲτει</supplied></w><lb/><w n='410401'><abbr type='nominasacra'>ανον</abbr></w><w n='410402'><supplied>χωριϲ</supplied></w><w n='410403'><supplied>εργων</supplied></w><lb/><w n='410501'>νομ<supplied>ου</supplied></w>
+<milestone unit='verse' n='060329'/><w n='410502'><supplied>η</supplied></w><w n='410503'><supplied>ιουδαιων</supplied></w><lb/><w n='410601'>ο</w><w n='410602'><abbr type='nominasacra'>θϲ</abbr></w><w n='410603'><supplied>μονον</supplied></w><w n='410604'><supplied>ουχι</supplied></w><lb/><w n='410701'>και</w><w n='410702'><supplied>εθνων</supplied></w><w n='410703'><supplied>ναι</supplied></w><w n='410704'><supplied>και</supplied></w><lb/><w n='410801'>εθ<supplied>νων</supplied></w>
+<milestone unit='verse' n='060330'/><w n='410802'><supplied>επειπερ</supplied></w><lb/><w n='410901'>ει<supplied>ϲ</supplied></w><w n='410902'><supplied>ο</supplied></w><w n='410903'><supplied><abbr type='nominasacra'>θϲ</abbr></supplied></w><w n='410904'><supplied>οϲ</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/><gap unit='column' quantity='1'/>
+</ab>
+</body>
+</text>
+</TEI>

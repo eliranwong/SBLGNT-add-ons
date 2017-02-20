@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10029</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P29</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Acts 26:7-8, 20</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 5.7x2.8 (28x16), 1 extant leaf(s), 1 column(s), 5 (40) line(s) per column, 29-33 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-224 Original scribe with documentary hand (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1905-1906 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Donated  to University of Oxford, Bodleian Library at Oxford, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Gr. bibl. g. 4 p, University of Oxford, Bodleian Library, Oxford, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Grenfell, Bernard P. and Arthur S. Hunt, The Oxyrhynchus Papyri, vol. 13, no. 1597, Egypt Exploration Society: London, England, 1919. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='052607'/><pb/><gap unit='line' quantity='35'/><note>*</note><w n='113601'>το</w><w n='113602'>δωδεκ<supplied>αφυλον</supplied></w><w n='113603'><supplied>ημων</supplied></w><w n='113604'><supplied>εν</supplied></w><lb/><w n='113702'>νυκτ<supplied>α</supplied></w><w n='113703'><supplied>και</supplied></w><w n='113704'><supplied>ημεραν</supplied></w><w n='113705'><supplied>λατρευον</supplied></w><lb/><w n='113801'>ελπιδι</w><w n='113802'><unclear>κ</unclear><supplied>αταντηϲαι</supplied></w><w n='113803'><supplied>περι</supplied></w><w n='113804'><supplied>ηϲ</supplied></w><w n='113805'><supplied>ελπιδοϲ</supplied></w><lb/><w n='113901'>ενκαλου<supplied>μαι</supplied></w><w n='113902'><supplied>υπο</supplied></w><w n='113903'><supplied>ιουδαιων</supplied></w><w n='113904'><supplied>βαϲιλευ</supplied></w>
+<milestone unit='verse' n='052608'/><w n='113905'><supplied>ει</supplied></w><lb/><w n='114001'>ο</w><w n='114002'><abbr type='nominasacra'>θϲ</abbr></w><w n='114003'>νεκ<unclear>ρ</unclear><supplied>ουϲ</supplied></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='052620'/><pb/><gap unit='line' quantity='35'/><gap unit='character' extent='unknown'/><w n='213601'><supplied>α</supplied>λλα</w><w n='213602'>τοιϲ</w><w n='213603'>ε<supplied>ν</supplied></w><lb/><w n='213701'><supplied>δαμαϲκω</supplied></w><w n='213702'><supplied>πρωτον</supplied></w><w n='213703'><supplied>τε</supplied></w><w n='213704'><supplied>και</supplied></w><w n='213705'><supplied>ιερο</supplied><unclear>ϲ</unclear>ολομοιϲ</w><w n='213706'>κα<supplied>ι</supplied></w><lb/><w n='213801'><supplied>τηϲ</supplied></w><w n='213802'><supplied>ιουδαιαϲ</supplied></w><w n='213803'><supplied>και</supplied></w><w n='213804'><supplied>τοιϲ</supplied></w><w n='213805'><supplied>εθνεϲιν</supplied></w><w n='213806'>εκηρυξα</w><lb/><w n='213901'><supplied>μετανοειν</supplied></w><w n='213902'><supplied>και</supplied></w><w n='213903'><supplied>επιϲτρεφειν</supplied></w><w n='213904'><supplied>ε</supplied>πι</w><w n='213905'>τον</w><w n='213906'><abbr type='nominasacra'>θν</abbr></w><lb/><w n='214001'><supplied>αξια</supplied></w><w n='214002'><supplied>τηϲ</supplied></w><w n='214003'><supplied>μετανοιαϲ</supplied></w><w n='214004'><supplied>εργα</supplied></w><w n='214005'><supplied>πρ</supplied><unclear>α</unclear>ϲϲονταϲ</w>
+</ab>
+</body>
+</text>
+</TEI>

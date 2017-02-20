@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM063820</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 63820</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>Matt. 10:13, Luke 10:5-6</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 20.5x8 (21.5x11), 1 extant leaf(s), 1 column(s), 41 line(s) per column, 29-33 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>100-299 Original scribe (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Bibliothèque de Genève (Library of Geneva) at Genève, Schweiz.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Gr. 253, Bibliothèque de Genève (Library of Geneva), Genève, Schweiz.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Eitrem, Samson and Leiv Amundsen, Papyri Osloenses, vol. 3, no. 73, Commissioned by Jacob Dybwad: Oslo, Norge, 1936. OCLC 31823431.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='031005'/><pb/><gap unit='line' quantity='17'/><gap unit='character' extent='unknown'/><note>*</note><w n='111801'><supplied>ε</supplied>πι</w><w n='111802'>τον</w><w n='111803'>οικον</w><w n='111804'>εκεινον</w>
+<milestone unit='verse' n='031006'/><w n='111805'>και</w><w n='111806'>η</w><w n='111807'>υιοϲ</w><w n='111808'><supplied>ειρηνηϲ</supplied></w><lb/><w n='111901'><supplied>εκει</supplied></w><w n='111902'>τω</w><w n='111903'>τοπω</w><w n='111904'>εκινω</w><w n='111905'>η</w><w n='111906'>ειρηνη</w><w n='111907'>υ<unclear>μ</unclear><supplied>ων</supplied></w><lb/><w n='112002'>ει</w><w n='112003'>δε</w><w n='112004'>μη</w><note>*</note>
+<milestone unit='verse' n='011013'/><note>*</note><w n='112005'>προϲ</w><w n='112006'>υμαϲ</w><lb/>
+</ab>
+</body>
+</text>
+</TEI>

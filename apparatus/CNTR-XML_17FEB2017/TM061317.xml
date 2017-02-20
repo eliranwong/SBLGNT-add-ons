@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061317</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61317</msName></msIdentifier>
+<msContents>
+<summary>Treatise by Irenaeus known as Against Heresies written 175-185 in Lugdenum, Gallia</summary>
+<msItem><p>Matt. 3:16-17</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 4.8x8.3 (?), scroll, 5 column(s), 14 (?) line(s) per column, 19-20 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>175-249 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1897 by Bernard Grenfell and Arthur Hunt, Egypt Exploration Society at Al Bahnasā, Miṣr from a garbage dump.</provenance>
+<provenance>Donated 1904-1908 to Cambridge University Library at Cambridge, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Add. 4413, Cambridge University Library, Cambridge, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Grenfell, Bernard P. and Arthur S. Hunt, The Oxyrhynchus Papyri, vol. 3, no. 405, Egypt Exploration Society: London, England, 1903. OCLC 855777953.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='010316'/><gap unit='page' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='5'/><gap unit='character' extent='unknown'/><note>*</note><w n='200601'>ανε<unclear>ω</unclear><supplied>χθηϲαν</supplied></w><w n='200602'><supplied>οι</supplied></w><w n='200603'><supplied>ουρανοι</supplied></w><lb/><w n='200701'>και</w><w n='200702'>ειδεν</w><w n='200703'><unclear>τ</unclear><supplied>ο</supplied></w><w n='200704'><supplied><abbr type='nominasacra'>πνα</abbr></supplied></w><w n='200705'><supplied>του</supplied></w><w n='200706'><supplied><abbr type='nominasacra'>θυ</abbr></supplied></w><lb/><w n='200802'><unclear>ω</unclear>ϲ</w><w n='200803'>π<supplied>εριϲτεραν</supplied></w><w n='200804'><supplied>και</supplied></w><lb/><w n='200901'>ερχομενον</w><w n='200902'><unclear>ε</unclear><supplied>π</supplied></w><w n='200903'><supplied>αυτον</supplied></w>
+<milestone unit='verse' n='010317'/><w n='200904'><supplied>και</supplied></w><lb/><w n='201001'>ιδου</w><w n='201002'>φων<supplied>η</supplied></w><w n='201003'><supplied>εκ</supplied></w><w n='201004'><supplied>των</supplied></w><w n='201005'><supplied>ουρανων</supplied></w><lb/><w n='201101'>λεγουϲα</w><w n='201102'>ϲυ</w><w n='201103'>ε<supplied>ι</supplied></w><w n='201104'><supplied>ο</supplied></w><w n='201105'><supplied><abbr type='nominasacra'>υϲ</abbr></supplied></w><w n='201106'><supplied>μου</supplied></w><lb/><w n='201202'><supplied>ε</supplied>ν</w><w n='201203'>ω</w><w n='201204'><supplied>ευδοκηϲα</supplied></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='5'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

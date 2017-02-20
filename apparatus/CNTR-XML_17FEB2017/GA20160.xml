@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20160</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0160</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Matt. 26:25-26, 34-36</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 9.1x6.5 (?), 1 extant leaf(s), 2 column(s), 16 (24) line(s) per column, 10-12 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-349 Original scribe with professional hand (5 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1902 by Otto Rubensohn from the Papyrusfonds.</provenance>
+<provenance>Transferred 1902 to Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 9961, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Salonius, A. H., “Die griechischen Handscriftenfragmente des Neuen Testaments in den Staatlichen Museen zu Berlin”, Zeitschrift für die Neutestamentliche Wissenschaft, no. 26, p. 99-100, Alfred Töpelmann: Giessen, Deutschland, 1927. OCLC 47766549.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='012625'/><pb/><gap unit='line' quantity='9'/><gap unit='character' extent='unknown'/><lb/><w n='111102'><supplied>δε</supplied></w><lb/><w n='111202'><supplied>ο</supplied></w><lb/><w n='111302'><supplied>αυτον</supplied></w><lb/><w n='111402'><supplied>μητι</supplied></w><w n='111403'><supplied>εγω</supplied></w><lb/><w n='111501'>ειμ<supplied>ι</supplied></w><w n='111502'><supplied>ραββι</supplied></w><lb/><w n='111602'><supplied>αυτω</supplied></w><w n='111603'><supplied>ϲυ</supplied></w><lb/>
+<milestone unit='verse' n='012626'/><lb/><w n='111802'><supplied>δε</supplied></w><w n='111803'><supplied>αυτων</supplied></w><lb/><w n='111901'>λαβω<supplied>ν</supplied></w><w n='111902'><supplied>ο</supplied></w><w n='111903'><supplied><abbr type='nominasacra'>ιϲ</abbr></supplied></w><w n='111904'><supplied>τον</supplied></w><lb/><w n='112001'>αρτο<supplied>ν</supplied></w><w n='112002'><supplied>και</supplied></w><lb/><lb/><w n='112202'>και</w><w n='112203'>δουϲ</w><lb/><w n='112301'>τοιϲ</w><w n='112302'>μαθηταιϲ</w><lb/><w n='112401'><supplied>ε</supplied>ιπεν</w><w n='112402'>λαβετε</w><lb/><w n='112501'>φαγετε</w><w n='112502'>του<supplied>το</supplied></w><note>*</note><gap unit='column' quantity='1'/>
+<milestone unit='verse' n='012634'/><pb/><gap unit='column' quantity='1'/><gap unit='line' quantity='8'/><gap unit='character' extent='unknown'/><note>*</note><w n='220901'><supplied>αμη</supplied>ν</w><lb/><w n='221001'><supplied>λεγω</supplied></w><w n='221002'><supplied>ϲοι</supplied></w><w n='221003'><supplied>οτι</supplied></w><w n='221004'><supplied>ε</supplied>ν</w><lb/><w n='221101'><supplied>ταυτηι</supplied></w><w n='221102'><supplied>τηι</supplied></w><w n='221103'><supplied>ν</supplied>υκτι</w><lb/><w n='221201'><supplied>πριν</supplied></w><w n='221202'><supplied>αλεκ</supplied><unclear>τορα</unclear></w><lb/><w n='221301'><supplied>φωνηϲαι</supplied></w><w n='221302'>τ<supplied>ρ</supplied>ιϲ</w><lb/><w n='221401'><supplied>απαρνηϲ</supplied>η</w><w n='221402'>με</w>
+<milestone unit='verse' n='012635'/><lb/><w n='221501'><supplied>λεγει</supplied></w><w n='221502'><supplied>αυτ</supplied>ω</w><w n='221503'>ο</w><lb/><w n='221602'><supplied>καν</supplied></w><w n='221603'>δεη</w><lb/><w n='221701'><supplied>με</supplied></w><w n='221702'><supplied>ϲυν</supplied></w><w n='221703'><supplied>ϲ</supplied>οι</w><lb/><w n='221802'>ου</w><w n='221803'>μη</w><lb/><w n='221901'><supplied>ϲε</supplied></w><lb/><w n='222002'><supplied>ομοιωϲ</supplied></w><w n='222003'><supplied>δε</supplied></w><lb/><w n='222101'>και</w><w n='222102'>παν<supplied>τεϲ</supplied></w><w n='222103'><supplied>οι</supplied></w><lb/><w n='222201'>μαθηται</w><w n='222202'><supplied>ειπαν</supplied></w>
+<milestone unit='verse' n='012636'/><lb/><w n='222301'><supplied>το</supplied>τε</w><w n='222302'>ερχετ<supplied>αι</supplied></w><lb/><w n='222401'><supplied>μ</supplied>ετ</w><w n='222402'>αυτων</w><w n='222403'>ο</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

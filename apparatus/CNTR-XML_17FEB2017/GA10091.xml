@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10091</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P91</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Acts 2:30-37, 46-3:2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 9.6x1.8 (25x14), 1 extant leaf(s), 1 column(s), 13 (32) line(s) per column, 34-40 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe with documentary hand (12 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>[1a] Obtained  by Università degli Studi di Milano, Centro Di Papirologia Achille Vogliano (University of Milan, Achille Vogliano Center of Papyrology) at Milano, Italia.</provenance>
+<provenance>[1b] Obtained  by Macquarie University, Ancient History Documentary Research Centre at Sydney, Australia.</provenance>
+</history>
+<msPart><msIdentifier><msName>[1a] P. Mil. Vogl. Inv. 1224, Università degli Studi di Milano, Centro Di Papirologia Achille Vogliano (University of Milan, Achille Vogliano Center of Papyrology), Milano, Italia.</msName></msIdentifier></msPart>
+<msPart><msIdentifier><msName>[1b] Inv. 360, Macquarie University, Ancient History Documentary Research Centre, Sydney, Australia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>[1a] Gallazzi, Claudio, “P. Mil. Vogl. Inv. 1224: Novum Testamentum, Act. 2,30–37 E 2, 46–3,2”, Bulletin of American Society of Papyrologists, no. 19, p. 39-45, American Society of Papyrologists: Urbana, IL, 1982. OCLC 1994479.</bibl>
+<bibl>[1b] Pickering, S. R., “P. Macquarie Inv. 360 (+ P. Mil. Vogl. Inv. 1224): Acta Apostolorum 2.30–37, 2.46–3.2”, Zeitschrift für Papyrologie und Epigraphik, no. 65, p. 76-79, Rudolf Habelt: Bonn, Deutschland, 1986. OCLC 1466587.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='050230'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='110101'><supplied>επ</supplied><unclear>ι</unclear></w><w n='110102'>τον</w><w n='110103'>θρ<unclear>ο</unclear><supplied>νον</supplied></w><w n='110104'><supplied>α</supplied>υτ<unclear>ου</unclear></w>
+<milestone unit='verse' n='050231'/><w n='110105'><supplied>προιδων</supplied></w><w n='110106'><supplied>ελαληϲεν</supplied></w><w n='110107'><supplied>περι</supplied></w><w n='110108'><supplied>τηϲ</supplied></w><lb/><w n='110201'>αναϲταϲε<unclear>ω</unclear><supplied>ϲ</supplied></w><w n='110202'><supplied>οτ</supplied>ι</w><w n='110203'>ου<supplied>τε</supplied></w><w n='110204'><supplied>εγκατελειφθη</supplied></w><w n='110205'><supplied>ειϲ</supplied></w><w n='110206'><supplied>αδην</supplied></w><w n='110207'><supplied>ουτε</supplied></w><lb/><w n='110301'>η</w><w n='110302'>ϲαρξ</w><w n='110303'>αυτου</w><w n='110304'><unclear>ε</unclear>ιδεν</w><w n='110305'><supplied>διαφθοραν</supplied></w>
+<milestone unit='verse' n='050232'/><w n='110306'><supplied>τουτον</supplied></w><w n='110307'><supplied>τον</supplied></w><w n='110308'><supplied><abbr type='nominasacra'>ιην</abbr></supplied></w><lb/><w n='110401'>ανεϲτηϲεν</w><w n='110402'>ο</w><w n='110403'><abbr type='nominasacra'>θϲ</abbr></w><w n='110404'>ου</w><w n='110405'>π<unclear>α</unclear><supplied>ντεϲ</supplied></w><w n='110406'><supplied>ημειϲ</supplied></w><w n='110407'><supplied>μαρτυρεϲ</supplied></w>
+<milestone unit='verse' n='050233'/><w n='110408'><supplied>τη</supplied></w><w n='110409'><supplied>δεξια</supplied></w><w n='110410'><supplied>ουν</supplied></w><lb/><w n='110501'>του</w><w n='110502'><abbr type='nominasacra'>θυ</abbr></w><w n='110503'>υψωθ<unclear>ειϲ</unclear></w><w n='110504'>τη<supplied>ν</supplied></w><w n='110505'><supplied>τε</supplied></w><w n='110506'><supplied>επαγγελιαν</supplied></w><w n='110507'><supplied>του</supplied></w><w n='110508'><supplied><abbr type='nominasacra'>πνϲ</abbr></supplied></w><w n='110509'><supplied>του</supplied></w><w n='110510'><supplied>αγιου</supplied></w><lb/><w n='110601'>λαβων</w><w n='110602'>παρα</w><w n='110603'><unclear>τ</unclear>ου</w><w n='110604'><abbr type='nominasacra'>π<unclear>ρ</unclear><supplied>ϲ</supplied></abbr></w><w n='110605'><supplied>εξεχεεν</supplied></w><w n='110606'><supplied>τουτο</supplied></w><w n='110607'><supplied>ο</supplied></w><w n='110608'><supplied>υμειϲ</supplied></w><w n='110609'><supplied>και</supplied></w><lb/><w n='110702'>και</w><w n='110703'>ακουεται</w>
+<milestone unit='verse' n='050234'/><w n='110704'><supplied>ου</supplied></w><w n='110705'><supplied>γαρ</supplied></w><w n='110706'><supplied><abbr type='nominasacra'>δαδ</abbr></supplied></w><w n='110707'><supplied>ανεβη</supplied></w><w n='110708'><supplied>ειϲ</supplied></w><w n='110709'><supplied>τουϲ</supplied></w><w n='110710'><supplied>ουρανουϲ</supplied></w><lb/><w n='110801'><unclear>λ</unclear>εγει</w><w n='110802'>δ<unclear>ε</unclear></w><w n='110803'>αυτοϲ</w><w n='110804'>ειπεν</w><w n='110805'><supplied>ο</supplied></w><w n='110806'><supplied><abbr type='nominasacra'>κϲ</abbr></supplied></w><w n='110807'><supplied>τω</supplied></w><w n='110808'><supplied><abbr type='nominasacra'>κω</abbr></supplied></w><w n='110809'><supplied>μου</supplied></w><w n='110810'><supplied>καθου</supplied></w><w n='110811'><supplied>εκ</supplied></w><w n='110812'><supplied>δεξιων</supplied></w><lb/><w n='110901'>μ<unclear>ο</unclear>υ</w>
+<milestone unit='verse' n='050235'/><w n='110902'>εωϲ</w><w n='110903'>αν</w><w n='110904'>θω</w><w n='110905'>τουϲ</w><w n='110906'><supplied>εχθρουϲ</supplied></w><w n='110907'><supplied>ϲου</supplied></w><w n='110908'><supplied>υποποδιον</supplied></w><w n='110909'><supplied>των</supplied></w><lb/><w n='111001'><unclear>π</unclear>οδων</w><w n='111002'>ϲου</w>
+<milestone unit='verse' n='050236'/><w n='111003'>αϲφα<supplied>λωϲ</supplied></w><w n='111004'><supplied>ουν</supplied></w><w n='111005'><supplied>γινωϲκετω</supplied></w><w n='111006'><supplied>παϲ</supplied></w><w n='111007'><supplied>οικοϲ</supplied></w><lb/><w n='111101'><unclear>ι</unclear>ϲϲτραηλ</w><w n='111102'>οτι</w><w n='111103'><abbr type='nominasacra'>χρν</abbr></w><w n='111104'><supplied>αυτον</supplied></w><w n='111105'><supplied>και</supplied></w><w n='111106'><supplied><abbr type='nominasacra'>κν</abbr></supplied></w><w n='111107'><supplied>εποιηϲεν</supplied></w><w n='111108'><supplied>ο</supplied></w><w n='111109'><supplied><abbr type='nominasacra'>θϲ</abbr></supplied></w><lb/><w n='111201'><unclear>τ</unclear><supplied>ο</supplied><unclear>υτο</unclear>ν</w><w n='111202'>τον</w><w n='111203'><abbr type='nominasacra'>ιην</abbr></w><w n='111204'>ον</w><w n='111205'><supplied>υμειϲ</supplied></w><w n='111206'><supplied><abbr type='nominasacra'>εϲ⳨ωϲατε</abbr></supplied></w>
+<milestone unit='verse' n='050237'/><w n='111207'><supplied>ακουϲαντεϲ</supplied></w><w n='111208'><supplied>δε</supplied></w><lb/><w n='111302'><supplied>τ</supplied><unclear>ην</unclear></w><w n='111303'><unclear>κ</unclear>α<unclear>ρδ</unclear><supplied>ιαν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='050246'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>η</supplied><unclear>μερ</unclear>αν</w><w n='210102'><unclear>τ</unclear><supplied>ε</supplied></w><lb/><w n='210201'><supplied>προϲκαρτερουντεϲ</supplied></w><w n='210202'><supplied>ομοθυμ</supplied><unclear>α</unclear>δ<unclear>ο</unclear><supplied>ν</supplied></w><w n='210203'><supplied>εν</supplied></w><w n='210204'>τω</w><w n='210205'>ιερω</w><lb/><w n='210301'><supplied>κλωντεϲ</supplied></w><w n='210302'><supplied>τε</supplied></w><w n='210303'><supplied>κατ</supplied></w><w n='210304'><supplied>οικον</supplied></w><w n='210305'><supplied>αρτον</supplied></w><w n='210306'>μετα<unclear>λ</unclear>αμβανον</w><lb/><w n='210401'><supplied>τροφηϲ</supplied></w><w n='210402'><supplied>εν</supplied></w><w n='210403'><supplied>αγαλλιαϲει</supplied></w><w n='210404'><supplied>και</supplied></w><w n='210405'><supplied>αφελ</supplied><unclear>ο</unclear>τλοτητι</w><w n='210406'>καρδιαϲ</w>
+<milestone unit='verse' n='050247'/><lb/><w n='210501'><supplied>αινουντεϲ</supplied></w><w n='210502'><supplied>τον</supplied></w><w n='210503'><supplied><abbr type='nominasacra'>θν</abbr></supplied></w><w n='210504'><supplied>και</supplied></w><w n='210505'><supplied>εχο</supplied>ντεϲ</w><w n='210506'>χαριν</w><w n='210507'>προϲ</w><w n='210508'>ολο̅</w><lb/><w n='210601'><supplied>τον</supplied></w><w n='210602'><supplied>λαον</supplied></w><w n='210603'><supplied>ο</supplied></w><w n='210604'><supplied>δε</supplied></w><w n='210605'><supplied><abbr type='nominasacra'>κϲ</abbr></supplied></w><w n='210606'><supplied>προϲετιθ</supplied>ει</w><w n='210607'>τουϲ</w><w n='210608'>ϲωζομενουϲ</w><lb/><w n='210701'><supplied>καθ</supplied></w><w n='210702'><supplied>ημεραν</supplied></w>
+<milestone unit='verse' n='050301'/><w n='210703'><supplied>επι</supplied></w><w n='210704'><supplied>το</supplied></w><w n='210705'><supplied>αυτο</supplied></w><w n='210706'><supplied>πε</supplied><unclear>τ</unclear>ροϲ</w><w n='210707'>δε</w><w n='210708'>και</w><w n='210709'>ιωαννηϲ</w><lb/><w n='210801'><supplied>ανεβαινον</supplied></w><w n='210802'><supplied>ειϲ</supplied></w><w n='210803'><supplied>το</supplied></w><w n='210804'><supplied>ιερον</supplied></w><w n='210805'><supplied>επι</supplied></w><w n='210806'><unclear>τ</unclear>ην</w><w n='210807'>ωραν</w><w n='210808'>τηϲ</w><lb/><w n='210902'><supplied>την</supplied></w><w n='210903'><supplied>ενατην</supplied></w>
+<milestone unit='verse' n='050302'/><w n='210904'><supplied>και</supplied></w><w n='210905'><supplied>τιϲ</supplied></w><w n='210906'><unclear>α</unclear>νηρ</w><w n='210907'>χωλοϲ</w><w n='210908'>εκ</w><lb/><w n='211002'><supplied>μητροϲ</supplied></w><w n='211003'><supplied>αυτου</supplied></w><w n='211004'><supplied>υπαρχω</supplied><unclear>ν</unclear></w><w n='211005'>εβαϲταζετο</w><w n='211006'>ον</w><lb/><w n='211101'><supplied>ετιθουν</supplied></w><w n='211102'><supplied>καθ</supplied></w><w n='211103'><supplied>ημεραν</supplied></w><w n='211104'><supplied>προϲ</supplied></w><w n='211105'><supplied>τ</supplied>ην</w><w n='211106'>θυραν</w><w n='211107'>του</w><w n='211108'>ιερου</w><lb/><w n='211201'><supplied>την</supplied></w><w n='211202'><supplied>λεγομενην</supplied></w><w n='211203'><supplied>ωραιαν</supplied></w><w n='211204'><supplied>το</supplied><unclear>υ</unclear></w><w n='211205'>αιτειν</w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

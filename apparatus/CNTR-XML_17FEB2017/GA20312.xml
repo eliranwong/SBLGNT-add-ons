@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20312</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0312</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Luke 5:23-24, 30-31, 7:9, 17-18</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 1.5x16 (12x10 ), 2 extant leaf(s), 1 column(s), 4 (28) line(s) per column, 25-28 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-299 Original scribe with reformed documentary hand (7 verses).</handNote>
+</handDesc>
+<additions><p>A single leaf removed from the binding contained 4 pages. </p></additions>
+</physDesc>
+<history>
+<provenance>Purchased  by antiquities dealer at Europe possibly from a pre-War Armenian collection of antiquities and Armenian manuscripts in France.</provenance>
+<provenance>Purchased 2003 by private collector at London, England.</provenance>
+<provenance>Transferred  to Corpus Christi College, Parker Library at Cambridge, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>de Hamil Gk. MS 386, Corpus Christi College, Parker Library, Cambridge, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Head, Peter, “Five New Testament Manuscripts: Recently Discovered Fragments in a Private Collection in Cambridge”, Journal of Theological Studies, vol. 59, part 2, p. 530-534, Oxford University Press: Oxford, England, 2008 October. OCLC 50047092.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030523'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='110101'>ϲοι</w><w n='110102'>αι</w><w n='110103'>αμαρτιαι</w><w n='110104'>ϲου</w><w n='110105'><unclear>η</unclear></w><w n='110106'><unclear>ειπειν</unclear></w><lb/><w n='110202'>και</w><w n='110203'>περιπατει</w>
+<milestone unit='verse' n='030524'/><w n='110204'>ινα</w><w n='110205'>δε</w><w n='110206'>ειδ<unclear>ητε</unclear></w><lb/><w n='110301'>οτι</w><w n='110302'>ο</w><w n='110303'>υιοϲ</w><w n='110304'>του</w><w n='110305'>αν<unclear>θ</unclear>ρ<unclear>ωπ</unclear>ου</w><w n='110306'>εξουϲι<supplied>αν</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='030530'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>αμαρτ</supplied><unclear>ωλων</unclear></w><w n='210102'><unclear>ε</unclear>ϲθιεται</w>
+<milestone unit='verse' n='030531'/><w n='210103'>και</w><lb/><w n='210202'><unclear>ο</unclear></w><w n='210203'><abbr type='nominasacra'>ιϲ</abbr></w><w n='210204'>ειπεν</w><w n='210205'>προϲ</w><w n='210206'>αυτουϲ</w><w n='210207'>ου</w><lb/><w n='210302'>εχ<unclear>ουϲιν</unclear></w><w n='210303'>οι</w><w n='210304'><supplied>υγιαι</supplied>νοντ<unclear>ε</unclear>ϲ</w><w n='210305'>ιατρου</w><note>*</note><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='030709'/><pb/><gap unit='line' extent='unknown'/><w n='310101'><unclear>α</unclear>κουϲαϲ</w><w n='310102'>δε</w><w n='310103'>ταυτα</w><w n='310104'>ο</w><w n='310105'><abbr type='nominasacra'>ιϲ</abbr></w><w n='310106'>εθαυμαϲ<supplied>εν</supplied></w><lb/><w n='310201'>και</w><w n='310202'>ειπεν</w><w n='310203'>τω</w><w n='310204'>ακολουθουντι</w><w n='310205'>οχλω</w><lb/><w n='310301'>λεγω</w><w n='310302'>υμιν</w><w n='310303'>ουδε</w><w n='310304'>εν</w><w n='310305'>τω</w><w n='310306'><supplied>ιϲραηλ</supplied></w><lb/><w n='310402'>πιϲτιν</w><w n='310403'>ευρον</w><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='030717'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='410101'><unclear>κ</unclear>αι</w><w n='410102'>εν</w><w n='410103'>παϲη</w><w n='410104'>τη</w><w n='410105'>περιχωρω</w>
+<milestone unit='verse' n='030718'/><lb/><w n='410201'>και</w><w n='410202'>απηγγειλαν</w><w n='410203'>ιωαννη</w><w n='410204'>οι</w><lb/><w n='410302'>αυτου</w><w n='410303'>περι</w><w n='410304'>παντων</w><w n='410305'>τουτων</w><lb/><w n='410401'><unclear>κ</unclear>αι</w><w n='410402'>προϲκαλεϲαμενοϲ</w><w n='410403'>δυο</w><w n='410404'>τιναϲ</w><note>*</note><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

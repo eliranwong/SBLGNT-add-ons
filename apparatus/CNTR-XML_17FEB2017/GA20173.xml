@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA20173</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA 0173</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [a]</summary>
+<msItem><p>Jas. 1:25-27</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Parchment, 7.2x5.9, 1 extant leaf(s), 1 column(s), 9 line(s) per column, 11-14 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>350-449 Original scribe with documentary hand (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā, Miṣr.</provenance>
+<provenance>Transferred  to Biblioteca Medicea Laurentiana (Medicean Laurentian Library) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>BML inv. 13728, Biblioteca Medicea Laurentiana (Medicean Laurentian Library), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Pistelli, Ermenegildo, Papiri Greci e Latini, vol. 1, no. 5, p. 8, Pubblicazioni della Società Italiana: Firenze, Italia, 1912. OCLC 11324150.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='200125'/><pb/><note>*</note><w n='110101'>ε<supplied>ιϲ</supplied></w><w n='110102'>νομον</w><lb/><w n='110202'>τ<unclear>ο</unclear>ν</w><w n='110203'>τηϲ</w><lb/><w n='110302'>και</w><lb/><w n='110402'>ουχ</w><lb/><lb/><w n='110602'>γενομενοϲ</w><lb/><w n='110701'>αλλα</w><w n='110702'>ποιητηϲ</w><lb/><w n='110802'>ουτ<supplied>οϲ</supplied></w><lb/><w n='110902'>εν</w><w n='110903'><unclear>τ</unclear>η</w><w n='110904'><supplied>π</supplied><unclear>οι</unclear>ηϲει</w><pb/><w n='210101'>αυτου</w><w n='210102'>εϲ<unclear>ται</unclear></w>
+<milestone unit='verse' n='200126'/><w n='210103'><unclear>ε</unclear><supplied>ι</supplied></w><w n='210104'><supplied>δ</supplied><unclear>ε</unclear></w><lb/><w n='210201'>τιϲ</w><w n='210202'>δοκει</w><lb/><w n='210302'>ειν<supplied>αι</supplied></w><w n='210303'><supplied>μ</supplied>η</w><lb/><w n='210401'>χαλει<unclear>ν</unclear><supplied>αγων</supplied></w><lb/><w n='210502'>ε<supplied>αυ</supplied>του</w><lb/><w n='210602'>απατων</w><lb/><w n='210702'>αυτο<unclear>υ</unclear></w><lb/><w n='210802'>ματαιοϲ</w><w n='210803'>η</w><lb/><w n='210901'>θρηϲκεια</w>
+<milestone unit='verse' n='200127'/><pb/><w n='210902'><supplied>ϲκεια</supplied></w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

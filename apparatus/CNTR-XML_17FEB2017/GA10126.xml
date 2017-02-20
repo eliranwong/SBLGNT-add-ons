@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10126</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P126</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>Heb. 13:12-13, 19-20</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 3.7x9.1 (30x16), 1 extant leaf(s), 1 column(s), 3 (20) line(s) per column, 30-32 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-349 Original scribe with reformed documentary hand (4 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Istituto Papirologico Girolamo Vitelli (Girolamo Vitelli Papyrological Institute) at Firenze, Italia.</provenance>
+</history>
+<msPart><msIdentifier><msName>PSI inv. 1497, Istituto Papirologico Girolamo Vitelli (Girolamo Vitelli Papyrological Institute), Firenze, Italia.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Bastianini, Guido, Papiri Greci e Latini, vol. 15, no. 1497, p. 171-172, Pubblicazioni della Società Italiana: Firenze, Italia, 2008. OCLC 11324150.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='191312'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'>εξω</w><w n='110102'>τη<unclear>ϲ</unclear></w><w n='110103'>πυληϲ</w><w n='110104'><unclear>τ</unclear>ηϲ</w><lb/><w n='110202'><supplied>επαθεν</supplied></w>
+<milestone unit='verse' n='191313'/><w n='110203'><supplied>τοιν</supplied><unclear>υν</unclear></w><w n='110204'>εξερχω<supplied>μ</supplied>εθα</w><lb/><w n='110301'><supplied>προϲ</supplied></w><w n='110302'><supplied>αυτον</supplied></w><w n='110303'><supplied>εξω</supplied></w><w n='110304'><supplied>τηϲ</supplied></w><w n='110305'><supplied>παρεμβοληϲ</supplied></w><w n='110306'><supplied>τον</supplied></w><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='191319'/><pb/><note>*</note><w n='210101'>απε<unclear>κα</unclear>ταϲταθω</w><w n='210102'>υμιν</w>
+<milestone unit='verse' n='191320'/><w n='210103'><unclear>ο</unclear></w><w n='210104'><unclear>δ</unclear><supplied>ε</supplied></w><w n='210105'><supplied><abbr type='nominasacra'>θϲ</abbr></supplied></w><w n='210106'><supplied>τηϲ</supplied></w><w n='210107'><supplied>ειρηνηϲ</supplied></w><lb/><w n='210201'>ο</w><w n='210202'>α<unclear>να</unclear>γαγων</w><w n='210203'>ε<unclear>κ</unclear></w><w n='210204'><unclear>ν</unclear><supplied>εκρων</supplied></w><w n='210205'><supplied>τον</supplied></w><w n='210206'><supplied>ποιμενα</supplied></w><w n='210207'><supplied>των</supplied></w><lb/><w n='210301'><unclear>πρ</unclear><supplied>οβατων</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

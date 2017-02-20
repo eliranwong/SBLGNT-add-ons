@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM063986</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 63986</msName></msIdentifier>
+<msContents>
+<summary>Liturgy</summary>
+<msItem><p>Acts 4:24, 1Tim. 6:15-16</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 20x30 (?), scroll, 3 column(s), 33 line(s) per column, 40-44 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>200-299 Original scribe (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1902  by Otto Rubensohn from the Papyrusfonds.</provenance>
+<provenance>Transferred 1902 to Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 9794, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Schmidt, Carl and Wilhelm Schubart, Altchristliche Texte, Berliner Klassikertexte, no. 6, p. 110-117, Weidmannsche Buchhandlung: Berlin, Deutschland, 1910. OCLC 6823377.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='150615'/><gap unit='page' quantity='2'/><gap unit='line' quantity='17'/><note>*</note><w n='301801'>ο</w><w n='301802'>βαϲιλευϲ</w><w n='301803'><unclear>τ</unclear>ων</w><w n='301804'><unclear>β</unclear>α<unclear>ϲ</unclear>ι<unclear>λ</unclear><supplied>ευοντω</supplied>ν</w><w n='301805'><supplied>και</supplied></w><w n='301806'><supplied><abbr type='nominasacra'>κϲ</abbr></supplied></w><w n='301807'><supplied>των</supplied></w><w n='301808'>κυριευοντων</w>
+<milestone unit='verse' n='150616'/><w n='301809'><supplied>ο</supplied></w><lb/><w n='301902'>εχων</w><w n='301903'><unclear>α</unclear><supplied>θαναϲιαν</supplied></w><w n='301904'><supplied>φωϲ</supplied></w><w n='301905'><supplied>οικων</supplied></w><w n='301906'><supplied>απροϲιτον</supplied></w><w n='301907'><supplied>ον</supplied></w><w n='301908'><supplied>ειδεν</supplied></w><w n='301909'><supplied><abbr type='nominasacra'>ανων</abbr></supplied></w><lb/><w n='302001'>ουδειϲ</w><w n='302002'>ουδε</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='050424'/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><w n='302201'>τον</w><w n='302202'><supplied>ουρανον</supplied></w><w n='302203'><supplied>και</supplied></w><w n='302204'><supplied>την</supplied></w><w n='302205'><supplied>γην</supplied></w><w n='302206'><supplied>και</supplied></w><w n='302207'><supplied>την</supplied></w><w n='302208'><supplied>θαλαϲϲαν</supplied></w><w n='302209'><supplied>και</supplied></w><w n='302210'><supplied>παντα</supplied></w><lb/><w n='302301'>τα</w><w n='302302'>εν</w><w n='302303'>αυτοιϲ</w><gap unit='character' extent='unknown'/><gap unit='line' quantity='10'/>
+</ab>
+</body>
+</text>
+</TEI>

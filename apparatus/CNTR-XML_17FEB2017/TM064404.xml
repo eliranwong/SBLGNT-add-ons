@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM064404</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 64404</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>1Cor. 15:27, 2Cor. 6:2</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 15.4x10.5 (?), 1 extant leaf(s), 1 column(s), 20 (?) line(s) per column, 22? characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1975 by Duke University, David M. Rubenstein Rare Book & Manuscript Library at Durham, NC.</provenance>
+</history>
+<msPart><msIdentifier><msName>P.Duk.inv. 660, Duke University, David M. Rubenstein Rare Book & Manuscript Library, Durham, NC.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Minnen, P. Van, “Prayer using LXX Psalms 26 and 41 in Greek (images)”, Duke Papyrus Archive, Duke University Special Collections Library: Durham, NC, 1995. OCLC 39127844.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='071527'/><gap unit='page' quantity='1'/><gap unit='line' extent='unknown'/><gap unit='line' quantity='2'/><gap unit='character' extent='unknown'/><note>*</note><w n='210301'><supplied>υπεταξε</supplied><unclear>ν</unclear></w><w n='210302'><unclear>υπ</unclear>ο</w><w n='210303'>τουϲ</w><w n='210304'>ποδαϲ</w><w n='210305'>αυτ<unclear>ο</unclear><supplied>υ</supplied></w><note>*</note>
+<milestone unit='verse' n='080602'/><gap unit='line' quantity='2'/><gap unit='character' extent='unknown'/><note>*</note><w n='210601'><supplied>κα</supplied>ιροϲ</w><w n='210602'>ευπ<unclear>ρ</unclear>οϲδε<unclear>κτο</unclear>ϲ</w><w n='210603'>ι<supplied>δου</supplied></w><note>*</note><gap unit='line' quantity='12'/>
+</ab>
+</body>
+</text>
+</TEI>

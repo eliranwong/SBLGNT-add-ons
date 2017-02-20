@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM120128</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 120128</msName></msIdentifier>
+<msContents>
+<summary>Inscription</summary>
+<msItem><p>Luke 2:14</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Stone, ?x?, 1 extant leaf(s), 1 column(s), 18 line(s) per column, 65-70 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-699 Original scribe (1 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Discovered  by Dayr Anbā Shanūdah (White Monastery) at Dayr Anbā Shanūdah, Miṣr in situ painted on a wall.</provenance>
+</history>
+<msPart><msIdentifier><msName>in situ, Dayr Anbā Shanūdah (White Monastery), Dayr Anbā Shanūdah, Miṣr.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Lefebvre, Gustave, Recueil des inscriptions grecques-chrétiennes d'Égypte, no. 237, p. 45, Institut Francais d'Archeologie Orientale du Caire: Le Caire, Égypte, 1907. OCLC 7065867.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030214'/><pb/><w n='110101'>δοξα</w><w n='110102'>εν</w><w n='110103'>υψιϲτ<supplied>οιϲ</supplied></w><w n='110104'><abbr type='nominasacra'>θω</abbr></w><w n='110105'>και</w><w n='110106'>επει</w><w n='110107'>γηϲ</w><w n='110108'>ηρινηϲ</w><w n='110109'>εν</w><w n='110110'><abbr type='nominasacra'>ανωπϲ</abbr></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='17'/>
+</ab>
+</body>
+</text>
+</TEI>

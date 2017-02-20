@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM062826</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 62826</msName></msIdentifier>
+<msContents>
+<summary>Homily by Clement of Alexandria written 195-215 in Alexandria, Aegyptus</summary>
+<msItem><p>1Cor. 10:33, 2Cor. 7:1, 13:12, 1Thes. 5:22-23, Heb. 13:4</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 19.5x37.5 (?), scroll, 2 column(s), 23 (?) line(s) per column, 45-50 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>250-399 Original scribe (6 verses).</handNote>
+</handDesc>
+<additions><p>There were corrections made with a later hand of an unknown date.</p></additions>
+</physDesc>
+<history>
+<provenance>Obtained 1920 by University of Manchester, John Rylands Library at Manchester, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Greek Papyrus 469, University of Manchester, John Rylands Library, Manchester, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Roberts, C. H., “Epistle Against the Manichees”, Catalogue of the Greek and Latin Papyri in the John Rylands Library, vol. 3, p. 38, Manchester University Press: Manchester, England, 1938. OCLC 493630646.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='191304'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='15'/><gap unit='character' extent='unknown'/><note>*</note><w n='101601'><supplied>πορνο</supplied>υϲ</w><w n='101602'>δε</w><w n='101603'>και</w><w n='101604'>μοιχουϲ</w><w n='101605'>μειϲι</w><w n='101606'>ο</w><w n='101607'><abbr type='nominasacra'>θϲ</abbr></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='8'/>
+<milestone unit='verse' n='071033'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='10'/><gap unit='character' extent='unknown'/><note>*</note><w n='201101'>ου</w><w n='201102'>ζητουντεϲ</w><w n='201103'>το</w><w n='201104'>εαυτων</w><lb/><w n='201201'>ϲυμφορον</w><w n='201202'>αλλα</w><w n='201203'>το</w><w n='201204'>των</w><w n='201205'>πολλων</w><w n='201206'>ινα</w><w n='201207'>ϲωθωϲι<unclear>ν</unclear></w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='130522'/><lb/><gap unit='character' extent='unknown'/><w n='201301'>απο</w><w n='201302'>παντοϲ</w><lb/><w n='201401'>ειδουϲ</w><w n='201402'>πονηρου</w><w n='201403'>απεχομενων</w>
+<milestone unit='verse' n='130523'/><gap unit='character' extent='unknown'/><note>*</note><lb/><w n='201502'>και</w><w n='201503'><unclear>τ</unclear>ο</w><w n='201504'>πνευμα</w><w n='201505'>και</w><w n='201506'>την</w><w n='201507'>ψυχη</w><w n='201508'>και</w><w n='201509'>το</w><w n='201510'>ϲωμα</w><w n='201511'>αμεμπτωϲ</w><lb/><w n='201601'>εν</w><w n='201602'>τη</w><w n='201603'><unclear>π</unclear>αρουϲια</w><w n='201604'>του</w><w n='201605'><abbr type='nominasacra'>κυ</abbr></w><w n='201606'>ημων</w><w n='201607'><abbr type='nominasacra'>ιυ</abbr></w><w n='201608'><abbr type='nominasacra'>χυ</abbr></w><note>*</note>
+<milestone unit='verse' n='081312'/><w n='201609'>αϲπαϲαϲθε</w><w n='201610'>αλληλουϲ</w><lb/><w n='201701'>εν</w><w n='201702'>αγιω</w><w n='201703'><unclear>φιλ</unclear>ηματι</w><w n='201704'>αϲπαζονται</w><w n='201705'>υ<unclear>μ</unclear>αϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080701'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='201801'>αγαπητοι</w><w n='201802'>καθαρευον<unclear>ταϲ</unclear></w><lb/><w n='201901'>απο</w><w n='201902'>παντοϲ</w><w n='201903'>μολυϲμου</w><w n='201904'>ϲαρκοϲ</w><w n='201905'>και</w><w n='201906'>πνευματοϲ</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061710</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61710</msName></msIdentifier>
+<msContents>
+<summary>Christian writing</summary>
+<msItem><p>Luke 1:28, 42</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Ostracon, 10.5x12.2 (?), 1 extant leaf(s), 1 column(s), 9 (?) line(s) per column, 14-17 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-599 Original scribe (2 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated 1893-1894 by Henri Édouard Naville, Egypt Exploration Society at Necropolis of Thebes, Miṣr.</provenance>
+<provenance>Transferred 1900 to British Museum at London, England.</provenance>
+</history>
+<msPart><msIdentifier><msName>Inv. EA 33101, British Museum, London, England.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Crum, W. E., Coptic Ostraca, no. 515, The Egypt Exploration Fund: London, England, 1902. OCLC 26637089.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030142'/><pb/><note>*</note><w n='110101'>ευλογιμενη</w><w n='110102'>και</w><w n='110103'><unclear>ε</unclear><supplied>ν</supplied></w><lb/><w n='110202'>θεοδοκου</w><w n='110203'><supplied>και</supplied></w><lb/><w n='110301'>του</w><w n='110302'>ευλογιμεν<supplied>οϲ</supplied></w><lb/><w n='110401'>ου</w><w n='110402'>γαρποϲ</w><w n='110403'>τηϲ</w><w n='110404'><unclear>κ</unclear>υ<supplied>λιαϲ</supplied></w><lb/><w n='110501'>ϲου</w>
+<milestone unit='verse' n='030128'/><w n='110502'>και</w><lb/><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

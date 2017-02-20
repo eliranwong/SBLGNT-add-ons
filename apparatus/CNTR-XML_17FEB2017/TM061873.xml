@@ -1,0 +1,314 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM061873</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 61873</msName></msIdentifier>
+<msContents>
+<summary>Writing exercise</summary>
+<msItem><p>Rom. 1:1, 2Cor. 1:3-4, 6-13, 16-17, 20-22, 2:1-2, 2:4-7, 9-11, 13-14, 16, 3:2, 5, 7, 9-10, 13-14, 16, 18-4:3, 4:7-9, 15-18, 5:2, 6-11, 13-14, 18-20, 6:2-4, 6, 8-13, 15-17, 7:1, 4-8, 10-11, 15, 8:2-3, 6, 8-11, 13-15, 19-20, 22, 9:2-5, 7-8, 10-15, 10:4, 9-10, 12-15, 11:1-6, 8-10, 13, 17, 20-21, 23, 26-29, 11:32-12:1, 12:4-5, 7, 9-10, 13, 15, 18-21, 13:3, 6, 9-11, Gal. 1:4, 6, 9, 11, 14-16, 18, 20, 2:2-5, 7-8, 11-14, 17-18, 21, 3:3-6, 8, 10-12, 14-15, 17, 19, 21, 24, 28, 4:1-2, 5, 9, 15, 20, 5:4, 12, 15, 17, 20-21, 23-6:3, 6:7, 9-12, 15, Eph. 1:4, 9-10, 16, 21, 2:1, 3, 7, 12, 15-16, 18, 20-21, 3:8, 10, 14-18, 4:2, 8, 11-14, 16, 18-19, 22, 24, 26, 28-29, 31-32, 5:2, 4, 27, 29, 6:4, 6, 9, 11, 16, 24</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 16.8x13.6, 16 extant leaf(s), 1 column(s), 27-30 line(s) per column, 35-40 characters per line, written in Greek/Latin.</p></objectDesc>
+<handDesc>
+<handNote>375-424 Original scribe (260 verses).</handNote>
+</handDesc>
+<additions><p>This glossary of unconnected Greek words and phrases with related Latin meanings could have been a school exercise. Sets of isolated words progress in verse order, but sometimes deviate from the pattern which could possibly indicate variant phrases.</p></additions>
+</physDesc>
+<history>
+<provenance>Excavated 1952 by Hasan Mohammad al-Sammān and Muhammad Khalīl al-'Azzūzī at Dayr el Shayeb, Miṣr from a jar at the foot of Jabal Abū Mannā'.</provenance>
+<provenance>Purchased 1952 by Martin Bodmer at Al Qāhirah, Miṣr from Phokio Tano.</provenance>
+<provenance>Transferred  to Chester Beatty Library at Dublin, Ireland.</provenance>
+</history>
+<msPart><msIdentifier><msName>BP XXI, Chester Beatty Library, Dublin, Ireland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Wouters, Alfpons, ed., “The Chester Beatty Codex AC 1499 a Graeco-Latin Lexicon on the the Pauline Epistles and a Greek Grammar”, Chester Beatty Monographs, no. 12, Peeters Publishers: Leuven, België, 1988. OCLC 638341191.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='080902'/><gap unit='page' quantity='20'/><note>*</note><w n='2110101'>παραϲκευαϲθαι</w><gap unit='character' extent='unknown'/><w n='2110102'><supplied>απο</supplied></w><w n='2110103'><supplied>περυϲ</supplied>ιν</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2110201'>ηερεθειϲε</w><note>*</note>
+<milestone unit='verse' n='080903'/><gap unit='character' extent='unknown'/><note>*</note><w n='2110202'>κ<unclear>α</unclear><supplied>υχημα</supplied></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080904'/><lb/><note>*</note><w n='2110301'>απαραϲκευαϲτουϲ</w><note>*</note>
+<milestone unit='verse' n='080905'/><gap unit='character' extent='unknown'/><note>*</note><w n='2110302'><unclear>η</unclear><supplied>γηϲα</supplied><unclear>μ</unclear>ην</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2110401'>προϲελθωϲι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2110402'><supplied>προκαταρ</supplied>τιϲωϲιν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2110501'>πλεονεξιαν</w>
+<milestone unit='verse' n='080907'/><gap unit='character' extent='unknown'/><w n='2110502'>εκαϲ<unclear>τ</unclear><supplied>οϲ</supplied></w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='080908'/><gap unit='character' extent='unknown'/><note>*</note><w n='2110602'>παντι</w><w n='2110603'>παντ<supplied>οτε</supplied></w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='080910'/><gap unit='character' extent='unknown'/><note>*</note><w n='2110702'>αυξηϲη</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='080911'/><gap unit='character' extent='unknown'/><note>*</note><w n='2110802'>πλουτιζομεν<supplied>οι</supplied></w><note>*</note><gap unit='character' extent='unknown'/><w n='2110803'>δι</w><w n='2110804'>ημων</w><note>*</note>
+<milestone unit='verse' n='080912'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2110901'>λιτουργειαϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2110902'>προϲαναπληρουϲα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080913'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2111001'>δοξαζοντεϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2111002'>ομολογειαϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080914'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2111101'>δια</w><w n='2111102'>την</w><w n='2111103'>υπερβαλλουϲαν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080915'/><lb/><note>*</note><w n='2111201'>επει</w><w n='2111202'>τη</w><w n='2111203'>ανευδιηγητω</w><note>*</note>
+<milestone unit='verse' n='081004'/><gap unit='character' extent='unknown'/><note>*</note><w n='2111204'>δυνατα</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2111301'>προϲ</w><w n='2111302'>καθαιρεϲιν</w><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='081009'/><gap unit='character' extent='unknown'/><note>*</note><w n='2111402'>δοξω</w><gap unit='character' extent='unknown'/><w n='2111403'>ωϲ</w><w n='2111404'>αν</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2111501'>εκφοβειν</w><note>*</note>
+<milestone unit='verse' n='081010'/><gap unit='character' extent='unknown'/><note>*</note><w n='2111502'>εξουθενημ<supplied>ε</supplied><unclear>ν</unclear>οϲ</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081012'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2111601'>ϲυνιϲταντων</w><note>*</note>
+<milestone unit='verse' n='081013'/><gap unit='character' extent='unknown'/><note>*</note><w n='2111602'>εφικεϲθαι</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2111701'>αχρι</w><note>*</note>
+<milestone unit='verse' n='081014'/><gap unit='character' extent='unknown'/><note>*</note><w n='2111702'>εφικνουμ<supplied>ενο</supplied><unclear>ι</unclear></w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2111802'>εφθαϲ<supplied>αμ</supplied>εν</w><note>*</note>
+<milestone unit='verse' n='081015'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='081101'/><gap unit='character' extent='unknown'/><w n='2111902'>οφ<supplied>ελ</supplied>ον</w><note>*</note>
+<milestone unit='verse' n='081102'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2112101'>παραϲτηναι</w><note>*</note>
+<milestone unit='verse' n='081103'/><gap unit='character' extent='unknown'/><note>*</note><w n='2112102'>εξηπ<supplied>ατη</supplied><unclear>ϲ</unclear>εν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081104'/><lb/><note>*</note><w n='2112201'>εδεξαϲθε</w><note>*</note>
+<milestone unit='verse' n='081105'/><gap unit='character' extent='unknown'/><w n='2112202'>λογιζ<unclear>ο</unclear><supplied>μαι</supplied></w><note>*</note>
+<milestone unit='verse' n='081106'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='081108'/><gap unit='character' extent='unknown'/><note>*</note><w n='2112302'>οψωνιον</w><note>*</note>
+<milestone unit='verse' n='080513'/><gap unit='character' extent='unknown'/><note>*</note><lb/>
+<milestone unit='verse' n='080514'/><gap unit='character' extent='unknown'/><note>*</note><w n='2112402'>ϲυνεχει</w><note>*</note><gap unit='character' extent='unknown'/><w n='2112403'><supplied>κ</supplied>ριναντ<unclear>α</unclear>ϲ</w><note>*</note>
+<milestone unit='verse' n='080518'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2112501'>καταλλαξαντοϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080519'/><lb/><note>*</note><w n='2112601'><supplied>λ</supplied>ογιζομενοϲ</w><note>*</note>
+<milestone unit='verse' n='080520'/><gap unit='character' extent='unknown'/><note>*</note><w n='2112602'>ωϲ</w><w n='2112603'>το<unclear>υ</unclear></w><note>*</note>
+<milestone unit='verse' n='080602'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080603'/><gap unit='character' extent='unknown'/><note>*</note><w n='2112702'>προϲ<unclear>κ</unclear><supplied>οπην</supplied></w><note>*</note><pb/><w n='2210101'>μω<unclear>μ</unclear><supplied>ηθη</supplied></w><note>*</note>
+<milestone unit='verse' n='080604'/><gap unit='character' extent='unknown'/><note>*</note><w n='2210102'>υπομονη</w><note>*</note>
+<milestone unit='verse' n='080606'/><gap unit='character' extent='unknown'/><note>*</note><w n='2210103'>γνωϲει</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2210201'><supplied>ανυπο</supplied><unclear>κ</unclear>ριτω</w>
+<milestone unit='verse' n='080608'/><gap unit='character' extent='unknown'/><note>*</note><w n='2210202'>ατιμιαν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2210301'><supplied>δυϲφημια</supplied>ϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2210302'>πλ<unclear>ανοι</unclear></w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080609'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2210401'><unclear>αγνοουμε</unclear><supplied>νοι</supplied></w><note>*</note><gap unit='character' extent='unknown'/><w n='2210402'>θανατουμεν</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080610'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2210501'>πλ<unclear>ο</unclear>υτιζ<supplied>οντε</supplied>ϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2210502'>κατεχοντεϲ</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080611'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2210601'>ανεωγ<unclear>ε</unclear><supplied>ν</supplied></w><note>*</note>
+<milestone unit='verse' n='080612'/><gap unit='character' extent='unknown'/><note>*</note><w n='2210602'>ϲπλαγχνοιϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080613'/><lb/><note>*</note><w n='2210701'>αντιμιϲθιαν</w><note>*</note>
+<milestone unit='verse' n='080615'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080616'/><note>*</note><w n='2210802'>ϲυνκαταθε<unclear>ϲ</unclear><supplied>ιϲ</supplied></w><note>*</note><gap unit='character' extent='unknown'/><w n='2210803'>λαοϲ</w>
+<milestone unit='verse' n='080617'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080701'/><gap unit='character' extent='unknown'/><w n='2210902'><supplied>τ</supplied>αυταϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2210903'>επιτελουντεϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080704'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2211001'>παρηϲια</w><note>*</note>
+<milestone unit='verse' n='080705'/><gap unit='character' extent='unknown'/><note>*</note><w n='2211002'>ϲαρξ</w><note>*</note>
+<milestone unit='verse' n='080706'/><gap unit='character' extent='unknown'/><note>*</note><w n='2211003'>εν</w><w n='2211004'>τη</w><w n='2211005'>παρουϲια</w><note>*</note>
+<milestone unit='verse' n='080707'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2211101'>η</w><w n='2211102'>παρ<unclear>ε</unclear>κληθη</w><gap unit='character' extent='unknown'/><w n='2211103'>εφ</w><lb/><gap unit='character' extent='unknown'/><w n='2211202'>ανα<unclear>γ</unclear>γελλων</w><note>*</note>
+<milestone unit='verse' n='080708'/><gap unit='character' extent='unknown'/><note>*</note><w n='2211203'>μετεμελομην</w><note>*</note>
+<milestone unit='verse' n='080710'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2211301'>μεταμελητον</w><note>*</note><gap unit='character' extent='unknown'/><lb/>
+<milestone unit='verse' n='080711'/><gap unit='character' extent='unknown'/><note>*</note><w n='2211402'>λυπηθηναι</w><gap unit='character' extent='unknown'/><w n='2211403'><unclear>ποϲη</unclear>ν</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2211501'>ϲπο<unclear>υδη</unclear>ν</w><note>*</note><gap unit='character' extent='unknown'/><w n='2211502'>απολογιαν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2211601'>ανακ<supplied>τ</supplied>ηϲιν</w><note>*</note><gap unit='character' extent='unknown'/><w n='2211602'>ϲυνεϲτηϲατε</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2211701'>α<unclear>γν</unclear><supplied>ου</supplied>ϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2211702'>πραγματι</w>
+<milestone unit='verse' n='080715'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2211801'>πιθαρχειαν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080802'/><lb/><note>*</note><w n='2211901'>δοκιμη</w><note>*</note><gap unit='character' extent='unknown'/><w n='2211902'>πλουτοϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080803'/><lb/><note>*</note><w n='2212001'>παρα</w><w n='2212002'>δυναμιν</w><gap unit='character' extent='unknown'/><w n='2212003'>αυθαιρετοι</w>
+<milestone unit='verse' n='080806'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2212101'>ενηρξατ<supplied>ο</supplied></w><note>*</note><gap unit='character' extent='unknown'/><w n='2212102'>επιτελεϲη</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080808'/><lb/><note>*</note><w n='2212201'>ετερων</w><note>*</note><gap unit='character' extent='unknown'/><w n='2212202'><supplied>γν</supplied><unclear>η</unclear>ϲιον</w><note>*</note>
+<milestone unit='verse' n='080809'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080810'/><gap unit='character' extent='unknown'/><note>*</note><w n='2212302'><supplied>γ</supplied>νωμην</w><note>*</note>
+<milestone unit='verse' n='080811'/><gap unit='character' extent='unknown'/><note>*</note><w n='2212303'>προθυμια</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2212401'>εκ</w><w n='2212402'>του</w><note>*</note>
+<milestone unit='verse' n='080813'/><gap unit='character' extent='unknown'/><note>*</note><w n='2212403'>ανεϲιϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2212501'>εξ</w><w n='2212502'>ιϲοτη<unclear>τοϲ</unclear></w>
+<milestone unit='verse' n='080201'/><gap unit='character' extent='unknown'/><w n='2212503'>εκρινα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080202'/><lb/><note>*</note><w n='2212601'>ευφραιν<unclear>ων</unclear></w><note>*</note>
+<milestone unit='verse' n='080204'/><gap unit='character' extent='unknown'/><w n='2212602'>εκ</w><w n='2212603'>γαρ</w><note>*</note><gap unit='character' extent='unknown'/><lb/>
+<milestone unit='verse' n='080205'/><gap unit='character' extent='unknown'/><w n='2212702'>ει</w><w n='2212703'>δε</w><w n='2212704'>τιϲ</w><note>*</note>
+<milestone unit='verse' n='080206'/><gap unit='character' extent='unknown'/><w n='2212705'>ικανον</w><gap unit='character' extent='unknown'/><lb/><w n='2212801'><supplied>τω</supplied></w><w n='2212802'><supplied>τοιουτ</supplied>ω</w><note>*</note><gap unit='character' extent='unknown'/><w n='2212803'>επιτιμια</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080207'/><lb/><note>*</note><w n='2212901'><supplied>καταποθη</supplied></w><note>*</note>
+<milestone unit='verse' n='080209'/><gap unit='character' extent='unknown'/><note>*</note><w n='2212902'>υπηκοοι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080210'/><pb/><gap unit='character' extent='unknown'/><note>*</note><w n='2310101'>προϲωπω</w><note>*</note>
+<milestone unit='verse' n='080211'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310102'>πλεονεκτιθωμεν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2310201'>διανοηματα</w><note>*</note>
+<milestone unit='verse' n='080213'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310202'>ανεϲιν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2310301'>αποταξαμενοϲ</w><note>*</note>
+<milestone unit='verse' n='080214'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310302'>γνωϲεωϲ</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2310401'>φανερουντι</w><note>*</note>
+<milestone unit='verse' n='080216'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310402'>ικανοϲ</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080302'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2310501'>αναγινωϲκομενη</w><note>*</note>
+<milestone unit='verse' n='080305'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080307'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310602'>τετυπωμενη</w><note>*</note><gap unit='character' extent='unknown'/><w n='2310603'>ατενιϲαι</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2310701'>την</w><w n='2310702'>καταργουμενην</w>
+<milestone unit='verse' n='080309'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080310'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310802'>ενεκεν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='080313'/><gap unit='character' extent='unknown'/><note>*</note><w n='2310902'>καλυμματα</w><note>*</note><gap unit='character' extent='unknown'/><lb/>
+<milestone unit='verse' n='080314'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311002'>επληρωθη</w><note>*</note>
+<milestone unit='verse' n='080318'/><note>*</note><lb/>
+<milestone unit='verse' n='080316'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311102'>περιερειται</w><note>*</note>
+<milestone unit='verse' n='080318'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311103'>την</w><lb/><w n='2311201'>αυτην</w><note>*</note><gap unit='character' extent='unknown'/><w n='2311202'>μεταμορφουμεθα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080401'/><lb/><note>*</note><w n='2311301'>ενκακουμεν</w>
+<milestone unit='verse' n='080402'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311302'>απειπαμεθα</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2311401'>τηϲ</w><w n='2311402'>αιϲχυνηϲ</w><note>*</note>
+<milestone unit='verse' n='080403'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311403'>κεκαλυμμενον</w><note>*</note>
+<milestone unit='verse' n='080407'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2311501'>υπερβολη</w><note>*</note>
+<milestone unit='verse' n='080408'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311502'>απορουμενοι</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2311601'>εξαπορουμενοι</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080409'/><lb/><note>*</note><w n='2311701'>καταβαλλομενοι</w><note>*</note>
+<milestone unit='verse' n='080415'/><gap unit='character' extent='unknown'/><note>*</note><w n='2311702'>πλεοναϲαϲα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080416'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2311801'>διαφθιρεται</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080417'/><lb/><w n='2311901'><unclear>τ</unclear>ο</w><w n='2311902'>γαρ</w><gap unit='character' extent='unknown'/><w n='2311903'>π<unclear>α</unclear>ραυτικα</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2312001'>αιωνιον</w><note>*</note>
+<milestone unit='verse' n='080418'/><gap unit='character' extent='unknown'/><note>*</note><w n='2312002'>ϲκοπουντων</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2312101'>τα</w><note>*</note><gap unit='character' extent='unknown'/><w n='2312102'>τα</w><w n='2312103'>δ</w><note>*</note>
+<milestone unit='verse' n='080502'/><gap unit='character' extent='unknown'/><note>*</note><w n='2312104'>ϲτεναζομ<unclear>ε</unclear><supplied>ν</supplied></w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2312201'>επιποθο<unclear>υ</unclear>ντεϲ</w>
+<milestone unit='verse' n='080506'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2312302'>εκδημουμεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080507'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2312401'>δια</w><w n='2312402'>ειδουϲ</w>
+<milestone unit='verse' n='080508'/><gap unit='character' extent='unknown'/><note>*</note><w n='2312403'>ενδημηϲαι</w><note>*</note>
+<milestone unit='verse' n='080509'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2312501'>φιλοτιμωμεθα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080510'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2312601'>κομιϲηται</w><note>*</note><gap unit='character' extent='unknown'/><w n='2312602'>ιδια</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080511'/><lb/><note>*</note><w n='2312701'><supplied>ο</supplied>υν</w><note>*</note><gap unit='character' extent='unknown'/><w n='2312702'>πειθομεν</w><note>*</note>
+<milestone unit='verse' n='080513'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080103'/><gap unit='character' extent='unknown'/><note>*</note><w n='2312802'>οικτιρμων</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080104'/><lb/><note>*</note><w n='2312901'><supplied>θλι</supplied><unclear>ψει</unclear></w><note>*</note>
+<milestone unit='verse' n='080106'/><gap unit='character' extent='unknown'/><w n='2312902'>ειτε</w><note>*</note><w n='2312903'><supplied>τ</supplied>ηϲ</w><lb/><note>*</note><gap unit='character' extent='unknown'/><pb/><w n='2410101'>υπομονη</w><gap unit='character' extent='unknown'/><w n='2410102'>των</w><lb/><note>*</note>
+<milestone unit='verse' n='080107'/><gap unit='character' extent='unknown'/><note>*</note><w n='2410202'>βεβαια</w><note>*</note>
+<milestone unit='verse' n='080108'/><gap unit='character' extent='unknown'/><note>*</note><w n='2410203'>καθ</w><lb/><gap unit='character' extent='unknown'/><w n='2410302'>υπερ</w><w n='2410303'>δυναμιν</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2410401'>επεβαρηθημεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080109'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2410501'>θανατου</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080110'/><lb/><note>*</note><w n='2410601'>ερυϲατο</w>
+<milestone unit='verse' n='080111'/><gap unit='character' extent='unknown'/><w n='2410602'>ϲυνυπουργουντων</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2410701'>δεηϲει</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080112'/><lb/><gap unit='character' extent='unknown'/><w n='2410801'>η</w><w n='2410802'>γαρ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2410803'>αυτη</w><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2410902'>ανεϲτραφημεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080113'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2411001'>η</w><w n='2411002'>και</w><w n='2411003'>επιγινωϲκετε</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080112'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2411101'>περιϲϲοτερωϲ</w><note>*</note>
+<milestone unit='verse' n='080116'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080117'/><gap unit='character' extent='unknown'/><note>*</note><w n='2411202'>βουλομενοϲ</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2411301'>μητι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2411302'>εχρηϲαμην</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2411401'>κατα</w><w n='2411402'>ϲαρκα</w><note>*</note><gap unit='character' extent='unknown'/><w n='2411403'><unclear>ι</unclear>να</w><lb/><w n='2411501'>η</w><gap unit='character' extent='unknown'/><w n='2411502'>παρ</w><w n='2411503'>εμοι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2411504'>ναι</w><w n='2411505'>ναι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080713'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2411601'>παρακληϲει</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080120'/><lb/><gap unit='character' extent='unknown'/><w n='2411701'>οϲαι</w><w n='2411702'>γαρ</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2411801'>επαγγελειαι</w><note>*</note>
+<milestone unit='verse' n='080121'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2411902'>χρειϲαϲ</w><note>*</note>
+<milestone unit='verse' n='080122'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='9'/>
+<milestone unit='verse' n='090109'/><pb/><gap unit='line' quantity='3'/><gap unit='character' extent='unknown'/><note>*</note><w n='2510401'>παρ</w><w n='2510402'>ο</w><note>*</note>
+<milestone unit='verse' n='090118'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2510501'>ιϲτορηϲαι</w><note>*</note>
+<milestone unit='verse' n='090211'/><gap unit='character' extent='unknown'/><note>*</note><w n='2510502'>κατεγνωϲμενω</w><note>*</note>
+<milestone unit='verse' n='090317'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2510601'>ειϲ</w><w n='2510602'>το</w><w n='2510603'>καταργηϲαι</w><note>*</note>
+<milestone unit='verse' n='090415'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='090420'/><gap unit='character' extent='unknown'/><note>*</note><w n='2510702'>απο<supplied>ρ</supplied>ουμαι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090311'/><lb/><note>*</note><w n='2510801'><supplied>δ</supplied>ηλον</w><note>*</note><gap unit='character' extent='unknown'/><w n='2510802'>αν<unclear>εχε</unclear>ϲθαι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090504'/><lb/><w n='2510901'><supplied>κ</supplied>ατηργηθη<unclear>ϲ</unclear>ιν</w><note>*</note>
+<milestone unit='verse' n='090512'/><gap unit='character' extent='unknown'/><note>*</note><w n='2510902'>α<unclear>ν</unclear>αϲτατουντεϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090515'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2511001'>αναλωθητε</w>
+<milestone unit='verse' n='090517'/><note>*</note><w n='2511002'>αντικειται</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090520'/><lb/><note>*</note><w n='2511101'><supplied>α</supplied>ιρεϲειϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2511102'>εριθειαι</w><note>*</note>
+<milestone unit='verse' n='090521'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511103'>κωμοι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090523'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2511201'>εν<unclear>κ</unclear>ρατεια</w><note>*</note>
+<milestone unit='verse' n='090524'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511202'>παθημαϲιν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090525'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2511301'>ϲτοιχωμεν</w>
+<milestone unit='verse' n='090526'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511302'>κενοδοξοι</w><note>*</note>
+<milestone unit='verse' n='090601'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2511402'>κα<unclear>τ</unclear><supplied>α</supplied><unclear>ρ</unclear>τιζετε</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='090602'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511502'>βαρη</w><note>*</note>
+<milestone unit='verse' n='090603'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511503'><supplied>φ</supplied><unclear>ρ</unclear>εναπατα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090607'/><lb/><note>*</note><w n='2511601'><unclear>μ</unclear>υκτηριζεται</w><note>*</note><gap unit='character' extent='unknown'/><w n='2511602'><unclear>γ</unclear>α<unclear>ρ</unclear></w><note>*</note>
+<milestone unit='verse' n='090609'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511603'><unclear>εκ</unclear>λυ<unclear>θω</unclear>μεν</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090610'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2511701'>μαλιϲτα</w><note>*</note><gap unit='character' extent='unknown'/><w n='2511702'>οι<unclear>κι</unclear>ο<unclear>υ</unclear>ϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090611'/><lb/><note>*</note><w n='2511801'><supplied>π</supplied><unclear>η</unclear>λικοιϲ</w><note>*</note>
+<milestone unit='verse' n='090612'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511802'>ευπροϲωπηϲαι</w><note>*</note>
+<milestone unit='verse' n='090615'/><gap unit='character' extent='unknown'/><note>*</note><w n='2511803'>κτιϲιϲ</w>
+<milestone unit='verse' n='060101'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2511901'>αφωριϲμενοϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100104'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2512001'>καταβ<unclear>ο</unclear>ληϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100109'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2512101'>μυϲτηριον</w><note>*</note>
+<milestone unit='verse' n='100110'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512102'>οικονομιαν</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2512201'>ανακεφαλαιωϲαϲθαι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100116'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2512301'>παυομαι</w><note>*</note>
+<milestone unit='verse' n='100121'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512302'>παϲηϲ</w><w n='2512303'>αρχηϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100201'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2512401'>ονταϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100203'/><lb/><note>*</note><w n='2512501'><unclear>δ</unclear>ιανοιων</w><note>*</note>
+<milestone unit='verse' n='100207'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512502'>υπερ<unclear>β</unclear>αλλοντωϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100212'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2512601'>απηλλοτριωμενοι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2512602'>πολιτιαϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2512701'>αθε<unclear>ο</unclear>ι</w><note>*</note>
+<milestone unit='verse' n='100215'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512702'>δογμα<supplied>ϲ</supplied>ιν</w><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='100216'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512802'>αποκαταλλαξη</w><note>*</note>
+<milestone unit='verse' n='100218'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='100220'/><gap unit='character' extent='unknown'/><note>*</note><w n='2512902'>οντοϲ</w><w n='2512903'>ακ<unclear>ρο</unclear><supplied>γ</supplied>ωνιαιου</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100221'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2513001'>ϲυναρμογου<unclear>μ</unclear><supplied>εν</supplied>η</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100308'/><pb/><note>*</note><w n='2610101'>ανεξιχνιαϲτον</w><note>*</note>
+<milestone unit='verse' n='100310'/><gap unit='character' extent='unknown'/><note>*</note><w n='2610102'>γνωρι<unclear>ϲθη</unclear></w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2610201'>πολυ<supplied>π</supplied><unclear>ο</unclear>ικιλοϲ</w><note>*</note>
+<milestone unit='verse' n='100314'/><gap unit='character' extent='unknown'/><note>*</note><w n='2610202'>καμπ<unclear>τ</unclear>ω</w><note>*</note>
+<milestone unit='verse' n='100315'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610301'>πατρια</w><note>*</note>
+<milestone unit='verse' n='100316'/><gap unit='character' extent='unknown'/><note>*</note><w n='2610302'>κραταιωθηναι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100317'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610401'>ερριζωμενοι</w><note>*</note>
+<milestone unit='verse' n='100318'/><gap unit='character' extent='unknown'/><note>*</note><w n='2610402'>βαθοϲ</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100402'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610501'>ανεχομενοι</w><gap unit='character' extent='unknown'/><w n='2610502'>αλληλων</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100408'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610601'>ηχμαλωτευ<unclear>ϲ</unclear>εν</w><note>*</note><gap unit='character' extent='unknown'/><w n='2610602'>δοματα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100411'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610701'>διδαϲκαλουϲ</w>
+<milestone unit='verse' n='100412'/><gap unit='character' extent='unknown'/><w n='2610702'>προϲ</w><w n='2610703'>καταρτιϲμον</w><note>*</note>
+<milestone unit='verse' n='100413'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2610801'>τελειον</w><note>*</note>
+<milestone unit='verse' n='100414'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2610902'>εν</w><w n='2610903'>τη</w><w n='2610904'>κυβια</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2611001'>μεθοδιαν</w><note>*</note>
+<milestone unit='verse' n='100416'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='100418'/><gap unit='character' extent='unknown'/><note>*</note><w n='2611102'>πωρωϲιν</w><note>*</note>
+<milestone unit='verse' n='100419'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2611202'>αϲελγεια</w><note>*</note>
+<milestone unit='verse' n='100422'/><gap unit='character' extent='unknown'/><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2611302'>προτεραν</w><gap unit='character' extent='unknown'/><lb/><w n='2611401'>αναϲτροφην</w><note>*</note>
+<milestone unit='verse' n='100424'/><gap unit='character' extent='unknown'/><note>*</note><w n='2611402'>οϲιοτητι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100426'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2611501'>επιδυετω</w><note>*</note>
+<milestone unit='verse' n='100428'/><gap unit='character' extent='unknown'/><note>*</note><w n='2611502'>μεταδιδοναι</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100429'/><lb/><note>*</note><w n='2611601'>χρειαϲ</w><note>*</note>
+<milestone unit='verse' n='100431'/><gap unit='character' extent='unknown'/><note>*</note><w n='2611602'>β<supplied>λα</supplied><unclear>ϲ</unclear>φημια</w><note>*</note>
+<milestone unit='verse' n='100432'/><gap unit='character' extent='unknown'/><note>*</note><w n='2611603'>εχ</w><gap unit='character' extent='unknown'/><w n='2611604'>χρηϲτοι</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2611701'>ευϲπ<unclear>λ</unclear><supplied>αγ</supplied>χνοι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2611702'>εαυτουϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100502'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2611801'>προϲ<unclear>φο</unclear>ραν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100504'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2611901'>μ<unclear>ω</unclear>ρολογια</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2612001'>ουκ</w><w n='2612002'>ανηκεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100527'/><lb/><note>*</note><w n='2612101'>ρυτιδαν</w><note>*</note>
+<milestone unit='verse' n='100529'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612102'>θαλπει</w><note>*</note>
+<milestone unit='verse' n='100604'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612103'>νουθεϲια</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='100606'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2612201'>οφθαλμοδουλειαν</w><note>*</note>
+<milestone unit='verse' n='100609'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='100611'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2612402'>μεθοδιαϲ</w><note>*</note>
+<milestone unit='verse' n='100616'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612403'>θυρεον</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2612501'>βελη</w><note>*</note>
+<milestone unit='verse' n='100624'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612502'>α<supplied>φθ</supplied>εαρϲια</w>
+<milestone unit='verse' n='090114'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612503'>ϲυνηλικιω<supplied>ταϲ</supplied></w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2612601'>υπ<unclear>α</unclear>ρχ<unclear>ω</unclear>ν</w><note>*</note>
+<milestone unit='verse' n='090115'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612602'>ευδοκηϲεν</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2612701'>αφοριϲαϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090116'/><lb/><note>*</note><w n='2612801'>ανεθεμην</w><note>*</note>
+<milestone unit='verse' n='090120'/><gap unit='character' extent='unknown'/><w n='2612802'>α</w><note>*</note>
+<milestone unit='verse' n='090202'/><gap unit='character' extent='unknown'/><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2612902'>μη</w><w n='2612903'>πωϲ</w><note>*</note>
+<milestone unit='verse' n='090203'/><gap unit='character' extent='unknown'/><note>*</note><w n='2612904'><supplied>ουδε</supplied></w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2613001'>ην<unclear>α</unclear><supplied>γκ</supplied>αϲθη</w><note>*</note>
+<milestone unit='verse' n='090204'/><gap unit='character' extent='unknown'/><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2613102'><supplied>ψευδαδελφουϲ</supplied></w><note>*</note><pb/><gap unit='character' extent='unknown'/><w n='2710101'>καταϲκοπηϲαι</w><gap unit='character' extent='unknown'/><w n='2710102'>παρειϲηλ<unclear>θ</unclear>ον</w><note>*</note>
+<milestone unit='verse' n='090205'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2710201'>ειξαμεν</w><gap unit='character' extent='unknown'/><w n='2710202'>υποταγη</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090207'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2710301'>πεπιϲτευμαι</w><note>*</note>
+<milestone unit='verse' n='090208'/><gap unit='character' extent='unknown'/><note>*</note><w n='2710302'>ενεργηϲεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090211'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2710401'>αντεϲτην</w><note>*</note><gap unit='character' extent='unknown'/><w n='2710402'>κατεγνωϲμενοϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090212'/><lb/><gap unit='character' extent='unknown'/><w n='2710501'>προ</w><w n='2710502'>του</w><note>*</note><gap unit='character' extent='unknown'/><w n='2710503'>ϲυνηϲθιεν</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='090213'/><gap unit='character' extent='unknown'/><note>*</note><w n='2710602'>υπεκριθηϲαν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090214'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2710701'>εθνικω<supplied>ϲ</supplied></w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2710801'>αναγκαζειϲ</w><note>*</note>
+<milestone unit='verse' n='090217'/><gap unit='character' extent='unknown'/><note>*</note><w n='2710802'>μη</w><w n='2710803'>γενοιτο</w>
+<milestone unit='verse' n='090218'/><lb/><note>*</note><w n='2710901'>κατελυϲα</w><note>*</note><gap unit='character' extent='unknown'/><w n='2710902'>παραβατην</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090221'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2711001'>αθετω</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090303'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2711101'>εναρξαμενοι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2711102'>επιτελειϲ<unclear>θ</unclear><supplied>ε</supplied></w>
+<milestone unit='verse' n='090304'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2711201'>εικη</w><note>*</note>
+<milestone unit='verse' n='090305'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711202'>επιχορηγων</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2711301'>η</w><note>*</note>
+<milestone unit='verse' n='090306'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711302'>ελογιϲθη</w><note>*</note>
+<milestone unit='verse' n='090308'/><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='090310'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711402'><unclear>υπο</unclear></w><w n='2711403'>καταραν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090312'/><lb/><note>*</note><w n='2711501'><unclear>ο</unclear></w><w n='2711502'>ποιηϲ<unclear>α</unclear>ϲ</w><note>*</note>
+<milestone unit='verse' n='090314'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711503'>η</w><w n='2711504'>ευλογια</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2711601'>επαγγελιαν</w><note>*</note>
+<milestone unit='verse' n='090315'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711602'>κεκυρωμενην</w><note>*</note>
+<milestone unit='verse' n='090319'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2711701'>διαταϲ<unclear>ϲ</unclear>ειϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2711801'>αχριοϲ</w><note>*</note>
+<milestone unit='verse' n='090321'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711802'>οντωϲ</w><note>*</note>
+<milestone unit='verse' n='090324'/><gap unit='character' extent='unknown'/><w n='2711803'>ωϲτε</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090328'/><lb/><gap unit='character' extent='unknown'/><w n='2711901'>ουκ</w><w n='2711902'>ενι</w><note>*</note>
+<milestone unit='verse' n='090401'/><gap unit='character' extent='unknown'/><note>*</note><w n='2711903'>εφ</w><w n='2711904'>οϲον</w><note>*</note>
+<milestone unit='verse' n='090402'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2712002'>τηϲ</w><w n='2712003'>προθεϲμιαϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090405'/><lb/><note>*</note><w n='2712101'>υιοθεϲιαν</w><note>*</note>
+<milestone unit='verse' n='090409'/><gap unit='character' extent='unknown'/><note>*</note><w n='2712102'>γνωϲθεν</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081109'/><gap unit='line' quantity='1'/><gap unit='character' extent='unknown'/><note>*</note><w n='2712301'>υϲτερημα</w><note>*</note>
+<milestone unit='verse' n='081110'/><note>*</note><w n='2712302'>φραγηϲεται</w><note>*</note><gap unit='character' extent='unknown'/><w n='2712303'>κλιμαϲι</w><note>*</note>
+<milestone unit='verse' n='081113'/><lb/><gap unit='character' extent='unknown'/><w n='2712401'>οι</w><w n='2712402'><unclear>τ</unclear>οιουτοι</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note>
+<milestone unit='verse' n='081117'/><gap unit='character' extent='unknown'/><note>*</note><w n='2712502'>αφροϲυνη</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081120'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2712601'>καταδουλοι</w><note>*</note><gap unit='character' extent='unknown'/><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2712702'>επαιρεται</w><note>*</note>
+<milestone unit='verse' n='081121'/><gap unit='character' extent='unknown'/><note>*</note><w n='2712703'>ατιμι<unclear>α</unclear>ν</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2712801'><unclear>τ</unclear>ολμω</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081123'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2712901'>παραφρονων</w><note>*</note><gap unit='character' extent='unknown'/><w n='2712902'>υπ<unclear>ε</unclear>ρ<unclear>β</unclear>αλλοντωϲ</w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' quantity='1'/>
+<milestone unit='verse' n='081126'/><pb/><w n='2810101'>οδοιποριαιϲ</w><note>*</note><gap unit='character' extent='unknown'/><w n='2810102'>εν</w><w n='2810103'>ερημια</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081127'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2810201'>μοχθω</w><note>*</note>
+<milestone unit='verse' n='081128'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810202'>παρεκτοϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2810301'>επιϲταϲιϲ</w><note>*</note>
+<milestone unit='verse' n='081129'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810302'>πυρουμαι</w><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081132'/><lb/><note>*</note><w n='2810401'>ο</w><w n='2810402'>εθηναρχηϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2810501'>πιαϲαι</w><note>*</note>
+<milestone unit='verse' n='081133'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810502'>εχαλαϲθην</w><note>*</note>
+<milestone unit='verse' n='081201'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='081204'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810602'>αρη<unclear>τα</unclear></w><note>*</note>
+<milestone unit='verse' n='081205'/><gap unit='character' extent='unknown'/><w n='2810603'>υπερ</w><lb/><w n='2810701'>τοιουτου</w><note>*</note>
+<milestone unit='verse' n='081207'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810702'>υπερερωμαι</w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2810801'><unclear>ϲ</unclear>κολ<unclear>ο</unclear>ψ</w><note>*</note>
+<milestone unit='verse' n='081209'/><gap unit='character' extent='unknown'/><note>*</note><w n='2810802'>τελειται</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2810901'>ηδιϲτα</w><note>*</note><gap unit='character' extent='unknown'/><w n='2810902'>επ<unclear>ι</unclear>ϲκ<unclear>ηνω</unclear>ϲει</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081210'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2811001'>ευδοκω</w><note>*</note>
+<milestone unit='verse' n='081213'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811002'>κατ<unclear>α</unclear>ναρκηϲα</w><note>*</note>
+<milestone unit='verse' n='081215'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2811101'>ηδιϲτα</w><note>*</note>
+<milestone unit='verse' n='081218'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811102'>αυτω</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2811201'>τοιϲ</w><w n='2811202'>αυτοιϲ</w><note>*</note>
+<milestone unit='verse' n='081219'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811203'>απολογουμεθα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='081220'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2811301'>εριϲ</w><gap unit='character' extent='unknown'/><w n='2811302'>ζηλοϲ</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2811401'><unclear>θ</unclear>υμ<unclear>οι</unclear></w><gap unit='character' extent='unknown'/><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2811502'><unclear>α</unclear>καταϲταϲιαι</w><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2811601'>φυϲιωϲιϲ</w>
+<milestone unit='verse' n='081221'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811602'>πενθηϲ<unclear>ω</unclear></w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2811701'>αϲελγειαν</w><note>*</note>
+<milestone unit='verse' n='081303'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811702'>δοκιμην</w><note>*</note>
+<milestone unit='verse' n='081306'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2811801'>αδοκιμοι</w>
+<milestone unit='verse' n='081309'/><gap unit='character' extent='unknown'/><note>*</note><w n='2811802'>καταρτιϲιν</w>
+<milestone unit='verse' n='081310'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2811901'>αποτομ<unclear>ωϲ</unclear></w><gap unit='character' extent='unknown'/><w n='2811902'>χρηϲωμαι</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2812001'>καθαιρεϲιν</w>
+<milestone unit='verse' n='081311'/><gap unit='character' extent='unknown'/><w n='2812002'>λοιπον</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2812101'>καταρτιζεϲθα<unclear>ι</unclear></w><note>*</note><gap unit='character' extent='unknown'/><lb/><gap unit='character' extent='unknown'/><w n='2812202'>φρονειτε</w><note>*</note>
+<milestone unit='verse' n='090104'/><gap unit='character' extent='unknown'/><note>*</note><w n='2812203'>εξεληται</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='090106'/><lb/><note>*</note><w n='2812301'>μετατιθεϲθαι</w><note>*</note>
+<milestone unit='verse' n='090109'/><gap unit='character' extent='unknown'/><note>*</note><w n='2812302'>παρ</w><w n='2812303'>ο</w><note>*</note>
+<milestone unit='verse' n='090111'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note>
+<milestone unit='verse' n='080814'/><gap unit='character' extent='unknown'/><note>*</note><w n='2812402'>υϲτερημα</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080815'/><lb/><gap unit='character' extent='unknown'/><note>*</note><w n='2812501'>ελαττονηϲεν</w>
+<milestone unit='verse' n='080819'/><gap unit='character' extent='unknown'/><note>*</note><lb/><note>*</note><gap unit='character' extent='unknown'/><w n='2812602'>ϲυνεκδημοϲ</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='080820'/><lb/><gap unit='character' extent='unknown'/><w n='2812701'>ϲτελλομενοι</w><note>*</note><gap unit='character' extent='unknown'/><w n='2812702'>μωμηϲηται</w><note>*</note><lb/><gap unit='character' extent='unknown'/><w n='2812801'>αδροτητι</w><note>*</note>
+<milestone unit='verse' n='080822'/><gap unit='character' extent='unknown'/><note>*</note><w n='2812802'>πολλακιϲ</w><note>*</note><gap unit='character' extent='unknown'/><lb/><w n='2812901'>ϲπουδαιοτερον</w><note>*</note><gap unit='character' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

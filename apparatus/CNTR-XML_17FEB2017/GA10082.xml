@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10082</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P82</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [n]</summary>
+<msItem><p>Luke 7:32-34, 37-38</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 6.6x3.2 (20x14), 1 extant leaf(s), 1 column(s), 9 (23-24) line(s) per column, 17-19 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-399 Original scribe with common hand (5 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Excavated   at Al Bahnasā?, Miṣr.</provenance>
+<provenance>Transferred  to P. Gr. 1400, Bibliothèque Nationale et Universitaire de Strasbourg (Strasbourg National and University Library) at Strasbourg, France.</provenance>
+<provenance>Relabelled  as P. Gr. 2677, Bibliothèque Nationale et Universitaire de Strasbourg (Strasbourg National and University Library) at Strasbourg, France.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. Gr. 2677, Bibliothèque Nationale et Universitaire de Strasbourg (Strasbourg National and University Library), Strasbourg, France.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Schwartz, Jacques, “Fragment d'evangile sur papyrus”, Zeitschrift für Papyrologie und Epigraphik, no. 3, p. 157-158, Rudolf Habelt: Bonn, Deutschland, 1968. OCLC 1466587.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='030732'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'>και</w><w n='110102'><supplied>ο</supplied><unclear>υ</unclear><supplied>κ</supplied></w><w n='110103'><supplied>εκλαυϲατε</supplied></w>
+<milestone unit='verse' n='030733'/><lb/><w n='110202'><unclear>γ</unclear><supplied>αρ</supplied></w><w n='110203'><supplied>ιωαννηϲ</supplied></w><w n='110204'><supplied>ο</supplied></w><lb/><w n='110301'><supplied>βα</supplied>πτιϲτ<supplied>ηϲ</supplied></w><w n='110302'><supplied>μη</supplied></w><lb/><w n='110402'><unclear>α</unclear>ρτον</w><w n='110403'><supplied>μητε</supplied></w><w n='110404'><supplied>πινων</supplied></w><lb/><w n='110502'>και</w><w n='110503'><supplied>λεγετε</supplied></w><lb/><w n='110602'>εχ<unclear>ε</unclear><supplied>ι</supplied></w>
+<milestone unit='verse' n='030734'/><w n='110603'><supplied>εληλυθεν</supplied></w><w n='110604'><supplied>ο</supplied></w><lb/><w n='110702'>του</w><w n='110703'>α<supplied>νθρωπου</supplied></w><lb/><w n='110802'>και</w><w n='110803'><supplied>πινων</supplied></w><w n='110804'><supplied>και</supplied></w><lb/><w n='110902'>ιδ<supplied>ου</supplied></w><note>*</note><gap unit='character' extent='unknown'/><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='030737'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='210101'><supplied>κομι</supplied><unclear>ϲ</unclear>αϲ<unclear>α</unclear></w><lb/><w n='210202'><supplied>μυρου</supplied></w>
+<milestone unit='verse' n='030738'/><w n='210203'>και</w><w n='210204'>ϲ<supplied>ταϲα</supplied></w><lb/><w n='210301'><supplied>οπιϲω</supplied></w><w n='210302'><supplied>παρα</supplied></w><w n='210303'>τουϲ</w><w n='210304'>πο<supplied>δαϲ</supplied></w><lb/><w n='210401'><supplied>αυτου</supplied></w><w n='210402'><supplied>κλαι</supplied><unclear>ου</unclear>ϲα</w><lb/><w n='210502'><supplied>βρεχειν</supplied></w><w n='210503'><unclear>τ</unclear>ου<supplied>ϲ</supplied></w><w n='210504'><unclear>π</unclear><supplied>οδαϲ</supplied></w><lb/><w n='210601'><supplied>αυτου</supplied></w><w n='210602'><supplied>και</supplied></w><w n='210603'><supplied>τ</supplied>αιϲ</w><w n='210604'><unclear>θ</unclear>ρι<supplied>ξιν</supplied></w><lb/><w n='210701'><supplied>τηϲ</supplied></w><w n='210702'><supplied>κεφαληϲ</supplied></w><w n='210703'>αυτ<unclear>η</unclear><supplied>ϲ</supplied></w><lb/><w n='210802'><supplied>κα</supplied><unclear>ι</unclear></w><w n='210803'><unclear>κ</unclear>α<unclear>τ</unclear><supplied>εφιλει</supplied></w><lb/><w n='210901'><supplied>τουϲ</supplied></w><w n='210902'><supplied>ποδαϲ</supplied></w><w n='210903'><supplied>α</supplied>υ<unclear>το</unclear><supplied>υ</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+</ab>
+</body>
+</text>
+</TEI>

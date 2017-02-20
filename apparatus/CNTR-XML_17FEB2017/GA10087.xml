@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>GA10087</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>GA P87</msName></msIdentifier>
+<msContents>
+<summary>Scripture by various authors known as New Testament [p]</summary>
+<msItem><p>Phmn. 1:13-15, 24-25</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 5x3.6 (20x15), 1 extant leaf(s), 1 column(s), 8 (32) line(s) per column, 20-24 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>175-224 Original scribe with reformed documentary hand (5 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Obtained  by Universität zu Köln, Institut für Altertumskunde (University of Cologne, Institute of Archaeology) at Köln, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>Inv. Nr. 12, Universität zu Köln, Institut für Altertumskunde (University of Cologne, Institute of Archaeology), Köln, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Kramer, Bärbel, et al., “Philemonbrief 13-15; 24-25”, Kölner Papyri : (P. Köln), vol. 4, no. 170, p. 28-31, Westdeutscher Verlag: Opladen, Deutschland, 1982. OCLC 2874812.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='180113'/><pb/><gap unit='line' extent='unknown'/><gap unit='character' extent='unknown'/><note>*</note><w n='110101'><supplied>ι</supplied>να</w><w n='110102'><unclear>υ</unclear>περ</w><w n='110103'>ϲου</w><w n='110104'>μ<supplied>οι</supplied></w><lb/><w n='110202'><supplied>εν</supplied></w><w n='110203'>τοιϲ</w><w n='110204'>δεϲμ<supplied>οιϲ</supplied></w><w n='110205'><supplied>του</supplied></w><lb/>
+<milestone unit='verse' n='180114'/><w n='110302'>χωριϲ</w><w n='110303'>δε</w><w n='110304'>τη<supplied>ϲ</supplied></w><w n='110305'><supplied>ϲηϲ</supplied></w><lb/><w n='110402'><supplied>ο</supplied>υδεν</w><w n='110403'>ηθελη<supplied>ϲα</supplied></w><lb/><w n='110502'><supplied>ιν</supplied><unclear>α</unclear></w><w n='110503'>μη</w><w n='110504'>ωϲ</w><w n='110505'>κατα</w><w n='110506'><supplied>αναγκην</supplied></w><lb/><w n='110601'><supplied>το</supplied></w><w n='110602'><supplied>αγα</supplied>θον</w><w n='110603'>ϲου</w><w n='110604'>η</w><w n='110605'>αλ<supplied>λα</supplied></w><w n='110606'><supplied>κατα</supplied></w><w n='110607'><supplied>εκουϲιον</supplied></w>
+<milestone unit='verse' n='180115'/><lb/><w n='110701'><supplied>ταχα</supplied></w><w n='110702'><supplied>γαρ</supplied></w><w n='110703'>δια</w><w n='110704'>τουτ<supplied>ο</supplied></w><w n='110705'><supplied>εχωριϲθη</supplied></w><lb/><w n='110801'><supplied>προϲ</supplied></w><w n='110802'><supplied>ωρ</supplied>αν</w><w n='110803'>ι<supplied>να</supplied></w><w n='110804'><supplied>αιωνιον</supplied></w><w n='110805'><supplied>αυτον</supplied></w><note>*</note><gap unit='line' extent='unknown'/>
+<milestone unit='verse' n='180124'/><pb/><gap unit='line' extent='unknown'/><note>*</note><w n='210101'><supplied>λουκ</supplied>αϲ</w><w n='210102'>οι</w><w n='210103'>ϲυνερ<unclear>γ</unclear><supplied>οι</supplied></w><w n='210104'><supplied>μου</supplied></w>
+<milestone unit='verse' n='180125'/><w n='210105'><supplied>η</supplied></w><lb/><w n='210202'><supplied>μ</supplied>εθ</w><w n='210203'>υμων</w><note>*</note>
+</ab>
+</body>
+</text>
+</TEI>

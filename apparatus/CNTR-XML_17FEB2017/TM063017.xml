@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE TEI>
+<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:lang='grc'>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TM063017</title>
+</titleStmt>
+<publicationStmt>
+<publisher><name type='org'>Center for New Testament Restoration</name></publisher>
+<date when='2016-04-27'>April 27, 2016</date>
+<availability>
+<licence target='http://creativecommons.org/licenses/by-nc-nd/4.0/'>
+<p>Copyright © 2016 by Alan Bunning under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier><msName>TM 63017</msName></msIdentifier>
+<msContents>
+<summary>Amulet</summary>
+<msItem><p>Matt. 14:30-31, 33</p></msItem>
+</msContents>
+<physDesc>
+<objectDesc><p>Papyrus, 15.3x8, 1 extant leaf(s), 1 column(s), 16 (?) line(s) per column, 11-17 characters per line, written in Greek.</p></objectDesc>
+<handDesc>
+<handNote>300-699 Original scribe (3 verses).</handNote>
+</handDesc>
+</physDesc>
+<history>
+<provenance>Purchased 1910 by Friedrich Zucher.</provenance>
+<provenance>Transferred 1910 to Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung at Berlin, Deutschland.</provenance>
+</history>
+<msPart><msIdentifier><msName>P. 11858, Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, Berlin, Deutschland.</msName></msIdentifier></msPart>
+</msDesc>
+<bibl>Leitzmann, Hans, “Ein christliches Amulett auf Papyrus”, Aegyptus : Rivista italiana di egittologia e di papirologia, vol. 13, no. 1, p. 225-228, Gemeli: Milano, Italia, 1933. OCLC 819017100.</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<ab>
+<milestone unit='verse' n='011430'/><pb/><gap unit='line' extent='unknown'/><gap unit='line' quantity='1'/><note>*</note><w n='110201'>ανεμον</w><w n='110202'>και</w><lb/><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='011431'/><gap unit='line' quantity='2'/><gap unit='character' extent='unknown'/><note>*</note><w n='110601'>και</w><lb/><w n='110701'>ε<unclear>κτιν</unclear>αϲ</w><w n='110702'>την</w><w n='110703'>χιραν</w><lb/><w n='110801'>αυτω</w><w n='110802'>επελαβετο</w><lb/><w n='110901'>και</w><note>*</note><gap unit='character' extent='unknown'/>
+<milestone unit='verse' n='011433'/><gap unit='line' quantity='1'/><note>*</note><w n='111101'>υιε</w><w n='111102'><abbr type='nominasacra'>θυ</abbr></w><gap unit='character' extent='unknown'/><gap unit='line' quantity='6'/>
+</ab>
+</body>
+</text>
+</TEI>
