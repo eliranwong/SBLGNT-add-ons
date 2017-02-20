@@ -11,7 +11,7 @@ MyBible modules created by Eliran Wong<br />
 <b>Credits: </b><br />
 - Asia Bible Society provides syntax trees data; free for non-commercial use<br />
 - Jonathan Robie provides syntax trees data in xml format and advises on use of the data<br />
-- Dirk Roorda provides Greek syntax trees data into text-fabric formats and advises on use of the data.<br />
+- Dirk Roorda provides Greek syntax trees data in text-fabric formats and advises on use of the data.<br />
 - James Tauber provides data on morphological analysis adivse on use of the data<br />
 - Denys Dolganenko and Oleg Safonov are developers of MyBible app.  They paid tremendous effort to develop this great app to bless the public.  They gives helpful support for module creation.<br />
 <br />
