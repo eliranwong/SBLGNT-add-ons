@@ -1162,7 +1162,7 @@ s/『G1160』/birthday/g
 s/『G1161』/birth/g
 s/『G1162』/birth/g
 s/『G1163』/fruit/g
-s/『G1164』/to become the father of/g
+s/『G1164』/to beget/g
 s/『G1165』/offspring/g
 s/『G1166』/Gennesaret/g
 s/『G1167』/birth/g
