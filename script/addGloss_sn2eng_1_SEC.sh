@@ -1622,7 +1622,7 @@ s/『G1620』/to put out a child/g
 s/『G1621』/To shake off/g
 s/『G1622』/without/g
 s/『G1623』/Sixth/g
-s/『G1624』//g
+s/『G1624』/To turn or twist out/g
 s/『G1625』/To nourish/g
 s/『G1626』/an untimely birth/g
 s/『G1627』/To bring out/g
@@ -1735,7 +1735,7 @@ s/『G1733』/Eleven/g
 s/『G1734』/Eleventh/g
 s/『G1735』/To allow/g
 s/『G1736』/To be at home/g
-s/『G1737』//g
+s/『G1737』/To put on/g
 s/『G1738』/Righteous/g
 s/『G1739』/The material of a building/g
 s/『G1740』/To glorify/g
@@ -2850,7 +2850,7 @@ s/『G2849』/To chastise/g
 s/『G2850』/Flattery/g
 s/『G2851』/Chastisement/g
 s/『G2852』/To strike with the fist/g
-s/『G2853』//g
+s/『G2853』/To glue/g
 s/『G2854』/Eye-salve/g
 s/『G2855』/A money-changer/g
 s/『G2856』/to cut short/g
