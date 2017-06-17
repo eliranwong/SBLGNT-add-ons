@@ -1,4 +1,4 @@
-# SBLGNT-add-ons
+# SBLGNT-add-ons [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
 add-ons of SBLGNT (Greek New Testament)
 
 This repository contains data built for the text of SBLGNT.
